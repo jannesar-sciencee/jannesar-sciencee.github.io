@@ -34,10 +34,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "b72d08df77e5dc32aece80400a91d3b4156123792edc6024f89111368b43ee81"
+      "sha256": "a16fa5bd673bbc8d7c4969ca535e2c365ff00dd1dd3f38d7b0ddab2bb838436c"
     },
     {
       "id": "000002",
@@ -67,10 +69,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "1efbbb7e06617a999dc8253b397123bd0b8582001000f1090e3ace48a6586fc7"
+      "sha256": "0e63054b68d27d1b37ce30065e793263a83f1321ab8f581c9fa85a3ab9143028"
     },
     {
       "id": "000003",
@@ -100,10 +104,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "8e0cab67cfa1d694abc1583f8d9f355b89c8619f6a6aef2b8ef3a4e3d540fb24"
+      "sha256": "98e076e8dc8206823cb3eb3b3ac14f4e647016942992ac24c114bfe84e90c523"
     },
     {
       "id": "000004",
@@ -133,10 +139,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "d980006d391bf9348e1275db9070d06bb0f0e6e82b129e28d368ea704f03c926"
+      "sha256": "2398233c4cb10b18687306e5de50de7e988bad4111d002fb43830b3f1f743661"
     },
     {
       "id": "000005",
@@ -166,10 +174,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "84a5a0d5de3e7a31688887a42dbfd58f5302de103bf4af6ac2a091c9ba92bee5"
+      "sha256": "c795defb8913a4b1154e7f4b528134c5102e79a39da3b7811f06e355b64be3d1"
     },
     {
       "id": "000006",
@@ -199,10 +209,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "fa0f98e230360db71cd42a9403b2f3395e67b047e0bc4b802d885100583625f7"
+      "sha256": "8cf4bc95f7aec6c5a8e388c0e96a9b231da973996b8fdf60b21bd6fc281238b3"
     },
     {
       "id": "000007",
@@ -232,10 +244,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "22fe00a2127fb420631af8b1b16a1ee2b2389c262c0a92258a7eb543adb78f0f"
+      "sha256": "5f327ddb00c4539f0931d60be5bb71f9c7cd620293392f62957f72b8dde091b1"
     },
     {
       "id": "000008",
@@ -265,10 +279,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "4cecf2a26e239f0dd8cb140e0fa5755ac6390f522f2d5693e725bd23d3f017b6"
+      "sha256": "d326b4eb79e98e95d5d4e69bf4a2f8d73971d37795c6e380242c47eedf9213e1"
     },
     {
       "id": "000009",
@@ -298,10 +314,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "5e01084031c32e699921daf3adae67d418917f5e6a1fc791401e0b564043e866"
+      "sha256": "1ec98922c37c5a344a1d57d4ea9de681bdbc6d9e1dfcd607c54fdcd8e68fda21"
     },
     {
       "id": "000010",
@@ -331,10 +349,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "f9eea9a0656077069e94909fdf742c07b002dd76af3353500ecef8bc67252a79"
+      "sha256": "3d747ff66e619d3f062f56480db67479bbb18e85f931273e7b91e7eade0ce2ba"
     },
     {
       "id": "000011",
@@ -364,10 +384,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "2b6ea4b984fa6e58150f2fc7a6d8833400dbbf5be477ba017a62a6e3fb33b6a6"
+      "sha256": "5fdca774e01c07d80a9650d577d6933787770295a840f7023b57f505c07bc285"
     },
     {
       "id": "000012",
@@ -397,10 +419,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "022cf993fa79fc062a3a0e034248d27a2a6562cde00805724fda34532ca940fb"
+      "sha256": "fb9409a0247f185be37c455a7d4bfd14e3810e3ca598a07c1116e2444c583295"
     },
     {
       "id": "000013",
@@ -430,10 +454,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "37d8c69d1b4516ef8fe2638c1e2fc71dde79122627532a5d6691661c54590a17"
+      "sha256": "1bbc742545b82124344286cff96ff4d7f09acae1d1fd3a342be67ecda55256b8"
     },
     {
       "id": "000014",
@@ -463,10 +489,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "081755265898c9c1ac78f8bc5f9154dbed82a5ef213bb741752e8d1a3c062044"
+      "sha256": "1529a2053b01c8a28b2032d7ce8bd398870ff4e0e86373ab420baa6b837acf9d"
     },
     {
       "id": "000015",
@@ -496,10 +524,12 @@
           "related_links": true,
           "sources": true,
           "depth": true,
-          "central_author_id": true
+          "central_author_id": true,
+          "trailing_slash": true,
+          "no_broken_internal_links": true
         }
       },
-      "sha256": "809d5cbeb92da758070d6ac11f1e5da9c0e927fd62ed1fbbd38ac0fb86ce6a58"
+      "sha256": "5b7cb648f3d4f5bbc8641b600c727d77a199d20ac86ca190449fe37cf83e36b6"
     },
     {
       "id": "000016",
