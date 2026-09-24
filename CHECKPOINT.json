@@ -1,0 +1,11 @@
+{
+  "project": "JANNESAR SCIENCE",
+  "volume": "001",
+  "target": 1000,
+  "completed": 260,
+  "progress_percent": 26.0,
+  "last_completed_id": "000260",
+  "next_id": "000261",
+  "github_commit": "56f666f18e4fd1e5e11ef02505d6e7cd2919e0e8",
+  "manifest_sha256": "7f2a991ccfcbf38ae653b9b616bb14488216271f53fe5d9a39cd903c7c251e3c"
+}

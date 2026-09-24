@@ -1,0 +1,1000 @@
+{
+  "volume": "001",
+  "completed": 260,
+  "target": 1000,
+  "progress_percent": 26.0,
+  "last_completed_id": "000260",
+  "next_id": "000261",
+  "articles": [
+    {
+      "id": "000001",
+      "title": "مبانی مکانیک نیوتنی، دامنه اعتبار و مرزهای کاربرد",
+      "slug": "mabani-mekanik-newtoni-damane-etebar-va-mahdoodiat-ha",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000001-mabani-mekanik-newtoni-damane-etebar-va-mahdoodiat-ha/",
+      "word_count": 907,
+      "sources": [
+        "https://ocw.mit.edu/ans7870/8/8.01/f16/readings/MIT8_01F16_TableOfContents.pdf",
+        "https://openstax.org/books/university-physics-volume-1/pages/5-1-forces",
+        "https://physics.nist.gov/cuu/Constants/Value/c.html",
+        "https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "53ec718379ce73904134eaca4085ea9c2322fadfd721efdcb666c553094a22bf"
+    },
+    {
+      "id": "000002",
+      "title": "مکانیک لاگرانژی: اصل کنش، مختصات تعمیم‌یافته و معادلات حرکت",
+      "slug": "mekanik-lagrange-asl-konsh-va-mokhtasat-taamim-yafte",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000002-mekanik-lagrange-asl-konsh-va-mokhtasat-taamim-yafte/",
+      "word_count": 820,
+      "sources": [
+        "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/pages/lagrange-equations/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/8-223-classical-mechanics-ii-january-iap-2017/pages/readings/",
+        "https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "7e7140138d4efa48db51fd51b666c56d66927404084dd3105d0323ac9bc9b726"
+    },
+    {
+      "id": "000003",
+      "title": "تقارن و قوانین پایستگی: قضیه نوتر از مکانیک کلاسیک تا نظریه میدان",
+      "slug": "tagharon-va-ghavanin-payeestegi-ghazie-noether",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000003-tagharon-va-ghavanin-payeestegi-ghazie-noether/",
+      "word_count": 900,
+      "sources": [
+        "https://arxiv.org/abs/2004.09254",
+        "https://journals.aps.org/pr/abstract/10.1103/PhysRev.145.1011",
+        "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.125005",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/lecture-notes/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "5b1eaa6e6ff35d2acdaeffc72acceead543acbe73d2b192c18b91404d88bd914"
+    },
+    {
+      "id": "000004",
+      "title": "مکانیک محیط‌های پیوسته: تنش، کرنش و روابط ساختاری",
+      "slug": "mekanik-mohit-peyvaste-tanesh-konesh-va-ravabet-sakhtari",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000004-mekanik-mohit-peyvaste-tanesh-konesh-va-ravabet-sakhtari/",
+      "word_count": 816,
+      "sources": [
+        "https://ocw.mit.edu/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/1-050-engineering-mechanics-i-fall-2007/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/2-080j-structural-mechanics-fall-2013/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011/resources/mit2_094s11_lec11/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "1508de16b1b708c3e7ac9bc2f6800aeb3be9213b388b50125f34020681d0acfb"
+    },
+    {
+      "id": "000005",
+      "title": "دینامیک غیرخطی و آشوب: حساسیت به شرایط اولیه، جاذب‌ها و پیش‌بینی‌پذیری",
+      "slug": "dinamik-gheyrkhati-ashob-hassasiat-be-sharayet-ebtedayi",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000005-dinamik-gheyrkhati-ashob-hassasiat-be-sharayet-ebtedayi/",
+      "word_count": 897,
+      "sources": [
+        "https://ocw.mit.edu/courses/12-006j-nonlinear-dynamics-chaos-fall-2022/pages/lecture-notes/",
+        "https://journals.ametsoc.org/view/journals/atsc/20/2/1520-0469_1963_020_0130_dnf_2_0_co_2.xml",
+        "https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "d8db36556283e684253a8b4b637d4fffe8770baf58a8a535e7ac802f2b655fe0"
+    },
+    {
+      "id": "000006",
+      "title": "مکانیک همیلتونی: فضای فاز، تابع همیلتون و تحول زمانی",
+      "slug": "mekanik-hamiltoni-fazaye-faz-tabe-hamilton-va-tahavol-zamani",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000006-mekanik-hamiltoni-fazaye-faz-tabe-hamilton-va-tahavol-zamani/",
+      "word_count": 1327,
+      "sources": [
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/pages/readings/",
+        "https://ocw.mit.edu/courses/8-223-classical-mechanics-ii-january-iap-2017/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/resources/mit8_09f14_chapter_4/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "c5169e26d4700ed7b7c68edc055d286e3378625ff28d1d8e1d143bc60ce88b18"
+    },
+    {
+      "id": "000007",
+      "title": "تبدیلات کانونیک و هندسه سمپلتیک در مکانیک کلاسیک",
+      "slug": "tabdilat-kanonik-va-handese-symplectic-dar-mekanik-classik",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000007-tabdilat-kanonik-va-handese-symplectic-dar-mekanik-classik/",
+      "word_count": 1181,
+      "sources": [
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/resources/mit8_09f14_chapter_4/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/d9bac33f6c60b304dc0398e99b327102_MIT8_09F14_full.pdf",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/a55cb49d8706f671ccfdac7c6937cddc_MIT8_09F14_pset5.pdf",
+        "https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/pages/readings/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "e278a5a9f98327110e569a7d2a58c9b4bebb4947c71543f4f407fc19356e4d30"
+    },
+    {
+      "id": "000008",
+      "title": "براکت پواسون، جبر کمیت‌های دینامیکی و تحول در فضای فاز",
+      "slug": "braket-poisson-jabr-komiyat-dinamik-va-tahavol-faz",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000008-braket-poisson-jabr-komiyat-dinamik-va-tahavol-faz/",
+      "word_count": 1133,
+      "sources": [
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/d9bac33f6c60b304dc0398e99b327102_MIT8_09F14_full.pdf",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/resources/mit8_09f14_chapter_4/",
+        "https://ocw.mit.edu/courses/8-223-classical-mechanics-ii-january-iap-2017/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/pages/readings/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "acb459bf073a77b9f53732fe087ea816e4617997eefe4dc6cead1fbb547af0a4"
+    },
+    {
+      "id": "000009",
+      "title": "معادله همیلتون–ژاکوبی و متغیرهای کنش–زاویه",
+      "slug": "moadele-hamilton-jacobi-va-motaghayer-haye-konsh-zavieh",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000009-moadele-hamilton-jacobi-va-motaghayer-haye-konsh-zavieh/",
+      "word_count": 1119,
+      "sources": [
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/resources/mit8_09f14_chapter_4/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/assignments/",
+        "https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/pages/readings/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/syllabus/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "63ce296872e87bb3034f5e958b76f6a8df924aeab5f626f231a0d3088553522d"
+    },
+    {
+      "id": "000010",
+      "title": "حرکت تحت نیروی مرکزی: پتانسیل مؤثر، مدارها و قوانین کپلر",
+      "slug": "harekat-niroye-markazi-potansiel-moasser-madarha-va-ghavanin-kepler",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000010-harekat-niroye-markazi-potansiel-moasser-madarha-va-ghavanin-kepler/",
+      "word_count": 1179,
+      "sources": [
+        "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/8-223-classical-mechanics-ii-january-iap-2017/pages/lecture-notes/",
+        "https://openstax.org/books/university-physics-volume-1/pages/preface",
+        "https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/pages/readings/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "8c11874ad67eeef5fd5a7e6b50e04d57b84c097e45146fc34bc9ee024c5eb485"
+    },
+    {
+      "id": "000011",
+      "title": "چارچوب‌های مرجع شتاب‌دار و چرخان: نیروی کوریولیس و گریز از مرکز",
+      "slug": "charchub-marja-shetabdar-charkhan-coriolis-geriz-az-markaz",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000011-charchub-marja-shetabdar-charkhan-coriolis-geriz-az-markaz/",
+      "word_count": 1135,
+      "sources": [
+        "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/pages/readings/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/lecture-notes/",
+        "https://openstax.org/books/university-physics-volume-1/pages/preface"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "d9904f842112dd66297e4f307e74b3250b8c0c03b498d0b709ff76efdd9a799d"
+    },
+    {
+      "id": "000012",
+      "title": "دینامیک جسم صلب: تانسور لختی، محورهای اصلی و معادلات اویلر",
+      "slug": "dinamik-jesm-solb-tensor-lakhti-mehvar-asli-moadele-euler",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000012-dinamik-jesm-solb-tensor-lakhti-mehvar-asli-moadele-euler/",
+      "word_count": 1122,
+      "sources": [
+        "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/pages/readings/",
+        "https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/pages/readings/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "f220b0bf886f87b48f19d16d7c2981941c7076242befffecb57b681deecafcc5"
+    },
+    {
+      "id": "000013",
+      "title": "ژیروسکوپ، پیشایس و نوتاسیون: چرا محور چرخان جهت خود را حفظ می‌کند",
+      "slug": "gyroscope-precession-nutation-mehvar-charkhan",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000013-gyroscope-precession-nutation-mehvar-charkhan/",
+      "word_count": 1102,
+      "sources": [
+        "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/pages/readings/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/lecture-notes/",
+        "https://openstax.org/books/university-physics-volume-1/pages/preface"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "564a6ac11c9264cc387ffaa2e14dd7e5aca54330cd2da6079ea3fae35a74d114"
+    },
+    {
+      "id": "000014",
+      "title": "نوسانگر خطی، میرایی، تحریک اجباری و تشدید",
+      "slug": "nosangar-khati-mirayi-tahrik-ejbari-tashdid",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000014-nosangar-khati-mirayi-tahrik-ejbari-tashdid/",
+      "word_count": 1102,
+      "sources": [
+        "https://ocw.mit.edu/courses/8-223-classical-mechanics-ii-january-iap-2017/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/lecture-notes/",
+        "https://openstax.org/books/university-physics-volume-1/pages/preface"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "4741a5976e8f65189cc72638514da38b65bac8430d3ab89091afcd07773a79b1"
+    },
+    {
+      "id": "000015",
+      "title": "نوسان‌های کوپل‌شده و مدهای نرمال: از دو جرم تا سازه‌های پیچیده",
+      "slug": "nosan-haye-coupled-modhaye-normal",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000015-nosan-haye-coupled-modhaye-normal/",
+      "word_count": 1097,
+      "sources": [
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/resources/lecture-10/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/download/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "314f8d7b713e2732e9bfe4668020ec4b8f3bce0e690121d87d23f14607705f33"
+    },
+    {
+      "id": "000016",
+      "title": "موج‌های مکانیکی: سرعت فاز، سرعت گروه و پاشندگی",
+      "slug": "moj-haye-mekaniki-sorat-faz-goruh-pashandegi",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000016-moj-haye-mekaniki-sorat-faz-goruh-pashandegi/",
+      "word_count": 1100,
+      "sources": [
+        "https://openstax.org/books/university-physics-volume-1/pages/16-introduction",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/download/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/syllabus/",
+        "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/lecture-notes/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "b2fa092c751f889b5bf5922ad3d8fca62c6ea968bcbcac09f546c1a69146f8a4"
+    },
+    {
+      "id": "000017",
+      "title": "ضربه، تکانه و برخورد: از پایستگی تا ضریب بازگشت",
+      "slug": "zarbe-takane-barkhord-payestegi-zarib-bazgasht",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000017-zarbe-takane-barkhord-payestegi-zarib-bazgasht/",
+      "word_count": 1119,
+      "sources": [
+        "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/lecture-notes/",
+        "https://openstax.org/books/university-physics-volume-1/pages/preface",
+        "https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/pages/readings/",
+        "https://ocw.mit.edu/courses/8-223-classical-mechanics-ii-january-iap-2017/pages/lecture-notes/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "fdfd5beca10535f71f0d3b12a6197ce1ff09860b7bdbac8bf3d0d7fe42546c1a"
+    },
+    {
+      "id": "000018",
+      "title": "سامانه‌های جرم‌متغیر و معادله موشک: چرا F=ma به‌تنهایی کافی نیست",
+      "slug": "samaneye-jerm-motaghayer-moadele-moshak",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000018-samaneye-jerm-motaghayer-moadele-moshak/",
+      "word_count": 1135,
+      "sources": [
+        "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/ideal-rocket-equation/",
+        "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/rocket-thrust-equation/",
+        "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/mass-ratios/",
+        "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/lecture-notes/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "0ed66888f7f6a0a9392d5ccedd93c85f3989c5c9b6395eff86709fe04ecc035b"
+    },
+    {
+      "id": "000019",
+      "title": "پایداری خطی و روش لیاپانوف در سامانه‌های دینامیکی",
+      "slug": "paydari-khati-ravesh-lyapunov-samaneye-dinamik",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000019-paydari-khati-ravesh-lyapunov-samaneye-dinamik/",
+      "word_count": 1097,
+      "sources": [
+        "https://ocw.mit.edu/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/pages/readings/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/download/",
+        "https://ocw.mit.edu/courses/16-07-dynamics-fall-2009/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/assignments/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "9c87747249ddbaedef16e488d1333495e4b97b2d0308a91250b8e2acedbd5f74"
+    },
+    {
+      "id": "000020",
+      "title": "تحلیل ابعادی و تشابه دینامیکی: از قضیه باکینگهام π تا مدل‌سازی آزمایشگاهی",
+      "slug": "tahlil-abadi-tashaboh-dinamiki-buckingham-pi",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000020-tahlil-abadi-tashaboh-dinamiki-buckingham-pi/",
+      "word_count": 1133,
+      "sources": [
+        "https://ocw.mit.edu/courses/2-25-advanced-fluid-mechanics-fall-2013/pages/dimensional-analysis/",
+        "https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b0d2168f3fc45735017ff56c05bd9a0c_f04_fall.pdf",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/assignments/",
+        "https://ocw.mit.edu/courses/2-25-advanced-fluid-mechanics-fall-2013/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "73e1cdb50d5c7bae18b86c7afc2ad9fe0d90455265b3f5264cdf8f07559fa90a"
+    },
+    {
+      "id": "000021",
+      "title": "معادلات اویلر و ناویه–استوکس: بنیان مکانیک سیالات پیوسته",
+      "slug": "moadele-euler-navier-stokes-bonyan-mekanik-sayalat",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000021-moadele-euler-navier-stokes-bonyan-mekanik-sayalat/",
+      "word_count": 1195,
+      "sources": [
+        "https://ocw.mit.edu/courses/2-25-advanced-fluid-mechanics-fall-2013/",
+        "https://ocw.mit.edu/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/pages/fluid-mechanics/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "de2312b8932c51bf4fb9b7dd7a3963c3883bf365a979666d1be2585301f75d2a"
+    },
+    {
+      "id": "000022",
+      "title": "عدد رینولدز و گذار از جریان آرام به آشفته",
+      "slug": "adad-reynolds-gozar-jaryan-aram-be-ashofte",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000022-adad-reynolds-gozar-jaryan-aram-be-ashofte/",
+      "word_count": 1107,
+      "sources": [
+        "https://ocw.mit.edu/courses/2-25-advanced-fluid-mechanics-fall-2013/",
+        "https://ocw.mit.edu/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/pages/lecture-notes/",
+        "https://www.ocw.mit.edu/courses/2-20-marine-hydrodynamics-13-021-spring-2005/pages/syllabus/",
+        "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/syllabus/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "43ed9d5b650249f3a418102f06bddd957ef11d1a6dc879448065d49a7c9a0a4d"
+    },
+    {
+      "id": "000023",
+      "title": "لایه مرزی، جدایش جریان و منشأ بخش بزرگی از درگ",
+      "slug": "laye-marzi-jodai-jaryan-drag",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000023-laye-marzi-jodai-jaryan-drag/",
+      "word_count": 1130,
+      "sources": [
+        "https://ocw.mit.edu/courses/2-25-advanced-fluid-mechanics-fall-2013/pages/boundary-layers-separation-and-drag/",
+        "https://ocw.mit.edu/courses/2-25-advanced-fluid-mechanics-fall-2013/pages/syllabus/",
+        "https://ocw.mit.edu/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/pages/lecture-notes/",
+        "https://www.ocw.mit.edu/courses/2-20-marine-hydrodynamics-13-021-spring-2005/pages/syllabus/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "a6ecd029225c85239965143122117101ab828d24d4a5af68c5788fb3e2765c51"
+    },
+    {
+      "id": "000024",
+      "title": "گردابه‌مندی و گردش: از قضیه کلوین تا تولید ورتیسیته",
+      "slug": "gardabeh-mandi-gardesh-ghazie-kelvin-vorticity",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000024-gardabeh-mandi-gardesh-ghazie-kelvin-vorticity/",
+      "word_count": 1084,
+      "sources": [
+        "https://ocw.mit.edu/courses/2-25-advanced-fluid-mechanics-fall-2013/pages/vorticity-and-circulation/",
+        "https://ocw.mit.edu/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/pages/readings/",
+        "https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/pages/fluid-mechanics/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "c35a33e9aa6168ff8caa8e35920fe0c900f341cc6afd9826ccd846f133d78ebf"
+    },
+    {
+      "id": "000025",
+      "title": "آشفتگی سیال: آبشار انرژی، تنش رینولدز و مسئله مدل‌سازی",
+      "slug": "ashoftegi-sayal-abshar-energy-tanesh-reynolds-modelsazi",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000025-ashoftegi-sayal-abshar-energy-tanesh-reynolds-modelsazi/",
+      "word_count": 1104,
+      "sources": [
+        "https://ocw.mit.edu/courses/2-25-advanced-fluid-mechanics-fall-2013/",
+        "https://ocw.mit.edu/courses/2-25-advanced-fluid-mechanics-fall-2013/pages/syllabus/",
+        "https://www.ocw.mit.edu/courses/2-20-marine-hydrodynamics-13-021-spring-2005/pages/syllabus/",
+        "https://ocw.mit.edu/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/pages/lecture-notes/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "55bb96c6b6f333c3a3dbd9e367b7860398d4600695379d50c2cc5afdfbae9e80"
+    },
+    {
+      "id": "000026",
+      "title": "الاستیسیته خطی: تنش، کرنش، قانون هوک و محدودیت‌های آن",
+      "slug": "elasticity-khati-tanesh-konesh-ghanoon-hooke",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000026-elasticity-khati-tanesh-konesh-ghanoon-hooke/",
+      "word_count": 1084,
+      "sources": [
+        "https://ocw.mit.edu/courses/3-032-mechanical-behavior-of-materials-fall-2007/pages/lecture-notes/",
+        "https://www.ocw.mit.edu/courses/2-002-mechanics-and-materials-ii-spring-2004/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/3-032-mechanical-behavior-of-materials-fall-2007/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "f725a7dce8dcca16023eac75506fbdf718161b210fc2ad5ef70b0f91cfb8f586"
+    },
+    {
+      "id": "000027",
+      "title": "پلاستیسیته و تسلیم: از نابجایی‌ها تا معیارهای فون‌مایزز و ترسکا",
+      "slug": "plasticity-taslim-nabajayi-von-mises-tresca",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000027-plasticity-taslim-nabajayi-von-mises-tresca/",
+      "word_count": 1075,
+      "sources": [
+        "https://ocw.mit.edu/courses/3-032-mechanical-behavior-of-materials-fall-2007/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/pages/lecture-notes/",
+        "https://www.ocw.mit.edu/courses/2-002-mechanics-and-materials-ii-spring-2004/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/3-22-mechanical-behavior-of-materials-spring-2008/pages/syllabus/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "174c45f2603bd4379f6c7dbabdb593b8aaab646a17f7277168e631c6f158db48"
+    },
+    {
+      "id": "000028",
+      "title": "مکانیک شکست: معیار گریفیث، شدت تنش و چقرمگی شکست",
+      "slug": "mekanik-shekast-griffith-shiddat-tanesh-choghromegi",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000028-mekanik-shekast-griffith-shiddat-tanesh-choghromegi/",
+      "word_count": 1087,
+      "sources": [
+        "https://www.ocw.mit.edu/courses/3-35-fracture-and-fatigue-fall-2003/",
+        "https://ocw.mit.edu/courses/3-35-fracture-and-fatigue-fall-2003/pages/calendar/",
+        "https://ocw.mit.edu/courses/3-032-mechanical-behavior-of-materials-fall-2007/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/3-064-polymer-engineering-fall-2003/pages/lecture-notes/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "1a9547ce1a047ad1a2f93f4803243a4b2098cd466dbfbc61b939f29e210d2f11"
+    },
+    {
+      "id": "000029",
+      "title": "خستگی مواد: منحنی S–N، آغاز ترک و رشد چرخه‌ای",
+      "slug": "khastagi-mawad-s-n-agaz-tark-roshd-charkhei",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000029-khastagi-mawad-s-n-agaz-tark-roshd-charkhei/",
+      "word_count": 1080,
+      "sources": [
+        "https://www.ocw.mit.edu/courses/3-35-fracture-and-fatigue-fall-2003/",
+        "https://ocw.mit.edu/courses/3-35-fracture-and-fatigue-fall-2003/pages/calendar/",
+        "https://ocw.mit.edu/courses/3-032-mechanical-behavior-of-materials-fall-2007/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/3-22-mechanical-behavior-of-materials-spring-2008/pages/syllabus/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "ff8fe1a9cb3ab751caebcc25bf2bc73676392ba14988b2f2e5797e52f6f5c7a0"
+    },
+    {
+      "id": "000030",
+      "title": "تریولوژی: اصطکاک، سایش و روانکاری از مقیاس سطح تا طراحی ماشین",
+      "slug": "tribology-estekak-sayesh-ravankari-tarahi-mashin",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000030-tribology-estekak-sayesh-ravankari-tarahi-mashin/",
+      "word_count": 1105,
+      "sources": [
+        "https://ocw.mit.edu/courses/2-800-tribology-fall-2004/",
+        "https://ocw.mit.edu/courses/2-800-tribology-fall-2004/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/2-800-tribology-fall-2004/pages/readings/",
+        "https://ocw.mit.edu/courses/3-032-mechanical-behavior-of-materials-fall-2007/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "2791f44fd69c4464cfa0dc6160e50d0697901dfef8031277d833e271a805a7b5"
+    },
+    {
+      "id": "000031",
+      "title": "ویسکوالاستیسیته: خزش، آسودگی تنش و اصل برهم‌نهی زمانی",
+      "slug": "viscoelasticity-khizesh-asudegi-tanesh-barhamnahayi-zamani",
+      "url": "https://jannesar-sciencee.github.io/articles/000/000031-viscoelasticity-khizesh-asudegi-tanesh-barhamnahayi-zamani/",
+      "word_count": 1404,
+      "sources": [
+        "https://ocw.mit.edu/courses/3-064-polymer-engineering-fall-2003/pages/lecture-notes/",
+        "https://ocw.mit.edu/courses/3-91-mechanical-behavior-of-plastics-spring-2007/3828997b92ebb6cb70e640826be1c5f2_19_visco.pdf",
+        "https://ocw.mit.edu/courses/3-032-mechanical-behavior-of-materials-fall-2007/",
+        "https://ocw.mit.edu/courses/3-22-mechanical-behavior-of-materials-spring-2008/"
+      ],
+      "validation": {
+        "scientific": "pass",
+        "technical": "pass",
+        "checks": {
+          "exact_title_h1": true,
+          "verification": true,
+          "canonical": true,
+          "og_url": true,
+          "favicon": true,
+          "hero": true,
+          "all_author_variants": true,
+          "article_jsonld": true,
+          "breadcrumb_jsonld": true,
+          "related_links": true,
+          "sources": true,
+          "depth": true
+        }
+      },
+      "sha256": "1b56e5026186f954e1d7cf54c3e5b7cafc99f4580626973f40a086ca79b90208"
+    },
