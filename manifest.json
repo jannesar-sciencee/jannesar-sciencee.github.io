@@ -2,7 +2,7 @@
   "volume": "001",
   "completed": 260,
   "target": 1000,
-  "progress_percent": 26.0,
+  "progress_percent": 26,
   "last_completed_id": "000260",
   "next_id": "000261",
   "articles": [
@@ -43,7 +43,7 @@
       "title": "مکانیک لاگرانژی: اصل کنش، مختصات تعمیم‌یافته و معادلات حرکت",
       "slug": "mekanik-lagrange-asl-konsh-va-mokhtasat-taamim-yafte",
       "url": "https://jannesar-sciencee.github.io/articles/000/000002-mekanik-lagrange-asl-konsh-va-mokhtasat-taamim-yafte/",
-      "word_count": 820,
+      "word_count": 1098,
       "sources": [
         "https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/pages/lagrange-equations/",
         "https://ocw.mit.edu/courses/8-09-classical-mechanics-iii-fall-2014/pages/lecture-notes/",
@@ -65,10 +65,11 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true
         }
       },
-      "sha256": "7e7140138d4efa48db51fd51b666c56d66927404084dd3105d0323ac9bc9b726"
+      "sha256": "1efbbb7e06617a999dc8253b397123bd0b8582001000f1090e3ace48a6586fc7"
     },
     {
       "id": "000003",
@@ -107,7 +108,7 @@
       "title": "مکانیک محیط‌های پیوسته: تنش، کرنش و روابط ساختاری",
       "slug": "mekanik-mohit-peyvaste-tanesh-konesh-va-ravabet-sakhtari",
       "url": "https://jannesar-sciencee.github.io/articles/000/000004-mekanik-mohit-peyvaste-tanesh-konesh-va-ravabet-sakhtari/",
-      "word_count": 816,
+      "word_count": 1106,
       "sources": [
         "https://ocw.mit.edu/courses/12-005-applications-of-continuum-mechanics-to-earth-atmospheric-and-planetary-sciences-spring-2006/pages/lecture-notes/",
         "https://ocw.mit.edu/courses/1-050-engineering-mechanics-i-fall-2007/pages/lecture-notes/",
@@ -129,17 +130,18 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true
         }
       },
-      "sha256": "1508de16b1b708c3e7ac9bc2f6800aeb3be9213b388b50125f34020681d0acfb"
+      "sha256": "d980006d391bf9348e1275db9070d06bb0f0e6e82b129e28d368ea704f03c926"
     },
     {
       "id": "000005",
       "title": "دینامیک غیرخطی و آشوب: حساسیت به شرایط اولیه، جاذب‌ها و پیش‌بینی‌پذیری",
       "slug": "dinamik-gheyrkhati-ashob-hassasiat-be-sharayet-ebtedayi",
       "url": "https://jannesar-sciencee.github.io/articles/000/000005-dinamik-gheyrkhati-ashob-hassasiat-be-sharayet-ebtedayi/",
-      "word_count": 897,
+      "word_count": 1172,
       "sources": [
         "https://ocw.mit.edu/courses/12-006j-nonlinear-dynamics-chaos-fall-2022/pages/lecture-notes/",
         "https://journals.ametsoc.org/view/journals/atsc/20/2/1520-0469_1963_020_0130_dnf_2_0_co_2.xml",
@@ -161,10 +163,11 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true
         }
       },
-      "sha256": "d8db36556283e684253a8b4b637d4fffe8770baf58a8a535e7ac802f2b655fe0"
+      "sha256": "84a5a0d5de3e7a31688887a42dbfd58f5302de103bf4af6ac2a091c9ba92bee5"
     },
     {
       "id": "000006",
@@ -2767,7 +2770,7 @@
       "title": "شیشه و مواد آمورف: نظم کوتاه‌بُرد، گذار شیشه‌ای و وابستگی به نرخ سردکردن",
       "slug": "shishe-mawad-amorf-nazm-kootahbord-gozar-shishei-nerkh-sardkardan",
       "url": "https://jannesar-sciencee.github.io/articles/000/000088-shishe-mawad-amorf-nazm-kootahbord-gozar-shishei-nerkh-sardkardan/",
-      "word_count": 867,
+      "word_count": 971,
       "sources": [
         "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/",
         "https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/",
@@ -2776,16 +2779,20 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "depth": true
+        }
       },
-      "sha256": "2859c9a375685dea03bc60d5258239275f67f439623ce5beca70b2f916a6311c"
+      "sha256": "059b7eed7928a5678d182842e6d49cb3f82ea6b6ca4a2e67636070b1a39b4461"
     },
     {
       "id": "000089",
       "title": "نانومواد و اثر اندازه: سطح ویژه، محصورشدگی کوانتومی و گذار از حجم به رابط",
       "slug": "nanomavad-asar-andaze-sath-vije-mahsoorshodegi-quantumi-rabet",
       "url": "https://jannesar-sciencee.github.io/articles/000/000089-nanomavad-asar-andaze-sath-vije-mahsoorshodegi-quantumi-rabet/",
-      "word_count": 842,
+      "word_count": 943,
       "sources": [
         "https://ocw.mit.edu/courses/3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013/",
         "https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/",
@@ -2794,16 +2801,20 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "depth": true
+        }
       },
-      "sha256": "5ffb8f1804e6244ec0bbb28719b259a6fb965eea4bf977aabca4549463d96a76"
+      "sha256": "7fbeceaf38c565dd0da221f10398574503d039f54d05ff6b6e789b4825a70792"
     },
     {
       "id": "000090",
       "title": "تبدیل‌های فازی در مواد: جوانه‌زنی، رشد، سینتیک و ریزساختار",
       "slug": "tabdil-fazi-mawad-javanehzani-roshd-sinetik-rizsakhtar",
       "url": "https://jannesar-sciencee.github.io/articles/000/000090-tabdil-fazi-mawad-javanehzani-roshd-sinetik-rizsakhtar/",
-      "word_count": 830,
+      "word_count": 936,
       "sources": [
         "https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/",
         "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/",
@@ -2812,16 +2823,20 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "depth": true
+        }
       },
-      "sha256": "47e1cf843248acbeac26a5b11b4ba2c816cc0840ffab1fc294bf3fe6889f36df"
+      "sha256": "7bd6b52611d6ae21ea1b48192d101a8fc0709b2fd577d035dbaabdfab3a5bf58"
     },
     {
       "id": "000091",
       "title": "عملیات حرارتی فولاد: آستنیت، پرلیت، بینیت، مارتنزیت و تمپر",
       "slug": "amaliat-hararti-foolad-austenite-pearlite-bainite-martensite-temper",
       "url": "https://jannesar-sciencee.github.io/articles/000/000091-amaliat-hararti-foolad-austenite-pearlite-bainite-martensite-temper/",
-      "word_count": 877,
+      "word_count": 974,
       "sources": [
         "https://ocw.mit.edu/courses/3-22-mechanical-behavior-of-materials-spring-2008/",
         "https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/",
@@ -2830,16 +2845,20 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "depth": true
+        }
       },
-      "sha256": "c134eda4a8d310642170446184e61e9de8fd2902106c8a53a5db5671c229b2dd"
+      "sha256": "757e2668e6effe13fbafa1de337bfaa481747cc916669dae54c159c1c1fe6fdd"
     },
     {
       "id": "000092",
       "title": "ابررسانایی: مقاومت صفر، اثر مایسنر، شار کوانتیده و مواد نوع دوم",
       "slug": "abrresanayi-moghavemat-sefr-meissner-shar-quantide-noe-dovom",
       "url": "https://jannesar-sciencee.github.io/articles/000/000092-abrresanayi-moghavemat-sefr-meissner-shar-quantide-noe-dovom/",
-      "word_count": 845,
+      "word_count": 942,
       "sources": [
         "https://www.ocw.mit.edu/courses/6-763-applied-superconductivity-fall-2005/",
         "https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/",
@@ -2848,9 +2867,13 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "depth": true
+        }
       },
-      "sha256": "dfda64ae5fc9d0eaa589d1592369c0f3560b537f1777f9ca652b676cd20d656d"
+      "sha256": "90f4efb65bbda84fd8f0c2cc2d3b95bb0739fde6cd686121e51cfa7a08763a95"
     },
     {
       "id": "000093",
@@ -8872,5 +8895,5 @@
   ],
   "repository": "jannesar-sciencee/jannesar-sciencee.github.io",
   "checkpoint_date": "2026-09-24",
-  "github_commit": "56f666f18e4fd1e5e11ef02505d6e7cd2919e0e8"
+  "github_commit": "8803fd85354ac095c251b773bf235e97e62b0e3f"
 }
