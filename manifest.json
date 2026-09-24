@@ -1577,10 +1577,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "a7fa489f8350b9cd0610b957512871510756811c43b1d6479f9378f2f9815530"
+      "sha256": "f816a1aa003109844062c0722c0b071df861c89771e715bd8a9baf84c38ee607"
     },
     {
       "id": "000048",
@@ -1609,10 +1611,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "7c7d9059bbd3d956122630b43ee9179569ddd066c6456febfca655ae936191f1"
+      "sha256": "9536fe940a46359d266aacb816f57e1125464a403d29fd436a763e1dea7b28ed"
     },
     {
       "id": "000049",
@@ -1641,10 +1645,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "2bd8efacb0af189dad8a7c33a5a76916a5191c9698b8c954d52ba9a92c450d49"
+      "sha256": "a96c6360cd4a99449f6027db34614102dc976b67d665f63e4dd9a8fc0c5061ed"
     },
     {
       "id": "000050",
@@ -1673,10 +1679,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "08f33ad12cb2aadd05a61b1a6983f2b86567fa20ebc52b8608ae09a4cb4012fb"
+      "sha256": "6a70f67b6b8a451cad64010a0c92540bc78a0444fc56e4a02460d81e391db227"
     },
     {
       "id": "000051",
@@ -1705,10 +1713,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "bccba744104059ba91469282af2b92006b956d8e2f05f8c5ddc4eb9222c90600"
+      "sha256": "d713c056daa3ff8df88160ef540779294c23077736238337df9c66b2af477fc9"
     },
     {
       "id": "000052",
@@ -1737,10 +1747,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "c570b214dcf6fcd8c48ed38dd5efd66a6629e50ab9d737cf7e5422c0d033999f"
+      "sha256": "ae27d6650d631d7b14e8c83a84f32e5e36a4347a2564bbfc681f44c761313ebe"
     },
     {
       "id": "000053",
@@ -1769,10 +1781,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "59db7a47b2f9bbbe09725fa8c886a297638c3e050aef9907489d857b8752d99b"
+      "sha256": "cf92b1dc5891b4d34f89ab94b2c6292d03c80b900659de42a8d41df010d1debd"
     },
     {
       "id": "000054",
@@ -1801,10 +1815,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "7147fb7eb7e6fef0680d69aaf1ece884e6b3a8238d149e3391d82544bf378533"
+      "sha256": "3da0eda501f6aacde44c0889dd675d4bbef5959c17fd5d496aae5434bf98727f"
     },
     {
       "id": "000055",
@@ -1833,10 +1849,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "abeb0870936436ffc2d619a4dae21c78765ef540b7ae1a83ccb9d784dc5fe657"
+      "sha256": "c776c4a9176fdf783545fd288601799d9366c20dec4e0dc65b77a2c1e3b58485"
     },
     {
       "id": "000056",
@@ -1865,10 +1883,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "62a55748dd930c23b6d93a262f54316ed65cc7d2cb22183a6f695e74cf52352c"
+      "sha256": "cab7edfc38f02675e0baccb835d7adfcf67628156b6988640b5d8dff26968147"
     },
     {
       "id": "000057",
@@ -1897,10 +1917,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "f7d7c3adc5d22a1bc98aff829638a5f99eaafdb8aa3f0bb673df1da113622230"
+      "sha256": "575e984bf493fe09f0018f5883d676dc9071dd7a65a056441bc4f77b9d377eda"
     },
     {
       "id": "000058",
@@ -1929,10 +1951,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "5eceef8966d950397df69be03b2e3b9f06e80f1d3740f4f05c039043b0b3dfed"
+      "sha256": "eb70820e3fd229d33dc0f0bbb568f85cf64707b8f66b7f0aa10b849e5553f710"
     },
     {
       "id": "000059",
