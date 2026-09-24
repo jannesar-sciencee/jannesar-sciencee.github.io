@@ -2801,10 +2801,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "70f3e3b00f61fa2d3e8fb3dc0847d012d90103189703c49fbb11eaf247de2d1b"
+      "sha256": "e4e4987412261f1bb1b282e3c0a698fa0c9c3e7da3f32f6b0d743870bdabc953"
     },
     {
       "id": "000084",
@@ -2833,10 +2835,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "ae4e75afbed560cb622f108933ffbb45e54d5e2ee5fc53904e630cdc1c5e679b"
+      "sha256": "a3458666db48ca8d19228fd81b1bb29bc15ad06b246ec41863fb4ce145c8d30d"
     },
     {
       "id": "000085",
@@ -2865,10 +2869,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_id": true,
+          "author_identity_link": true
         }
       },
-      "sha256": "df99d821c564eb35d1c1976c70b60153610d6dfb13fa32b3353aacbc71871be8"
+      "sha256": "9ca1ca30949ca93f3b1d757226bb85093fa2c10b8ecc189a162410cfaa4904be"
     },
     {
       "id": "000086",
@@ -2884,9 +2890,13 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "author_identity_link": true
+        }
       },
-      "sha256": "767b6ef9a7edac4d955cd59a414173965aa092c6b5029d2231e1fc5d15d45adf"
+      "sha256": "f6fe7ffc44766415571278133da924f360d085db7496af37cfd4eafd345c7aab"
     },
     {
       "id": "000087",
@@ -2902,9 +2912,13 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "author_identity_link": true
+        }
       },
-      "sha256": "8f68780833f9ff5e22ae495cb1a76cde994dbcdfc806d0a77cfe3bf96d2a7211"
+      "sha256": "19a1a55aa42ebc8678a57c8486383c255ee6c5b257c2d64e10d1bfbad93b85e1"
     },
     {
       "id": "000088",
