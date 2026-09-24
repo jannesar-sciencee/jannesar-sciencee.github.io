@@ -13,9 +13,11 @@
     "date": "2026-09-24",
     "article_folders": 260,
     "duplicate_ids": 0,
-    "sitemap_txt_urls": 260,
+    "sitemap_txt_urls": 263,
     "sitemap_xml_article_urls": 260,
     "min_word_count": 900,
-    "identity_url": "https://jannesar-sciencee.github.io/identity/"
+    "identity_url": "https://jannesar-sciencee.github.io/identity/",
+    "person_entity_id": "https://jannesar-sciencee.github.io/identity/#person",
+    "organization_entity_id": "https://jannesar-sciencee.github.io/identity/#nobari-trading"
   }
 }
