@@ -2880,7 +2880,7 @@
       "title": "باتری لیتیوم‌یون: درج یونی، الکترود متخلخل، SEI و سازوکارهای افت ظرفیت",
       "slug": "battery-lithium-ion-darj-ioni-electrode-motakhalkhel-sei-oft-zarfiat",
       "url": "https://jannesar-sciencee.github.io/articles/000/000093-battery-lithium-ion-darj-ioni-electrode-motakhalkhel-sei-oft-zarfiat/",
-      "word_count": 800,
+      "word_count": 916,
       "sources": [
         "https://ocw.mit.edu/courses/10-626-electrochemical-energy-systems-spring-2014/",
         "https://ocw.mit.edu/courses/10-626-electrochemical-energy-systems-spring-2014/resources/mit10_626s14_lec13_lithi/",
@@ -2889,16 +2889,20 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "depth": true
+        }
       },
-      "sha256": "016e41683201b6518b9e27592e2a2c3913e1a829a7d26a9d988f1f1656101b07"
+      "sha256": "1486eb65641e22c6553928452dad7ff7c40ae62dfaab65aec9888ab2642299c6"
     },
     {
       "id": "000094",
       "title": "پیل سوختی: ترمودینامیک، الکتروکاتالیز، انتقال جرم و محدودیت‌های سامانه‌ای",
       "slug": "pil-sookhti-termodinamik-electrocatalysis-enteghal-jerm-mahdoodiat-samane",
       "url": "https://jannesar-sciencee.github.io/articles/000/000094-pil-sookhti-termodinamik-electrocatalysis-enteghal-jerm-mahdoodiat-samane/",
-      "word_count": 803,
+      "word_count": 912,
       "sources": [
         "https://www.energy.gov/cmei/fuels/fuel-cell-basics",
         "https://ocw.mit.edu/courses/10-626-electrochemical-energy-systems-spring-2014/",
@@ -2907,16 +2911,20 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "depth": true
+        }
       },
-      "sha256": "c589245f98768129c3aed6b361634c629890e574fe7eaf2aa3abf0a3d93d25a2"
+      "sha256": "b33fb6b276957efe75009910d49f04adb871cf16eb34fe148a90c0258b74c432"
     },
     {
       "id": "000095",
       "title": "مواد فتوولتائیک و سلول خورشیدی: گاف انرژی، پیوند p–n و تلفات بازترکیب",
       "slug": "mawad-photovoltaic-cell-khorshidi-bandgap-pn-baztarkib",
       "url": "https://jannesar-sciencee.github.io/articles/000/000095-mawad-photovoltaic-cell-khorshidi-bandgap-pn-baztarkib/",
-      "word_count": 837,
+      "word_count": 947,
       "sources": [
         "https://www.nrel.gov/pv/research.html",
         "https://www.nrel.gov/pv/facilities.html",
@@ -2925,16 +2933,20 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "depth": true
+        }
       },
-      "sha256": "45ee7ee4f1acbcb7c1ee1a5844da4b60e6172a6d16f74607d37dc5a8488f0201"
+      "sha256": "fbf385a010dca11ed65d83a478ad08395780e19f08db125bf613dbedef60be20"
     },
     {
       "id": "000096",
       "title": "زیست‌مواد: زیست‌سازگاری، جذب پروتئین، پاسخ میزبان و تخریب کنترل‌شده",
       "slug": "zist-mawad-zist-sazgari-jazb-protein-pasokh-mizban-takhrib",
       "url": "https://jannesar-sciencee.github.io/articles/000/000096-zist-mawad-zist-sazgari-jazb-protein-pasokh-mizban-takhrib/",
-      "word_count": 832,
+      "word_count": 959,
       "sources": [
         "https://ocw.mit.edu/courses/3-051j-materials-for-biomedical-applications-spring-2006/",
         "https://ocw.mit.edu/courses/20-441j-biomaterials-tissue-interactions-fall-2009/",
@@ -2943,16 +2955,20 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "depth": true
+        }
       },
-      "sha256": "d2d90d4f886fdb0d2999126476e44e9971ba46cb685b84c4cbdf8600eb0dd736"
+      "sha256": "c327c7202ebf59364e13bda1429af540fcd8d82cb4d2b1c9b428bc8b54d67253"
     },
     {
       "id": "000097",
       "title": "آلیاژهای حافظه‌دار: مارتنزیت ترموالاستیک، فوق‌کشسانی و پسماند هیسترزیس",
       "slug": "aliazh-hafezedar-martensite-termoelastic-superelasticity-hysteresis",
       "url": "https://jannesar-sciencee.github.io/articles/000/000097-aliazh-hafezedar-martensite-termoelastic-superelasticity-hysteresis/",
-      "word_count": 847,
+      "word_count": 939,
       "sources": [
         "https://ocw.mit.edu/courses/3-22-mechanical-behavior-of-materials-spring-2008/",
         "https://ocw.mit.edu/courses/3-22-mechanical-behavior-of-materials-spring-2008/pages/projects/superelasti_home/",
@@ -2961,16 +2977,20 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "depth": true
+        }
       },
-      "sha256": "9489df70a5f81435a88159f23ce976b7525921fcd08b97a0413f06151d09f845"
+      "sha256": "2643969fd69bc507ceba52d03890b03eb0dd2a6fe6830589429f8960c8e0d7b5"
     },
     {
       "id": "000098",
       "title": "مواد ترموالکتریک: اثر سیبک، انتقال الکترون و فونون و ضریب شایستگی ZT",
       "slug": "mawad-thermoelectric-seebeck-electron-phonon-zt",
       "url": "https://jannesar-sciencee.github.io/articles/000/000098-mawad-thermoelectric-seebeck-electron-phonon-zt/",
-      "word_count": 835,
+      "word_count": 934,
       "sources": [
         "https://www.nist.gov/laboratories/tools-instruments/high-temperature-thermoelectric-properties-instrument",
         "https://www.nist.gov/publications/practical-field-guide-thermoelectrics-fundamentals-synthesis-and-characterization",
@@ -2979,16 +2999,20 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "depth": true
+        }
       },
-      "sha256": "457251876432e1b173287e6a4d12b371081470a983e2838fc00500a3a051a6f6"
+      "sha256": "da0339c1b488a91ffbc9746992573043d436c5cd9c8512b1ef22a64934c5f5cd"
     },
     {
       "id": "000099",
       "title": "ساخت افزایشی فلزات: حوضچه مذاب، انجماد سریع، بافت و عیوب فرایندی",
       "slug": "sakht-afzayeshi-felezat-hozche-mazab-enjemad-sarie-baft-oyoub",
       "url": "https://jannesar-sciencee.github.io/articles/000/000099-sakht-afzayeshi-felezat-hozche-mazab-enjemad-sarie-baft-oyoub/",
-      "word_count": 820,
+      "word_count": 922,
       "sources": [
         "https://www.nist.gov/additive-manufacturing/research-areas/materials/metals",
         "https://www.nist.gov/publications/modeling-hierarchical-solidification-microstructures-metal-additive-manufacturing",
@@ -2997,16 +3021,20 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "depth": true
+        }
       },
-      "sha256": "1eeb1e2b7873c6407d9ac070d945736475f0416574477c39429c08a093b7b70d"
+      "sha256": "11a131ad16e7d61d87a64c76a4f4f2e2ea5aa5a30c10d6eedbccd0d16851b440"
     },
     {
       "id": "000100",
       "title": "نظریه تابعی چگالی در علم مواد: از مسئله چندالکترونی تا پیش‌بینی ساختار و انرژی",
       "slug": "dft-elme-mawad-masale-chand-electroni-pishbini-sakhtar-energy",
       "url": "https://jannesar-sciencee.github.io/articles/000/000100-dft-elme-mawad-masale-chand-electroni-pishbini-sakhtar-energy/",
-      "word_count": 845,
+      "word_count": 944,
       "sources": [
         "https://ocw.mit.edu/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/pages/lecture-notes/",
         "https://ocw.mit.edu/courses/8-511-theory-of-solids-i-fall-2004/",
@@ -3015,9 +3043,13 @@
       ],
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_id": true,
+          "depth": true
+        }
       },
-      "sha256": "162cbe9026ee44726b63a8496b0255b26124a43e5fea872180941c89513c0403"
+      "sha256": "8fe1c8282a63b96688beec9fef7af9d9c6a9a3ab74531a8d495300e5e4ce6150"
     },
     {
       "id": "000101",
@@ -8895,5 +8927,5 @@
   ],
   "repository": "jannesar-sciencee/jannesar-sciencee.github.io",
   "checkpoint_date": "2026-09-24",
-  "github_commit": "8803fd85354ac095c251b773bf235e97e62b0e3f"
+  "github_commit": "1c486aa41a9608452f152410bd0937f05a5aa087"
 }
