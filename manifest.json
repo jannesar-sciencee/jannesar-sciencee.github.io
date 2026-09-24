@@ -4622,10 +4622,14 @@
         "https://web.stanford.edu/class/ee276/",
         "https://ocw.mit.edu/courses/6-441-information-theory-spring-2010/"
       ],
-      "sha256": "bea0dc3675cb5a5af299176ab848bb381c86ff5f949bec809c776290f57b10ca",
+      "sha256": "adaf660e59d38d5ba43456496c72abba5ab487dee4494e43825b5eb500f12b68",
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_entity": true,
+          "identity_link": true
+        }
       }
     },
     {
@@ -4640,10 +4644,14 @@
         "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/",
         "https://people.maths.ox.ac.uk/trefethen/text.html"
       ],
-      "sha256": "18f95685c374261f0bbfe691e38f11118b9f029dc6a95488b512e965112833c2",
+      "sha256": "f75843008dc9e1ddad7180bf5afe796af0b506066c59d4bd60e52d4df44e4f4d",
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_entity": true,
+          "identity_link": true
+        }
       }
     },
     {
@@ -4658,10 +4666,14 @@
         "https://web.stanford.edu/~boyd/papers/cvx_short_course",
         "https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf"
       ],
-      "sha256": "4da488fdefe42092a9a3e4b4fbd198436031dee10e65946f62ed394ce7ceaafb",
+      "sha256": "5eb280b66f566236099a15a7cd412def1bc2c72a8e202b6a68c87a8068a3ad7f",
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_entity": true,
+          "identity_link": true
+        }
       }
     },
     {
@@ -4676,10 +4688,14 @@
         "https://ocw.mit.edu/courses/18-125-measure-and-integration-fall-2003/",
         "https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/pages/lecture-notes-and-readings/"
       ],
-      "sha256": "9947706ef312e563412dd61dd83737c59a636bc821dcfb64ed683c38649c4f44",
+      "sha256": "63b39bb44a520fa8aa78ee752fb99943a7a956f44c24850cd4134a5d6d5b1e54",
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_entity": true,
+          "identity_link": true
+        }
       }
     },
     {
@@ -4694,10 +4710,14 @@
         "https://www.ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2009/pages/lecture-notes/",
         "https://www.ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2009/resources/mit18_102s09_lec17/"
       ],
-      "sha256": "cee43719cf3439bed0653e7a2bc621381ad5f8b197235b4c92c3785fbfaec313",
+      "sha256": "2fa863542aadad6fe19f7da0faf81ec298e419c4e1664fbf3e5f09290a6332a5",
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_entity": true,
+          "identity_link": true
+        }
       }
     },
     {
@@ -4712,10 +4732,14 @@
         "https://ocw.mit.edu/courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/",
         "https://ocw.mit.edu/courses/18-314-combinatorial-analysis-fall-2014/pages/syllabus/"
       ],
-      "sha256": "b51b07bcc0209ba31fceb50fdcfc65ba2d56c048b4d25ea00e9911aed45122d8",
+      "sha256": "c700da9a54b511b241807a6120ec69de3e3c9aa0cfa92e491c209bd7d9da3379",
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_entity": true,
+          "identity_link": true
+        }
       }
     },
     {
@@ -4730,10 +4754,14 @@
         "https://ocw.mit.edu/courses/18-314-combinatorial-analysis-fall-2014/",
         "https://math.mit.edu/~rstan/ec/"
       ],
-      "sha256": "2487cfad4b07adac2fe22fb1dda0c15bd8207b59d3b1e399ddf067f2493fd16d",
+      "sha256": "f89801fb4b666bb212fca21af0b75fac33f30be88742144cda017c22471bf948",
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_entity": true,
+          "identity_link": true
+        }
       }
     },
     {
@@ -4748,10 +4776,14 @@
         "https://online.stat.psu.edu/stat510/Lesson14",
         "https://online.stat.psu.edu/stat510/"
       ],
-      "sha256": "2aa50050d8e34db4a5a568e498a73b803f2a18ba21bbd68ea626d7532b2ef33b",
+      "sha256": "06791c21c852ff4590c687e947dc98df4d89c017e663e46056c3e4e8ed8f6ba7",
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_entity": true,
+          "identity_link": true
+        }
       }
     },
     {
@@ -4781,10 +4813,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "84983593fd42822bb904f0f3c22e8f8d05eb93edb33f98a22bd7c583ad285734"
+      "sha256": "43182c740988a92667792b2c51e7fc3b24d060719398f6f7dd83f1a8b5756df6"
     },
     {
       "id": "000152",
@@ -4813,10 +4847,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "054bb0280e56a2d61d0147995f65d0c71a7e055dc0440fb1d1296b247c640d8c"
+      "sha256": "72f98425923dc6854fd032e0fdebd13c48069aad4c2ba6c78ad829a8a02e3846"
     },
     {
       "id": "000153",
@@ -4845,10 +4881,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "eaa508947f229ff72d9b6ec8629e46ebb895c9edc753484691d75a9c34b481fb"
+      "sha256": "e45cf0f7fc99d4a08989c2c8c702fbdff9507dee86ee68b0f8cf5fb5c8c5e5ab"
     },
     {
       "id": "000154",
@@ -4877,10 +4915,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "70ad89f7df1e3d11d44f9473833c99239138c5cfdb80ef60654cf815713212dd"
+      "sha256": "73eac5e90b9eec4aa0608f8171ddefe5b342e86e855cac5bb34c0af5b60da214"
     },
     {
       "id": "000155",
