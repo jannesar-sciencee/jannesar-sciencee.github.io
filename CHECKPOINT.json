@@ -3,9 +3,19 @@
   "volume": "001",
   "target": 1000,
   "completed": 260,
-  "progress_percent": 26.0,
+  "progress_percent": 26,
   "last_completed_id": "000260",
   "next_id": "000261",
-  "github_commit": "56f666f18e4fd1e5e11ef02505d6e7cd2919e0e8",
-  "manifest_sha256": "7f2a991ccfcbf38ae653b9b616bb14488216271f53fe5d9a39cd903c7c251e3c"
+  "github_commit": "3b422f7be48f786aaceada0ef08a45c670f75832",
+  "manifest_sha256": "ba5ff6965df928bb335388dc0cf04a84f5488a0f12de08911afd6590d76c5130",
+  "github_commit_role": "last_article_content_commit",
+  "audit": {
+    "date": "2026-09-24",
+    "article_folders": 260,
+    "duplicate_ids": 0,
+    "sitemap_txt_urls": 260,
+    "sitemap_xml_article_urls": 260,
+    "min_word_count": 900,
+    "identity_url": "https://jannesar-sciencee.github.io/identity/"
+  }
 }
