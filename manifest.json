@@ -4253,10 +4253,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "de1000930494ad42cfba3e09e78ccdb6b0abe53297b4db6a9727d33839692476"
+      "sha256": "cf403f73c5bf22c0d0fb2d4eaad3758bb1fd9677b194103f9af024393cfb3c87"
     },
     {
       "id": "000132",
@@ -4285,10 +4287,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "41d5b331ff1fda07d265a3355a65dbd20784987b11a3ebb52afdc7c71d88d822"
+      "sha256": "d4232faa3f81bc00dc262ef1777fd08a5e436c8c6282f8f45f69250307ae280d"
     },
     {
       "id": "000133",
@@ -4317,10 +4321,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "58d9a9a695247d1c21271b1ff5783ccce4c62bf6b3ae86755fed7956a4beb81d"
+      "sha256": "1997c158979addda1dd7f7881a38250d399e1eb743bb489c6c3e600c45621f1d"
     },
     {
       "id": "000134",
@@ -4349,10 +4355,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "e2a080fba3991f29705b584b24788d72aa24e711d1902afada4be83ac066a8d8"
+      "sha256": "b78be92e79f722c718b59aee0ef4ff517f6773615b65c9c8bd64cf25c95e084c"
     },
     {
       "id": "000135",
@@ -4381,10 +4389,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "11e518d2d197365c6c958aab0bc02b8ed950b78433f10856bd74a40f70081ddb"
+      "sha256": "3061d5531d8ab86eea3e168dd528282f0383d37be89b06519e47d720672c54db"
     },
     {
       "id": "000136",
@@ -4413,10 +4423,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "f2266d4ff16c37efd19cd97b2ae0916fc72953f29cb995f8933f66c237023d48"
+      "sha256": "5b063546d9712452642a244dbc62fb09644242bf975b1c8eb1cbea69837ca5b3"
     },
     {
       "id": "000137",
@@ -4445,10 +4457,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "76c6dc075dc83ca99e07cc7d33b9298996b4fe2ab512800fe1a07cb2e1491b64"
+      "sha256": "4b6b9ce8cc113fa1b46bcd9f081d18810653a6fe73d22302e7985877d7cee6c6"
     },
     {
       "id": "000138",
@@ -4477,10 +4491,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "f767bf9f0db57b5324748acb0fabce1fc07fc3ce7050df2209558298f76fe9a8"
+      "sha256": "d6229687b4efba7ab418ca87a127bb504a0ebfc5d4b098de554d5ab58d5b105f"
     },
     {
       "id": "000139",
@@ -4509,10 +4525,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "9136170432001e0d046ae7a17492dee57f4d361abe9ec74bbe11a872eb104090"
+      "sha256": "90197d351789a11f40075d65ad721d3a8791c7c74a86ba08b186ba354af04797"
     },
     {
       "id": "000140",
@@ -4541,10 +4559,12 @@
           "breadcrumb_jsonld": true,
           "related_links": true,
           "sources": true,
-          "depth": true
+          "depth": true,
+          "central_author_entity": true,
+          "identity_link": true
         }
       },
-      "sha256": "4ced2afd63a5e285f9afb0b26157b50d7db1afcc612bcb9e0d10c5eef82d1ec8"
+      "sha256": "ddfe5d833ae9894b328db42c570251f8919aaf8fed323a9bd4220357a6e5d4d8"
     },
     {
       "id": "000141",
@@ -4558,10 +4578,14 @@
         "https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/pages/unit-iii/lecture-16/",
         "https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/pages/unit-iii/lecture-18/"
       ],
-      "sha256": "25f5d7f8c9eb64727e035d22cec1335fbdfe62f7f7763a4cf27d522938e68c83",
+      "sha256": "0c8b0d66f11de28b453212f27ecf024d55b191d8040e2ad16b5d759820c83273",
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_entity": true,
+          "identity_link": true
+        }
       }
     },
     {
@@ -4576,10 +4600,14 @@
         "https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/pages/unit-iii/lecture-16/",
         "https://stanford.edu/class/stats311/lecture-notes.pdf"
       ],
-      "sha256": "9f4f66c863da9f4c91f4fa62f8477ad285f593d47dd0a93c3ccc32b0458b8e81",
+      "sha256": "98c5feb63ea7ce0561aa5c4bb5fec218174e32d08c8dccba899ff0eae8b1b73d",
       "validation": {
         "scientific": "pass",
-        "technical": "pass"
+        "technical": "pass",
+        "checks": {
+          "central_author_entity": true,
+          "identity_link": true
+        }
       }
     },
     {
