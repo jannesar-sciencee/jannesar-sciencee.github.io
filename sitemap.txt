@@ -148,14 +148,10 @@ https://jannesar-sciencee.github.io/articles/000/000147-fazaha-hilbert-amalgarha
 https://jannesar-sciencee.github.io/articles/000/000148-nazariye-graf-shabake-masir-boresh-sakhtar-bozorg/
 https://jannesar-sciencee.github.io/articles/000/000149-tavabe-moled-tarkibiyat-tabdil-shomaresh-be-jabr/
 https://jannesar-sciencee.github.io/articles/000/000150-seri-zamani-istayi-khodhambastegi-negah-teyfi/
-https://jannesar-sciencee.github.io/articles/000/000151-dna-chromatin-nucleosome-bastebandi-dastresi-genome/
 https://jannesar-sciencee.github.io/articles/000/000151-dna-chromosome-memari-genome-feshordegi-khondan-hefz-etelaat/
-https://jannesar-sciencee.github.io/articles/000/000152-dna-replication-fidelity-leading-lagging-proofreading/
 https://jannesar-sciencee.github.io/articles/000/000152-hamansazi-dna-replication-fidelity-replication-fork/
-https://jannesar-sciencee.github.io/articles/000/000153-dna-repair-ber-ner-mismatch-hr-nhej-genome-stability/
 https://jannesar-sciencee.github.io/articles/000/000153-tarmim-dna-base-excision-nucleotide-mismatch-double-strand-break/
 https://jannesar-sciencee.github.io/articles/000/000154-ronvisi-gene-rna-polymerase-promoter-transcription/
-https://jannesar-sciencee.github.io/articles/000/000154-transcription-promoter-rna-polymerase-enhancer-chromatin/
 https://jannesar-sciencee.github.io/articles/000/000155-processing-rna-splicing-cap-polyA-alternative-splicing/
 https://jannesar-sciencee.github.io/articles/000/000156-translation-ribosome-genetic-code-trna-protein/
 https://jannesar-sciencee.github.io/articles/000/000157-tanzim-bayan-gene-enhancer-promoter-chromatin/
