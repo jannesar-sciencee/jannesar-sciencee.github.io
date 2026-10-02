@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000149-tavabe-moled-tarkibiyat-tabdil-shomaresh-be-jabr/sitemap.xml

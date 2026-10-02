@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000245-cancer-biology-clonal-evolution-growth-control-genomic-instability-tissue-context/sitemap.xml

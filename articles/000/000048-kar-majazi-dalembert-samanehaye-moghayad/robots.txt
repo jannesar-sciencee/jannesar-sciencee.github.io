@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000048-kar-majazi-dalembert-samanehaye-moghayad/sitemap.xml

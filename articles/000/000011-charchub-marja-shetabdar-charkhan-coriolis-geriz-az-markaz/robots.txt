@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000011-charchub-marja-shetabdar-charkhan-coriolis-geriz-az-markaz/sitemap.xml

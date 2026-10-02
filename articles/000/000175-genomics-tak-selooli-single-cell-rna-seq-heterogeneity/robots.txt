@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000175-genomics-tak-selooli-single-cell-rna-seq-heterogeneity/sitemap.xml

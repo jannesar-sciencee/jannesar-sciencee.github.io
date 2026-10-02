@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000110-entegral-chandgane-taghyir-motaghayer-jacobian-hajm/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000074-janeshini-hazf-organic-sn1-sn2-e1-e2/sitemap.xml

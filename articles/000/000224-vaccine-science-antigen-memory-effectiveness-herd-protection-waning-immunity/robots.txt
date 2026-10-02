@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000224-vaccine-science-antigen-memory-effectiveness-herd-protection-waning-immunity/sitemap.xml

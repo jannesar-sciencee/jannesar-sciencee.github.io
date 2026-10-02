@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000114-tabdil-laplace-moadele-differential-zaman-hoze-mokhtalet/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000033-ravesh-ajzaye-mahdood-form-zaeef-hamgerayi-khataye-gosaste-sazi/sitemap.xml

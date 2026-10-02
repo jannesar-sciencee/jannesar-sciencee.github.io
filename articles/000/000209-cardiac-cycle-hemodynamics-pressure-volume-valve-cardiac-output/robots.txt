@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000209-cardiac-cycle-hemodynamics-pressure-volume-valve-cardiac-output/sitemap.xml

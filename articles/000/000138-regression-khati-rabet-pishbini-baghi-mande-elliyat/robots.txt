@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000138-regression-khati-rabet-pishbini-baghi-mande-elliyat/sitemap.xml

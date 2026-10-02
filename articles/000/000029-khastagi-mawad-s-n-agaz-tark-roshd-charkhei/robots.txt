@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000029-khastagi-mawad-s-n-agaz-tark-roshd-charkhei/sitemap.xml

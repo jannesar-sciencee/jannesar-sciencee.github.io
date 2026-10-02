@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000045-integrability-kam-gozar-harekat-monazam-be-ashob/sitemap.xml

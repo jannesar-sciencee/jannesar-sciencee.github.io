@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000046-mekanik-nesbiti-chahar-bordar-energy-takane-had-newtoni/sitemap.xml

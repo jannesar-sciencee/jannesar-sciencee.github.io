@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000035-kamanesh-paydari-saze-bar-bohrani-euler-pas-kamanesh-poosteha/sitemap.xml

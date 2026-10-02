@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000034-dinamik-saze-integral-giri-zamani-ravesh-sarih-zemni-newmark/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000260-cellular-senescence-sasp-growth-arrest-aging-tumor-suppression/sitemap.xml

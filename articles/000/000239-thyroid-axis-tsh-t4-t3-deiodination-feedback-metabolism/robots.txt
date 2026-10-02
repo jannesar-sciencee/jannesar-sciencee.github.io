@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000239-thyroid-axis-tsh-t4-t3-deiodination-feedback-metabolism/sitemap.xml

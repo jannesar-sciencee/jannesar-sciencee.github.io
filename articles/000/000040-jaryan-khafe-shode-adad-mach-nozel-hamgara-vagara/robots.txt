@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000040-jaryan-khafe-shode-adad-mach-nozel-hamgara-vagara/sitemap.xml

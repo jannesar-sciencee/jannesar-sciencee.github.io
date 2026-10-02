@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000067-nazariye-halat-gozar-sath-energy-potansiel-sabet-sorat/sitemap.xml

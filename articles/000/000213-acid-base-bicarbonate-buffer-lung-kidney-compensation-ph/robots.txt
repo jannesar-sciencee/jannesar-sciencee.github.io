@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000213-acid-base-bicarbonate-buffer-lung-kidney-compensation-ph/sitemap.xml

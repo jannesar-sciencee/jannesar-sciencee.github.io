@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000207-complement-system-classical-lectin-alternative-c3-c5-mac/sitemap.xml

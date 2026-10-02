@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000007-tabdilat-kanonik-va-handese-symplectic-dar-mekanik-classik/sitemap.xml

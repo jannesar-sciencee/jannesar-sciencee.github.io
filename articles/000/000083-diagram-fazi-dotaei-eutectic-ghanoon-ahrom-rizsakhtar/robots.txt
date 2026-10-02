@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jannesar-sciencee.github.io/articles/000/000083-diagram-fazi-dotaei-eutectic-ghanoon-ahrom-rizsakhtar/sitemap.xml
