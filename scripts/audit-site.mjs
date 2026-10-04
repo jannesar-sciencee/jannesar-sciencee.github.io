@@ -83,7 +83,8 @@ for (const name of ['sitemap.xml', 'sitemap-index.xml']) {
 }
 const sitemapUnion = new Set([...mapUrls['sitemap.xml'], ...mapUrls['sitemap-index.xml']]);
 const missing = articleUrls.filter(u => !sitemapUnion.has(u));
-const extra = [...sitemapUnion].filter(u => /\/articles\//.test(new URL(u).pathname) && !articleUrls.includes(u));
+// Treat only leaf article routes as article entries; section indexes such as /articles/000/ are valid sitemap URLs too.
+const extra = [...sitemapUnion].filter(u => /\/articles\/\d{3}\/\d{6}-[^/]+\/?$/.test(new URL(u).pathname) && !articleUrls.includes(u));
 add('manifest ↔ sitemap', missing.length || extra.length ? 'FAIL' : 'PASS', `${articleUrls.length - missing.length}/${articleUrls.length} manifest URLs found; ${missing.length} missing; ${extra.length} article URLs absent from manifest`);
 if (missing.length) add('missing sitemap URLs', 'FAIL', missing.slice(0, 20).join(', ') + (missing.length > 20 ? ` … (+${missing.length - 20})` : ''));
 if (extra.length) add('extra sitemap article URLs', 'WARN', extra.slice(0, 20).join(', ') + (extra.length > 20 ? ` … (+${extra.length - 20})` : ''));
