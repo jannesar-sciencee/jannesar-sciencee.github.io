@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://jannesar-sciencee.github.io/",
+  "siteHost": "jannesar-sciencee.github.io",
+  "manifestPath": "manifest.json",
+  "httpTimeoutMs": 20000,
+  "pageConcurrency": 12,
+  "sitemapConcurrency": 12
+}

@@ -1,0 +1,37 @@
+name: Read-only site audit
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/audit-site.mjs'
+      - 'audit.config.json'
+      - '.github/workflows/read-only-site-audit.yml'
+      - 'manifest.json'
+      - 'robots.txt'
+      - 'sitemap.xml'
+      - 'sitemap-index.xml'
+  schedule:
+    - cron: '23 2 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: read-only-site-audit
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Run read-only audit
+        run: node scripts/audit-site.mjs
