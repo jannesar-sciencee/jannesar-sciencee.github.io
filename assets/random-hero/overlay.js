@@ -32,7 +32,7 @@
 
       const image = document.createElement("img");
       image.src = IMAGE_ROOT + filename;
-      image.alt = "";
+      image.alt = (data.altTexts && data.altTexts[pagePath]) || "پرترهٔ حسین عطار جان‌نثار نوبری";
       image.draggable = false;
       Object.assign(image.style, {
         display: "block",
