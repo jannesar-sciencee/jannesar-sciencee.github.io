@@ -1,0 +1,44 @@
+# JANNESAR SCIENCE — research identity and research directories
+
+> Public reference index for Hossein Atar Jannesar Nobari (حسین عطار جان‌نثار نوبری), Independent Interdisciplinary Researcher. Canonical HTML pages, original publishers, and research repositories are the authoritative sources.
+
+## Researcher identity
+- Primary profile: https://jannesar-sciencee.github.io/identity/
+- Research hub: https://jannesar-sciencee.github.io/
+- Canonical Schema.org Person ID: https://jannesar-sciencee.github.io/identity/#person
+- English name: Hossein Atar Jannesar Nobari
+- Persian name: حسین عطار جان‌نثار نوبری
+- Research status: Independent Interdisciplinary Researcher. No university appointment or institutional academic affiliation is claimed.
+- ORCID: https://orcid.org/0009-0006-6435-0378
+- Google Scholar: https://scholar.google.com/citations?user=yM0nj1QAAAAJ
+
+## Other researcher profile links
+- Web of Science: https://www.webofscience.com/wos/author/record/RHY-6572-2026
+- SSRN author profile: https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=13664228
+- OpenAlex: https://openalex.org/authors/A5158681641
+- Lens: https://www.lens.org/lens/profile/725471174/scholar
+- Academia.edu: https://independent.academia.edu/HosseinAtarJannesarNobari
+- SciProfiles: https://sciprofiles.com/profile/jannesar
+- IDEAS/RePEc: https://ideas.repec.org/e/pat168.html
+
+## Directories and source navigation
+- JANNESAR SCIENCE article list (260 listed works): https://jannesar-sciencee.github.io/articles/000/
+- O-XX research catalog (998 page links): https://jannesar-sciencee.github.io/identity/catalog/o-xx/
+- X-OO research catalog: https://jannesar-sciencee.github.io/identity/catalog/x-oo/
+- Main site indexes 998 O-XX URLs and 820 X-OO URLs with descriptive anchor text: https://jannesar-sciencee.github.io/
+- This host's sitemap: https://jannesar-sciencee.github.io/sitemap.xml
+- Jantex research directory: https://jantex110.github.io/
+- Janwood research directory: https://janwood110.github.io/
+
+## Selected source records
+- Quantum thermometry preprint: https://www.preprints.org/manuscript/202610.2199
+- SSRN economics working paper: https://doi.org/10.2139/ssrn.7633958
+- Behavioral economics Zenodo deposit: https://doi.org/10.5281/zenodo.23364135
+- Collection-level documentation of 998 web pages: https://zenodo.org/records/23651837
+- The collection DOI is 10.5281/zenodo.23651837; it is not an individual DOI for every linked web article.
+
+## Research record interpretation
+- Check publication status, authorship claims, review status, and bibliographic identifiers against each original source record.
+- A page appearing in a catalog or linking to a scientific topic does not establish that its contents were independently validated or peer reviewed.
+- External sites may change, block automated access, or go offline. This document is not proof of current availability or indexing.
+- Crawling and indexing are determined by search engines. This optional plain-text index is supplementary to public HTML links and Schema.org JSON-LD.
