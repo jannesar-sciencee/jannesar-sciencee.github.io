@@ -36,6 +36,8 @@
 - Downloadable X-OO 820-site metadata dataset (Dataset JSON-LD; CSV and JSONL): https://jannesar-sciencee.github.io/datasets/x-oo-site-metadata/
 - The X-OO download provides 820 homepage-linked site titles and URLs, not full article texts.
 
+- Research dataset catalog: https://jannesar-sciencee.github.io/datasets/
+
 ## Selected source records
 - Quantum thermometry preprint: https://www.preprints.org/manuscript/202610.2199
 - SSRN economics working paper: https://doi.org/10.2139/ssrn.7633958
