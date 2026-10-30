@@ -1,0 +1,820 @@
+{"id":0,"source_url":"https://o000.x-oo.chatgpt.site/","title":"قضیه حد مرکزی، انواع همگرایی و مرزهای تقریب نرمال","title_evidence":"homepage_anchor"}
+{"id":1,"source_url":"https://o001.x-oo.chatgpt.site/","title":"آمار کافی، قضیه فاکتورگیری و بهبود رائو–بلک‌ول در نظریه برآورد","title_evidence":"homepage_anchor"}
+{"id":2,"source_url":"https://o002.x-oo.chatgpt.site/","title":"درست‌نمایی بیشینه، اطلاعات فیشر و کران کرامر–رائو","title_evidence":"homepage_anchor"}
+{"id":3,"source_url":"https://o003.x-oo.chatgpt.site/","title":"آزمون فرض، لم نیمن–پیرسون، توان آزمون و معنای درست مقدار احتمال (p)","title_evidence":"homepage_anchor"}
+{"id":4,"source_url":"https://o004.x-oo.chatgpt.site/","title":"رگرسیون خطی، قضیه گاوس–مارکوف و تشخیص نقض فروض","title_evidence":"homepage_anchor"}
+{"id":5,"source_url":"https://o005.x-oo.chatgpt.site/","title":"طراحی آزمایش تصادفی، بلوک‌بندی و طرح‌های فاکتوریل","title_evidence":"homepage_anchor"}
+{"id":6,"source_url":"https://o006.x-oo.chatgpt.site/","title":"نمونه‌گیری طبقه‌ای، تخصیص بهینه و برآورد واریانس در پیمایش","title_evidence":"homepage_anchor"}
+{"id":7,"source_url":"https://o007.x-oo.chatgpt.site/","title":"زنجیره‌های مارکوف متناهی، توزیع مانا و همگرایی بلندمدت","title_evidence":"homepage_anchor"}
+{"id":8,"source_url":"https://o008.x-oo.chatgpt.site/","title":"ایستایی، تابع خودهمبستگی و تابع خودهمبستگی جزئی و ساخت مدل‌های آریما برای سری زمانی","title_evidence":"homepage_anchor"}
+{"id":9,"source_url":"https://o009.x-oo.chatgpt.site/","title":"شرطی‌بودن مسائل خطی، پایداری عددی و تحلیل خطای الگوریتم‌ها","title_evidence":"homepage_anchor"}
+{"id":10,"source_url":"https://o010.x-oo.chatgpt.site/","title":"استنباط بیزی، توزیع پیشین و پسین و نقش پیشین‌های هم‌خانواده","title_evidence":"homepage_anchor"}
+{"id":11,"source_url":"https://o011.x-oo.chatgpt.site/","title":"بازنمونه‌گیری بوت‌استرپ، برآورد خطای معیار و فاصله‌های اطمینان بازنمونه‌ای","title_evidence":"homepage_anchor"}
+{"id":12,"source_url":"https://o012.x-oo.chatgpt.site/","title":"فاصله اطمینان، کمیت محوری و مسئله پوشش در استنباط آماری","title_evidence":"homepage_anchor"}
+{"id":13,"source_url":"https://o013.x-oo.chatgpt.site/","title":"مدل‌های خطی تعمیم‌یافته، تابع پیوند و رگرسیون لجستیک برای پاسخ‌های دودویی","title_evidence":"homepage_anchor"}
+{"id":14,"source_url":"https://o014.x-oo.chatgpt.site/","title":"تحلیل مؤلفه‌های اصلی، تجزیه مقدارویژه و کاهش بُعد داده‌های چندمتغیره","title_evidence":"homepage_anchor"}
+{"id":15,"source_url":"https://o015.x-oo.chatgpt.site/","title":"بهینه‌سازی محدب، دوگانگی و شرایط کاروش–کان–تاکر","title_evidence":"homepage_anchor"}
+{"id":16,"source_url":"https://o016.x-oo.chatgpt.site/","title":"انتگرال‌گیری عددی، قواعد ذوزنقه‌ای و سیمپسون و تربیع گاوسی","title_evidence":"homepage_anchor"}
+{"id":17,"source_url":"https://o017.x-oo.chatgpt.site/","title":"حل عددی معادلات دیفرانسیل معمولی، روش‌های رونگه–کوتا و پایداری","title_evidence":"homepage_anchor"}
+{"id":18,"source_url":"https://o018.x-oo.chatgpt.site/","title":"نظریه طیفی گراف، ماتریس لاپلاس و پیوند مقادیر ویژه با اتصال شبکه","title_evidence":"homepage_anchor"}
+{"id":19,"source_url":"https://o019.x-oo.chatgpt.site/","title":"آنتروپی، واگرایی کولبک–لایبلر و اطلاعات متقابل در نظریه اطلاعات","title_evidence":"homepage_anchor"}
+{"id":20,"source_url":"https://o020.x-oo.chatgpt.site/","title":"نظریه اندازه، انتگرال لبگ و قضیه‌های همگرایی در آنالیز حقیقی","title_evidence":"homepage_anchor"}
+{"id":21,"source_url":"https://o021.x-oo.chatgpt.site/","title":"آزمون‌های چندگانه، خطای خانوادگی و کنترل نرخ کشف کاذب","title_evidence":"homepage_anchor"}
+{"id":22,"source_url":"https://o022.x-oo.chatgpt.site/","title":"استنباط ناپارامتری، آزمون‌های رتبه‌ای و آزمون کولموگروف–اسمیرنوف","title_evidence":"homepage_anchor"}
+{"id":23,"source_url":"https://o023.x-oo.chatgpt.site/","title":"فرایند پواسون، زمان‌های بین‌ورود و نظریه تجدید در فرایندهای تصادفی","title_evidence":"homepage_anchor"}
+{"id":24,"source_url":"https://o024.x-oo.chatgpt.site/","title":"حرکت براونی، مارتینگل‌ها و قضیه‌های توقف در احتمال پیوسته","title_evidence":"homepage_anchor"}
+{"id":25,"source_url":"https://o025.x-oo.chatgpt.site/","title":"برنامه‌ریزی خطی، هندسه چندوجهی، روش سیمپلکس و دوگانگی","title_evidence":"homepage_anchor"}
+{"id":26,"source_url":"https://o026.x-oo.chatgpt.site/","title":"رنگ‌آمیزی گراف، عدد رنگی و کران‌های ترکیبیاتی در نظریه گراف","title_evidence":"homepage_anchor"}
+{"id":27,"source_url":"https://o027.x-oo.chatgpt.site/","title":"انتگرال‌گیری مونت‌کارلو، نمونه‌گیری اهمیت و روش‌های کاهش واریانس","title_evidence":"homepage_anchor"}
+{"id":28,"source_url":"https://o028.x-oo.chatgpt.site/","title":"مونت‌کارلو با زنجیره مارکوف؛ ساخت زنجیره، همگرایی و اندازه نمونه مؤثر","title_evidence":"homepage_anchor"}
+{"id":29,"source_url":"https://o029.x-oo.chatgpt.site/","title":"روش تفاضل محدود برای معادلات دیفرانسیل با مشتقات جزئی؛ سازگاری، پایداری و همگرایی","title_evidence":"homepage_anchor"}
+{"id":30,"source_url":"https://o030.x-oo.chatgpt.site/","title":"محاسبه مقادیر ویژه، تجزیه کیوآر و الگوریتم‌های تکراری در جبر خطی عددی","title_evidence":"homepage_anchor"}
+{"id":31,"source_url":"https://o031.x-oo.chatgpt.site/","title":"قضیه نقطه ثابت باناخ، نگاشت‌های انقباضی و همگرایی تکرارهای عددی","title_evidence":"homepage_anchor"}
+{"id":32,"source_url":"https://o032.x-oo.chatgpt.site/","title":"وجود و یکتایی حل معادلات دیفرانسیل معمولی؛ قضیه پیکارد–لیندلوف و حدود آن","title_evidence":"homepage_anchor"}
+{"id":33,"source_url":"https://o033.x-oo.chatgpt.site/","title":"سری فوریه، انواع همگرایی، هسته دیریکله و پدیده گیبس","title_evidence":"homepage_anchor"}
+{"id":34,"source_url":"https://o034.x-oo.chatgpt.site/","title":"حساب تغییرات، معادله اویلر–لاگرانژ و شرایط لازم برای اکسترمم تابعی","title_evidence":"homepage_anchor"}
+{"id":35,"source_url":"https://o035.x-oo.chatgpt.site/","title":"روش نیوتن و روش‌های شبه‌نیوتن در بهینه‌سازی نامقید؛ همگرایی، هسین و جست‌وجوی خطی","title_evidence":"homepage_anchor"}
+{"id":36,"source_url":"https://o036.x-oo.chatgpt.site/","title":"توابع مولد، روابط بازگشتی و شمارش ترکیبیاتی","title_evidence":"homepage_anchor"}
+{"id":37,"source_url":"https://o037.x-oo.chatgpt.site/","title":"کوتاه‌ترین مسیر، بیشینه جریان و قضیه بیشینه‌جریان–کمینه‌برش در بهینه‌سازی شبکه","title_evidence":"homepage_anchor"}
+{"id":38,"source_url":"https://o038.x-oo.chatgpt.site/","title":"نظریه صف، مدل M/M/1، قانون لیتل و تحلیل پایداری سامانه‌های انتظار","title_evidence":"homepage_anchor"}
+{"id":39,"source_url":"https://o039.x-oo.chatgpt.site/","title":"فرایندهای گاوسی، تابع کوواریانس و رگرسیون احتمالاتی با هسته‌ها","title_evidence":"homepage_anchor"}
+{"id":40,"source_url":"https://o040.x-oo.chatgpt.site/","title":"نامساوی‌های تمرکز احتمال؛ از مارکوف و چبیشف تا هوفدینگ و کران چرنوف","title_evidence":"homepage_anchor"}
+{"id":41,"source_url":"https://o041.x-oo.chatgpt.site/","title":"نظریه مجانبی در آمار؛ قضیه اسلاتسکی، روش دلتا و نرمالی مجانبی برآوردگرها","title_evidence":"homepage_anchor"}
+{"id":42,"source_url":"https://o042.x-oo.chatgpt.site/","title":"تحلیل بقا؛ سانسور، برآوردگر کاپلان–مایر و مدل خطرهای متناسب","title_evidence":"homepage_anchor"}
+{"id":43,"source_url":"https://o043.x-oo.chatgpt.site/","title":"کمترین مربعات عددی؛ معادلات نرمال، تجزیه کیوآر و شبه‌معکوس مور–پنروز","title_evidence":"homepage_anchor"}
+{"id":44,"source_url":"https://o044.x-oo.chatgpt.site/","title":"درون‌یابی چندجمله‌ای و اسپلاین مکعبی؛ خطا، پدیده رونگه و انتخاب گره‌ها","title_evidence":"homepage_anchor"}
+{"id":45,"source_url":"https://o045.x-oo.chatgpt.site/","title":"روش اجزای محدود؛ صورت‌بندی ضعیف، توابع پایه و همگرایی حل عددی معادلات بیضوی","title_evidence":"homepage_anchor"}
+{"id":46,"source_url":"https://o046.x-oo.chatgpt.site/","title":"برنامه‌ریزی پویا و معادله بلمن؛ اصل بهینگی، تکرار ارزش و تکرار سیاست","title_evidence":"homepage_anchor"}
+{"id":47,"source_url":"https://o047.x-oo.chatgpt.site/","title":"زیرگرادیان و بهینه‌سازی نامشتق‌پذیر محدب؛ قواعد گام، تصویر و کران همگرایی","title_evidence":"homepage_anchor"}
+{"id":48,"source_url":"https://o048.x-oo.chatgpt.site/","title":"آماره‌های U؛ برآورد بی‌سوگیری، تجزیه هوفدینگ و نرمالی مجانبی","title_evidence":"homepage_anchor"}
+{"id":49,"source_url":"https://o049.x-oo.chatgpt.site/","title":"برآورد چگالی هسته‌ای؛ پهنای باند، سوگیری–واریانس و محدودیت‌های ابعاد بالا","title_evidence":"homepage_anchor"}
+{"id":50,"source_url":"https://o050.x-oo.chatgpt.site/","title":"خانواده‌های نمایی، پارامتر طبیعی و تابع نرمال‌ساز در آمار ریاضی","title_evidence":"homepage_anchor"}
+{"id":51,"source_url":"https://o051.x-oo.chatgpt.site/","title":"آمارهای ترتیبی، چندک‌ها و نظریه مقادیر حدی در احتمال و آمار","title_evidence":"homepage_anchor"}
+{"id":52,"source_url":"https://o052.x-oo.chatgpt.site/","title":"کاپولاها، قضیه اسکلار و مدل‌سازی ساختار وابستگی میان متغیرهای تصادفی","title_evidence":"homepage_anchor"}
+{"id":53,"source_url":"https://o053.x-oo.chatgpt.site/","title":"داده‌های مفقود، سازوکارهای فقدان و الگوریتم امیدریاضی–بیشینه‌سازی","title_evidence":"homepage_anchor"}
+{"id":54,"source_url":"https://o054.x-oo.chatgpt.site/","title":"آمار مقاوم، برآوردگرهای ام و تابع نفوذ در برابر داده‌های پرت و آلودگی","title_evidence":"homepage_anchor"}
+{"id":55,"source_url":"https://o055.x-oo.chatgpt.site/","title":"مدل‌های فضای حالت و فیلتر کالمن؛ برآورد بازگشتی حالت در سامانه‌های تصادفی","title_evidence":"homepage_anchor"}
+{"id":56,"source_url":"https://o056.x-oo.chatgpt.site/","title":"مدل‌های مارکوف پنهان؛ الگوریتم‌های پیشرو–پسرو، ویتربی و باوم–ولچ","title_evidence":"homepage_anchor"}
+{"id":57,"source_url":"https://o057.x-oo.chatgpt.site/","title":"موجک‌ها و تحلیل چندتفکیکی؛ نمایش موضعی سیگنال در مقیاس و مکان","title_evidence":"homepage_anchor"}
+{"id":58,"source_url":"https://o058.x-oo.chatgpt.site/","title":"تبدیل فوریه گسسته و الگوریتم تبدیل سریع فوریه؛ ساختار جبری، پیچیدگی و خطای عددی","title_evidence":"homepage_anchor"}
+{"id":59,"source_url":"https://o059.x-oo.chatgpt.site/","title":"روش‌های زیرفضای کریلوف، گرادیان مزدوج و کمینه‌سازی باقیمانده برای دستگاه‌های خطی بزرگ","title_evidence":"homepage_anchor"}
+{"id":60,"source_url":"https://o060.x-oo.chatgpt.site/","title":"منظم‌سازی ریج و لاسو در رگرسیون؛ مبادله سوگیری–واریانس، تنکی و انتخاب پارامتر جریمه","title_evidence":"homepage_anchor"}
+{"id":61,"source_url":"https://o061.x-oo.chatgpt.site/","title":"مدل‌های بیزی سلسله‌مراتبی، تجمیع جزئی و برآورد چندسطحی","title_evidence":"homepage_anchor"}
+{"id":62,"source_url":"https://o062.x-oo.chatgpt.site/","title":"نمونه‌گیری با احتمال نابرابر، برآوردگر هوروویتز–تامپسون و طرح‌های چندمرحله‌ای","title_evidence":"homepage_anchor"}
+{"id":63,"source_url":"https://o063.x-oo.chatgpt.site/","title":"تحلیل طیفی سری‌های زمانی؛ چگالی طیفی، دوره‌نگار، هموارسازی و محدودیت‌های حوزه بسامد","title_evidence":"homepage_anchor"}
+{"id":64,"source_url":"https://o064.x-oo.chatgpt.site/","title":"مدل‌های ناهمسانی واریانس شرطی خودرگرسیو و تعمیم‌یافته؛ واریانس شرطی، خوشه‌بندی نوسان و شرایط ایستایی","title_evidence":"homepage_anchor"}
+{"id":65,"source_url":"https://o065.x-oo.chatgpt.site/","title":"حساب ایتو و معادلات دیفرانسیل تصادفی؛ تغییرات درجه دوم، فرمول ایتو و تقریب اویلر–مارویاما","title_evidence":"homepage_anchor"}
+{"id":66,"source_url":"https://o066.x-oo.chatgpt.site/","title":"فرایندهای شاخه‌ای گالتون–واتسون؛ تابع مولد، احتمال انقراض و رژیم‌های زیر بحرانی تا فوق بحرانی","title_evidence":"homepage_anchor"}
+{"id":67,"source_url":"https://o067.x-oo.chatgpt.site/","title":"تطابق در گراف‌های دوبخشی، قضیه هال، مسیرهای افزایشی و مسئله تخصیص","title_evidence":"homepage_anchor"}
+{"id":68,"source_url":"https://o068.x-oo.chatgpt.site/","title":"عملگر مجاور، گرادیان مجاور و روش‌های شکافت در بهینه‌سازی محدب نامشتق‌پذیر","title_evidence":"homepage_anchor"}
+{"id":69,"source_url":"https://o069.x-oo.chatgpt.site/","title":"شبه‌مونت‌کارلو، ناهمگنی ستاره‌ای و دنباله‌های کم‌ناهمگنی برای انتگرال‌گیری عددی","title_evidence":"homepage_anchor"}
+{"id":70,"source_url":"https://o070.x-oo.chatgpt.site/","title":"تابع توزیع تجربی، قضیه گلیونکو–کانتلی و کران دوورتسکی–کیفر–ولفویتز","title_evidence":"homepage_anchor"}
+{"id":71,"source_url":"https://o071.x-oo.chatgpt.site/","title":"نظریه تصمیم بیزی، تابع زیان، ریسک و قواعد تصمیم بهینه","title_evidence":"homepage_anchor"}
+{"id":72,"source_url":"https://o072.x-oo.chatgpt.site/","title":"انتخاب مدل آماری، اعتبارسنجی متقاطع و معیارهای آکائیکه و شوارتس","title_evidence":"homepage_anchor"}
+{"id":73,"source_url":"https://o073.x-oo.chatgpt.site/","title":"طراحی آزمایش بهینه، ماتریس اطلاعات و معیارهای D، A و G","title_evidence":"homepage_anchor"}
+{"id":74,"source_url":"https://o074.x-oo.chatgpt.site/","title":"گراف‌های تصادفی اردوش–رنی، آستانه‌های احتمالی و پیدایش مؤلفه غول‌آسا","title_evidence":"homepage_anchor"}
+{"id":75,"source_url":"https://o075.x-oo.chatgpt.site/","title":"قضیه پرون–فروبنیوس، ماتریس‌های نامنفی و ساختار بردار ویژه غالب","title_evidence":"homepage_anchor"}
+{"id":76,"source_url":"https://o076.x-oo.chatgpt.site/","title":"تقریب چبیشف، نقاط بهینه درون‌یابی و همگرایی طیفی برای توابع هموار","title_evidence":"homepage_anchor"}
+{"id":77,"source_url":"https://o077.x-oo.chatgpt.site/","title":"برنامه‌ریزی نیمه‌معین، ماتریس‌های مثبت نیمه‌معین و دوگانگی محدب","title_evidence":"homepage_anchor"}
+{"id":78,"source_url":"https://o078.x-oo.chatgpt.site/","title":"حل عددی معادلات غیرخطی؛ روش دوبخشی، نیوتن و سکانت و تحلیل همگرایی","title_evidence":"homepage_anchor"}
+{"id":79,"source_url":"https://o079.x-oo.chatgpt.site/","title":"برنامه‌ریزی عدد صحیح، آرام‌سازی خطی، روش شاخه‌وکران و صفحات برشی","title_evidence":"homepage_anchor"}
+{"id":80,"source_url":"https://o080.x-oo.chatgpt.site/","title":"توابع مشخصه، قضیه پیوستگی لوی و همگرایی توزیعی متغیرهای تصادفی","title_evidence":"homepage_anchor"}
+{"id":81,"source_url":"https://o081.x-oo.chatgpt.site/","title":"آزمون نسبت درست‌نمایی و قضیه ویلکس؛ مبانی، تقریب مجانبی و محدودیت‌ها","title_evidence":"homepage_anchor"}
+{"id":82,"source_url":"https://o082.x-oo.chatgpt.site/","title":"مدل‌های خطی اثرات آمیخته و برآورد درست‌نمایی محدود","title_evidence":"homepage_anchor"}
+{"id":83,"source_url":"https://o083.x-oo.chatgpt.site/","title":"ریشه واحد، ایستایی و هم‌انباشتگی در سری‌های زمانی","title_evidence":"homepage_anchor"}
+{"id":84,"source_url":"https://o084.x-oo.chatgpt.site/","title":"تجزیه مقادیر منفرد و تقریب کم‌رتبه ماتریس‌ها","title_evidence":"homepage_anchor"}
+{"id":85,"source_url":"https://o085.x-oo.chatgpt.site/","title":"فضاهای هیلبرت و قضیه نمایش ریس برای تابعی‌های خطی پیوسته","title_evidence":"homepage_anchor"}
+{"id":86,"source_url":"https://o086.x-oo.chatgpt.site/","title":"روش‌های نقطه داخلی در بهینه‌سازی محدب","title_evidence":"homepage_anchor"}
+{"id":87,"source_url":"https://o087.x-oo.chatgpt.site/","title":"نمودارهای ورونوی و مثلث‌بندی دلونه در هندسه محاسباتی","title_evidence":"homepage_anchor"}
+{"id":88,"source_url":"https://o088.x-oo.chatgpt.site/","title":"قضیه کدگذاری کانال شانون و ظرفیت ارتباط مطمئن","title_evidence":"homepage_anchor"}
+{"id":89,"source_url":"https://o089.x-oo.chatgpt.site/","title":"تقریب تصادفی، روش رابینز–مونرو و گرادیان تصادفی","title_evidence":"homepage_anchor"}
+{"id":90,"source_url":"https://o090.x-oo.chatgpt.site/","title":"قانون اعداد بزرگ، لم‌های بورل–کانتلی و همگرایی تقریباً حتمی","title_evidence":"homepage_anchor"}
+{"id":91,"source_url":"https://o091.x-oo.chatgpt.site/","title":"توزیع نرمال چندمتغیره، ماتریس کوواریانس و توزیع‌های شرطی","title_evidence":"homepage_anchor"}
+{"id":92,"source_url":"https://o092.x-oo.chatgpt.site/","title":"تحلیل واریانس، تجزیه مجموع مربعات و آزمون نسبت واریانس‌ها","title_evidence":"homepage_anchor"}
+{"id":93,"source_url":"https://o093.x-oo.chatgpt.site/","title":"معادلات برآورد تعمیم‌یافته برای داده‌های طولی و همبسته","title_evidence":"homepage_anchor"}
+{"id":94,"source_url":"https://o094.x-oo.chatgpt.site/","title":"فضاهای متریک، فشردگی، کامل‌بودن و مرزهای قضیه هاین–بورل","title_evidence":"homepage_anchor"}
+{"id":95,"source_url":"https://o095.x-oo.chatgpt.site/","title":"مسائل اشتورم–لیوویل، مقادیر ویژه و بسط تابعی‌های متعامد","title_evidence":"homepage_anchor"}
+{"id":96,"source_url":"https://o096.x-oo.chatgpt.site/","title":"تجزیه LU، محورگیری جزئی و پایداری پسرو در حل دستگاه‌های خطی","title_evidence":"homepage_anchor"}
+{"id":97,"source_url":"https://o097.x-oo.chatgpt.site/","title":"روش‌های ناحیه اعتماد در بهینه‌سازی غیرخطی؛ مدل درجه‌دو و پذیرش گام","title_evidence":"homepage_anchor"}
+{"id":98,"source_url":"https://o098.x-oo.chatgpt.site/","title":"ماترویدها، خاصیت تبادل و چرایی بهینگی الگوریتم حریصانه","title_evidence":"homepage_anchor"}
+{"id":99,"source_url":"https://o099.x-oo.chatgpt.site/","title":"قضیه نمونه‌برداری، حد نایکوئیست و پدیده هم‌پوشانی طیفی","title_evidence":"homepage_anchor"}
+{"id":100,"source_url":"https://o100.x-oo.chatgpt.site/","title":"مکانیک لاگرانژی و همیلتونی: از اصل کنش تا تقارن و قوانین بقا","title_evidence":"homepage_anchor"}
+{"id":101,"source_url":"https://o101.x-oo.chatgpt.site/","title":"دینامیک غیرخطی و آشوب قطعی: پایداری، دوشاخه‌شدن، نماهای لیاپانوف و جاذب‌های غریب","title_evidence":"homepage_anchor"}
+{"id":102,"source_url":"https://o102.x-oo.chatgpt.site/","title":"آنتروپی، مجموعه‌های آماری و تابع پارش: پیوند ریزحالت‌ها با ترمودینامیک","title_evidence":"homepage_anchor"}
+{"id":103,"source_url":"https://o103.x-oo.chatgpt.site/","title":"معادلات ماکسول و انتشار موج الکترومغناطیسی: از شرایط مرزی تا بردار پوینتینگ","title_evidence":"homepage_anchor"}
+{"id":104,"source_url":"https://o104.x-oo.chatgpt.site/","title":"پراش، تبدیل فوریه و حد تفکیک در اپتیک موجی","title_evidence":"homepage_anchor"}
+{"id":105,"source_url":"https://o105.x-oo.chatgpt.site/","title":"اندازه‌گیری کوانتومی، عملگرها و اصل عدم‌قطعیت","title_evidence":"homepage_anchor"}
+{"id":106,"source_url":"https://o106.x-oo.chatgpt.site/","title":"نسبیت خاص: تبدیلات لورنتس، فاصله فضا-زمانی و دینامیک نسبیتی","title_evidence":"homepage_anchor"}
+{"id":107,"source_url":"https://o107.x-oo.chatgpt.site/","title":"نظریه نوارهای انرژی در جامدات: از قضیه بلوخ تا فلز، نیمه‌رسانا و عایق","title_evidence":"homepage_anchor"}
+{"id":108,"source_url":"https://o108.x-oo.chatgpt.site/","title":"انرژی بستگی هسته‌ای و واپاشی رادیواکتیو: از نقص جرم تا نیمه‌عمر","title_evidence":"homepage_anchor"}
+{"id":109,"source_url":"https://o109.x-oo.chatgpt.site/","title":"ساختار و تحول ستاره‌ای: از تعادل هیدروستاتیکی تا کوتوله سفید، ستاره نوترونی و ابرنواختر","title_evidence":"homepage_anchor"}
+{"id":110,"source_url":"https://o110.x-oo.chatgpt.site/","title":"صورت‌بندی همیلتونی در مکانیک کلاسیک: فضای فاز، براکت پواسون و قوانین بقا","title_evidence":"homepage_anchor"}
+{"id":111,"source_url":"https://o111.x-oo.chatgpt.site/","title":"معادلات ناویر–استوکس: بقای جرم و تکانه، لزجت و گذار از جریان آرام به آشفته","title_evidence":"homepage_anchor"}
+{"id":112,"source_url":"https://o112.x-oo.chatgpt.site/","title":"تابع پارش و توزیع بولتزمن: چگونه رفتار میکروسکوپی به ترمودینامیک می‌رسد","title_evidence":"homepage_anchor"}
+{"id":113,"source_url":"https://o113.x-oo.chatgpt.site/","title":"قضیه پوینتینگ و انتقال انرژی الکترومغناطیسی: از معادلات ماکسول تا شار توان","title_evidence":"homepage_anchor"}
+{"id":114,"source_url":"https://o114.x-oo.chatgpt.site/","title":"پراش فرنل و فراونهوفر: حد تفکیک، تبدیل فوریه و ساختار موجی نور","title_evidence":"homepage_anchor"}
+{"id":115,"source_url":"https://o115.x-oo.chatgpt.site/","title":"تونل‌زنی کوانتومی و تقریب نیمه‌کلاسیک: عبور از سد پتانسیل و حدود اعتبار WKB","title_evidence":"homepage_anchor"}
+{"id":116,"source_url":"https://o116.x-oo.chatgpt.site/","title":"اتساع زمان گرانشی و اصل هم‌ارزی: از میدان ضعیف تا آزمون ساعت‌های دقیق","title_evidence":"homepage_anchor"}
+{"id":117,"source_url":"https://o117.x-oo.chatgpt.site/","title":"نظریه نواری جامدات و قضیه بلوخ: از پتانسیل تناوبی تا فلز، نیم‌رسانا و عایق","title_evidence":"homepage_anchor"}
+{"id":118,"source_url":"https://o118.x-oo.chatgpt.site/","title":"انرژی بستگی هسته‌ای و مقدار Q واکنش: تراز جرم–انرژی در واپاشی، شکافت و همجوشی","title_evidence":"homepage_anchor"}
+{"id":119,"source_url":"https://o119.x-oo.chatgpt.site/","title":"هسته‌زایی ستاره‌ای: زنجیره‌های همجوشی، سد کولنی و منشأ عناصر تا آهن","title_evidence":"homepage_anchor"}
+{"id":120,"source_url":"https://o120.x-oo.chatgpt.site/","title":"حرکت در میدان نیروی مرکزی و مسئله کپلر: از پتانسیل مؤثر تا مدارهای مخروطی","title_evidence":"homepage_anchor"}
+{"id":121,"source_url":"https://o121.x-oo.chatgpt.site/","title":"گردابه، گردش و قضیه کلوین در فیزیک سیالات: از معادله گردابه‌گی تا کشش گردابه","title_evidence":"homepage_anchor"}
+{"id":122,"source_url":"https://o122.x-oo.chatgpt.site/","title":"گذار فاز و پدیده‌های بحرانی: مدل آیزینگ، شکست تقارن و مقیاس‌بندی نزدیک نقطه بحرانی","title_evidence":"homepage_anchor"}
+{"id":123,"source_url":"https://o123.x-oo.chatgpt.site/","title":"موجبرهای الکترومغناطیسی و تشدیدگرهای کاواک: مُدهای عرضی، بسامد قطع و پاشندگی","title_evidence":"homepage_anchor"}
+{"id":124,"source_url":"https://o124.x-oo.chatgpt.site/","title":"فیزیک موج‌های صوتی و تشدید آکوستیکی: از خطی‌سازی معادلات سیال تا امپدانس و کاواک","title_evidence":"homepage_anchor"}
+{"id":125,"source_url":"https://o125.x-oo.chatgpt.site/","title":"نوسانگر هماهنگ کوانتومی: عملگرهای نردبانی، انرژی نقطه صفر و حالت‌های همدوس","title_evidence":"homepage_anchor"}
+{"id":126,"source_url":"https://o126.x-oo.chatgpt.site/","title":"اسپین یک‌دوم و آزمایش اشترن–گرلاخ: ماتریس‌های پائولی، اندازه‌گیری و هندسه حالت کوانتومی","title_evidence":"homepage_anchor"}
+{"id":127,"source_url":"https://o127.x-oo.chatgpt.site/","title":"هندسه شوارتزشیلد و حرکت در میدان گرانشی کروی: افق، مدارها و حد نیوتنی","title_evidence":"homepage_anchor"}
+{"id":128,"source_url":"https://o128.x-oo.chatgpt.site/","title":"ابررسانایی: اثر مایسنر، جفت‌های کوپر، نظریه BCS و کوانتش شار مغناطیسی","title_evidence":"homepage_anchor"}
+{"id":129,"source_url":"https://o129.x-oo.chatgpt.site/","title":"دینامیک کهکشان‌های مارپیچی و ماده تاریک: منحنی‌های چرخش، هاله جرم و حدود استنتاج گرانشی","title_evidence":"homepage_anchor"}
+{"id":130,"source_url":"https://o130.x-oo.chatgpt.site/","title":"نوسانگرهای جفت‌شده و مُدهای نرمال: از مسئله مقدار ویژه تا ضربان و موج","title_evidence":"homepage_anchor"}
+{"id":131,"source_url":"https://o131.x-oo.chatgpt.site/","title":"موج ضربه‌ای و روابط رانکین–هوگونیوت: پایستگی، آنتروپی و جریان فراصوت","title_evidence":"homepage_anchor"}
+{"id":132,"source_url":"https://o132.x-oo.chatgpt.site/","title":"تابش جسم سیاه و قانون پلانک: از بحران فرابنفش تا دماسنجی و اخترفیزیک","title_evidence":"homepage_anchor"}
+{"id":133,"source_url":"https://o133.x-oo.chatgpt.site/","title":"تابش بار شتاب‌دار و آنتن دوقطبی: از فرمول لامور تا میدان دور و الگوی تابش","title_evidence":"homepage_anchor"}
+{"id":134,"source_url":"https://o134.x-oo.chatgpt.site/","title":"قطبش نور، صفحات موج و دوشکستی: هندسه میدان از قانون مالوس تا بلورهای ناهمسانگرد","title_evidence":"homepage_anchor"}
+{"id":135,"source_url":"https://o135.x-oo.chatgpt.site/","title":"اتم هیدروژن در مکانیک کوانتومی: تابع موج، ترازهای انرژی و طیف اتمی","title_evidence":"homepage_anchor"}
+{"id":136,"source_url":"https://o136.x-oo.chatgpt.site/","title":"ذرات یکسان و آمار کوانتومی: از اصل طرد پائولی تا گازهای بوزی و فرمی","title_evidence":"homepage_anchor"}
+{"id":137,"source_url":"https://o137.x-oo.chatgpt.site/","title":"عدسی گرانشی در نسبیت عام: از حلقه اینشتین تا نقشه‌برداری جرم و ریزعدسی","title_evidence":"homepage_anchor"}
+{"id":138,"source_url":"https://o138.x-oo.chatgpt.site/","title":"فونون‌ها و ظرفیت گرمایی جامدات بلوری: از دینامیک شبکه تا مدل‌های اینشتین و دبای","title_evidence":"homepage_anchor"}
+{"id":139,"source_url":"https://o139.x-oo.chatgpt.site/","title":"تابش زمینه کیهانی: جسم سیاه کیهانی، ناهمسانگردی‌ها و طیف توان زاویه‌ای","title_evidence":"homepage_anchor"}
+{"id":140,"source_url":"https://o140.x-oo.chatgpt.site/","title":"دینامیک جسم صلب سه‌بعدی: تانسور لختی، معادلات اویلر، پیشایس و ناپایداری محور میانی","title_evidence":"homepage_anchor"}
+{"id":141,"source_url":"https://o141.x-oo.chatgpt.site/","title":"موج‌های سطحی سیال: رابطه پاشندگی، سرعت گروه، آب کم‌عمق و نقش کشش سطحی","title_evidence":"homepage_anchor"}
+{"id":142,"source_url":"https://o142.x-oo.chatgpt.site/","title":"نظریه جنبشی گازها و ضرایب انتقال: مسیر آزاد میانگین، لزجت، رسانندگی گرمایی و نفوذ","title_evidence":"homepage_anchor"}
+{"id":143,"source_url":"https://o143.x-oo.chatgpt.site/","title":"القای الکترومغناطیسی و اثر پوستی: قانون فاراده، خودالقایی، پخش میدان و اتلاف در رسانا","title_evidence":"homepage_anchor"}
+{"id":144,"source_url":"https://o144.x-oo.chatgpt.site/","title":"تداخل‌سنجی و همدوسی نور: از مایکلسون و فابری–پرو تا سنجش فاز و طول همدوسی","title_evidence":"homepage_anchor"}
+{"id":145,"source_url":"https://o145.x-oo.chatgpt.site/","title":"جمع تکانه زاویه‌ای در مکانیک کوانتومی: ضرایب کلبش–گوردان، جفت‌شدن اسپین و قواعد انتخاب","title_evidence":"homepage_anchor"}
+{"id":146,"source_url":"https://o146.x-oo.chatgpt.site/","title":"معادله دیراک و ذرات اسپین یک‌دوم: هموردایی لورنتسی، پادذره، کایرالیته و حد غیرنسبیتی","title_evidence":"homepage_anchor"}
+{"id":147,"source_url":"https://o147.x-oo.chatgpt.site/","title":"مدل استاندارد ذرات بنیادی و سازوکار هیگز: تقارن پیمانه‌ای، جرم، برهم‌کنش‌ها و حدود نظریه","title_evidence":"homepage_anchor"}
+{"id":148,"source_url":"https://o148.x-oo.chatgpt.site/","title":"فیزیک پلاسما: پوشش دبای، بسامد پلاسما، حرکت ذرات باردار و گذار از توصیف جنبشی به مغناطوهیدرودینامیک","title_evidence":"homepage_anchor"}
+{"id":149,"source_url":"https://o149.x-oo.chatgpt.site/","title":"معادلات فریدمان و انبساط کیهان: عامل مقیاس، سرخ‌گرایی، چگالی بحرانی و تاریخ تحول جهان","title_evidence":"homepage_anchor"}
+{"id":150,"source_url":"https://o150.x-oo.chatgpt.site/","title":"معادله همیلتون–ژاکوبی و متغیرهای کنش–زاویه: از تبدیل کانونیک تا سامانه‌های انتگرال‌پذیر","title_evidence":"homepage_anchor"}
+{"id":151,"source_url":"https://o151.x-oo.chatgpt.site/","title":"لایه مرزی در جریان لزج: مقیاس‌بندی پرانتل، جدایش جریان و منشأ پسا","title_evidence":"homepage_anchor"}
+{"id":152,"source_url":"https://o152.x-oo.chatgpt.site/","title":"ترمودینامیک نامتعادل و تولید آنتروپی: نیروهای ترمودینامیکی، روابط متقابل اونساگر و پدیده‌های انتقالی جفت‌شده","title_evidence":"homepage_anchor"}
+{"id":153,"source_url":"https://o153.x-oo.chatgpt.site/","title":"خط انتقال و تطبیق امپدانس: موج‌های رفت‌وبرگشتی، ضریب بازتاب و توان در سامانه‌های الکترومغناطیسی","title_evidence":"homepage_anchor"}
+{"id":154,"source_url":"https://o154.x-oo.chatgpt.site/","title":"اپتیک غیرخطی و تولید هماهنگ دوم: قطبش غیرخطی، تطبیق فاز و تبدیل بسامد نور","title_evidence":"homepage_anchor"}
+{"id":155,"source_url":"https://o155.x-oo.chatgpt.site/","title":"نظریه اغتشاش و روش وردشی در مکانیک کوانتومی: تقریب انرژی، حالت و حدود همگرایی","title_evidence":"homepage_anchor"}
+{"id":156,"source_url":"https://o156.x-oo.chatgpt.site/","title":"درهم‌تنیدگی کوانتومی و نامساوی بل: هم‌بستگی‌های غیرکلاسیکی، آزمون‌های بدون رخنه و اصل عدم ارسال پیام","title_evidence":"homepage_anchor"}
+{"id":157,"source_url":"https://o157.x-oo.chatgpt.site/","title":"موج‌های گرانشی در نسبیت عام: تقریب میدان ضعیف، قطبش، کرنش و آشکارسازی تداخل‌سنجی","title_evidence":"homepage_anchor"}
+{"id":158,"source_url":"https://o158.x-oo.chatgpt.site/","title":"پیوند p–n در نیمه‌رساناها: ناحیه تهی، پتانسیل داخلی، تزریق حامل و مشخصه جریان–ولتاژ","title_evidence":"homepage_anchor"}
+{"id":159,"source_url":"https://o159.x-oo.chatgpt.site/","title":"کشف سیاره‌های فراخورشیدی با گذر و سرعت شعاعی: هندسه مدار، منحنی نور و استنتاج جرم و شعاع","title_evidence":"homepage_anchor"}
+{"id":160,"source_url":"https://o160.x-oo.chatgpt.site/","title":"چارچوب‌های چرخان و نیروهای لَختی: اثر کوریولیس، نیروی مرکزگریز و آونگ فوکو","title_evidence":"homepage_anchor"}
+{"id":161,"source_url":"https://o161.x-oo.chatgpt.site/","title":"همرفت رایلی–بنار و ناپایداری گرمایی در سیالات: عدد رایلی، آغاز همرفت و ساختار الگوها","title_evidence":"homepage_anchor"}
+{"id":162,"source_url":"https://o162.x-oo.chatgpt.site/","title":"چگالش بوز–اینشتین در گازهای رقیق: دمای بحرانی، برهم‌کنش ضعیف و معادله گروس–پیتایفسکی","title_evidence":"homepage_anchor"}
+{"id":163,"source_url":"https://o163.x-oo.chatgpt.site/","title":"تانسور تنش ماکسول و فشار تابشی: انتقال تکانه در میدان الکترومغناطیسی","title_evidence":"homepage_anchor"}
+{"id":164,"source_url":"https://o164.x-oo.chatgpt.site/","title":"اپتیک هندسی ماتریسی و پایداری سامانه‌های پرتو: از ماتریس انتقال تا کاواک نوری","title_evidence":"homepage_anchor"}
+{"id":165,"source_url":"https://o165.x-oo.chatgpt.site/","title":"پراکندگی کوانتومی: دامنه پراکندگی، سطح مقطع، امواج جزئی و تشدید","title_evidence":"homepage_anchor"}
+{"id":166,"source_url":"https://o166.x-oo.chatgpt.site/","title":"میدان کوانتومی اسکالر آزاد: کوانتش کانونیک، خلأ، ذره و تابع انتشار","title_evidence":"homepage_anchor"}
+{"id":167,"source_url":"https://o167.x-oo.chatgpt.site/","title":"مدل پوسته‌ای هسته و اعداد جادویی: پتانسیل میانگین، جفت‌شدگی اسپین–مدار و تحول پوسته‌ها","title_evidence":"homepage_anchor"}
+{"id":168,"source_url":"https://o168.x-oo.chatgpt.site/","title":"تعادل نسبیتی ستاره‌های نوترونی: معادلات تولمن–اوپنهایمر–ولکوف، معادله حالت و رابطه جرم–شعاع","title_evidence":"homepage_anchor"}
+{"id":169,"source_url":"https://o169.x-oo.chatgpt.site/","title":"اخترسنجی دقیق و اختلاف منظر ستاره‌ای: فاصله، حرکت خاص و بازسازی حرکت سه‌بعدی با Gaia","title_evidence":"homepage_anchor"}
+{"id":170,"source_url":"https://o170.x-oo.chatgpt.site/","title":"قضیه وریال در سامانه‌های گرانشی و کاربردهای اخترفیزیکی","title_evidence":"homepage_anchor"}
+{"id":171,"source_url":"https://o171.x-oo.chatgpt.site/","title":"ناپایداری جینز و آغاز فروپاشی گرانشی در گازهای اخترفیزیکی","title_evidence":"homepage_anchor"}
+{"id":172,"source_url":"https://o172.x-oo.chatgpt.site/","title":"معادله انتقال تابش در اخترفیزیک: جذب، گسیل، پراکندگی و عمق نوری","title_evidence":"homepage_anchor"}
+{"id":173,"source_url":"https://o173.x-oo.chatgpt.site/","title":"اثر زیمان و شکافت ترازهای اتمی در میدان مغناطیسی","title_evidence":"homepage_anchor"}
+{"id":174,"source_url":"https://o174.x-oo.chatgpt.site/","title":"اثر هال کوانتومی: کوانتش رسانندگی و توپولوژی در سامانه‌های دوبعدی","title_evidence":"homepage_anchor"}
+{"id":175,"source_url":"https://o175.x-oo.chatgpt.site/","title":"فیزیک لیزر: گسیل القایی، وارونی جمعیت، آستانه و پویایی کاواک","title_evidence":"homepage_anchor"}
+{"id":176,"source_url":"https://o176.x-oo.chatgpt.site/","title":"واپاشی بتا و برهم‌کنش ضعیف: از طیف پیوسته تا نوترینو","title_evidence":"homepage_anchor"}
+{"id":177,"source_url":"https://o177.x-oo.chatgpt.site/","title":"اخترلرزه‌شناسی: مدهای فشاری و گرانشی به‌عنوان کاوشگر درون ستاره‌ها","title_evidence":"homepage_anchor"}
+{"id":178,"source_url":"https://o178.x-oo.chatgpt.site/","title":"قرص‌های برافزایشی و حد ادینگتون: تبدیل انرژی گرانشی به تابش","title_evidence":"homepage_anchor"}
+{"id":179,"source_url":"https://o179.x-oo.chatgpt.site/","title":"سیاهچاله کر: چرخش فضازمان، ارگوسفر و استخراج انرژی","title_evidence":"homepage_anchor"}
+{"id":180,"source_url":"https://o180.x-oo.chatgpt.site/","title":"نظریه KAM و پایداری سامانه‌های نزدیک‌انتگرال‌پذیر: چنبره‌های ناوردا، تشدید و گذار به آشوب","title_evidence":"homepage_anchor"}
+{"id":181,"source_url":"https://o181.x-oo.chatgpt.site/","title":"بازپیوند مغناطیسی در پلاسما: شکست انجماد شار، لایه پخشی و تبدیل انرژی","title_evidence":"homepage_anchor"}
+{"id":182,"source_url":"https://o182.x-oo.chatgpt.site/","title":"ابرشارگی هلیوم-۴: مدل دوسیالی، معیار لاندائو و گردابه‌های کوانتیده","title_evidence":"homepage_anchor"}
+{"id":183,"source_url":"https://o183.x-oo.chatgpt.site/","title":"اثر کازیمیر: شرایط مرزی میدان کوانتومی، نیرو میان مواد واقعی و آزمون تجربی","title_evidence":"homepage_anchor"}
+{"id":184,"source_url":"https://o184.x-oo.chatgpt.site/","title":"پراکندگی کامپتون: پایستگی چهار-تکانه، فرمول کلاین–نیشینا و آزمون تجربی","title_evidence":"homepage_anchor"}
+{"id":185,"source_url":"https://o185.x-oo.chatgpt.site/","title":"فیزیک شکافت هسته‌ای: مدل قطره مایع، سد شکافت و واکنش زنجیره‌ای","title_evidence":"homepage_anchor"}
+{"id":186,"source_url":"https://o186.x-oo.chatgpt.site/","title":"نوسان نوترینو: اختلاط طعم و جرم، فاز کوانتومی و اثر ماده","title_evidence":"homepage_anchor"}
+{"id":187,"source_url":"https://o187.x-oo.chatgpt.site/","title":"جو ستاره‌ای و تشکیل خطوط طیفی: انتقال تابش، تعادل آماری و استنتاج پارامترهای ستاره","title_evidence":"homepage_anchor"}
+{"id":188,"source_url":"https://o188.x-oo.chatgpt.site/","title":"ابرنواخترهای نوع Ia به‌عنوان شمع استانداردشونده: فیزیک انفجار، منحنی نور و فاصله کیهانی","title_evidence":"homepage_anchor"}
+{"id":189,"source_url":"https://o189.x-oo.chatgpt.site/","title":"نوسان‌های آکوستیکی باریونی: افق صوتی، خوشه‌بندی کهکشان‌ها و سنجش تاریخ انبساط","title_evidence":"homepage_anchor"}
+{"id":190,"source_url":"https://o190.x-oo.chatgpt.site/","title":"کشسانی پیوسته و امواج الاستیک: تانسور تنش، کرنش، قانون هوک و انتشار موج در جامدات","title_evidence":"homepage_anchor"}
+{"id":191,"source_url":"https://o191.x-oo.chatgpt.site/","title":"آشفتگی کولموگروف: آبشار انرژی، مقیاس اینرسی و قانون پنج‌سوم در جریان‌های آشفته","title_evidence":"homepage_anchor"}
+{"id":192,"source_url":"https://o192.x-oo.chatgpt.site/","title":"حرکت براونی و قضیه نوسان–اتلاف: از انتشار تصادفی تا پاسخ خطی در سامانه‌های گرمایی","title_evidence":"homepage_anchor"}
+{"id":193,"source_url":"https://o193.x-oo.chatgpt.site/","title":"تابش سنکروترونی در اخترفیزیک: حرکت نسبیتی بارها، طیف پیوسته و سنجش میدان‌های مغناطیسی","title_evidence":"homepage_anchor"}
+{"id":194,"source_url":"https://o194.x-oo.chatgpt.site/","title":"پاشندگی نوری و ضریب شکست: از نوسانگرهای مقید تا رابطه سل‌مایر و سرعت گروه","title_evidence":"homepage_anchor"}
+{"id":195,"source_url":"https://o195.x-oo.chatgpt.site/","title":"ماتریس چگالی و واهمدوسی کوانتومی: سامانه باز، ردگیری جزئی و ظهور رفتار کلاسیک مؤثر","title_evidence":"homepage_anchor"}
+{"id":196,"source_url":"https://o196.x-oo.chatgpt.site/","title":"نظریه مایع فرمی لاندائو: شبه‌ذره، سطح فرمی و پاسخ جمعی در سامانه‌های برهم‌کنشی","title_evidence":"homepage_anchor"}
+{"id":197,"source_url":"https://o197.x-oo.chatgpt.site/","title":"کرومودینامیک کوانتومی: بار رنگی، گلوئون‌ها، آزادی مجانبی و محصورشدگی کوارک","title_evidence":"homepage_anchor"}
+{"id":198,"source_url":"https://o198.x-oo.chatgpt.site/","title":"فیزیک تپ‌اخترها: ترمز چرخشی، مگنتوسفر، تابش پالسی و زمان‌سنجی ستاره‌های نوترونی","title_evidence":"homepage_anchor"}
+{"id":199,"source_url":"https://o199.x-oo.chatgpt.site/","title":"تورم کیهانی: انبساط شتاب‌دار آغازین، نوسان‌های کوانتومی و آزمون‌های تابش زمینه کیهانی","title_evidence":"homepage_anchor"}
+{"id":200,"source_url":"https://o200.x-oo.chatgpt.site/","title":"مکانیزم‌های جانشینی هسته‌دوست S_N1 و S_N2: سینتیک، استریوشیمی، حلال و رقابت مسیرها","title_evidence":"homepage_anchor"}
+{"id":201,"source_url":"https://o201.x-oo.chatgpt.site/","title":"جفت‌شدن متقاطع پالادیم: چرخه کاتالیستی، طراحی لیگاند و کنترل مسیرهای جانبی","title_evidence":"homepage_anchor"}
+{"id":202,"source_url":"https://o202.x-oo.chatgpt.site/","title":"میدان بلوری و میدان لیگاند در کمپلکس‌های فلزات واسطه: از شکافت d تا طیف و مغناطیس","title_evidence":"homepage_anchor"}
+{"id":203,"source_url":"https://o203.x-oo.chatgpt.site/","title":"تیتراسیون اسید–باز به‌عنوان اندازه‌گیری متروژیک: نقطه هم‌ارزی، pH، استانداردسازی و عدم‌قطعیت","title_evidence":"homepage_anchor"}
+{"id":204,"source_url":"https://o204.x-oo.chatgpt.site/","title":"نظریه حالت گذار و سینتیک واکنش: از معادله Arrhenius تا انرژی آزاد فعال‌سازی","title_evidence":"homepage_anchor"}
+{"id":205,"source_url":"https://o205.x-oo.chatgpt.site/","title":"لایه بین‌فازی الکترولیت جامد در باتری لیتیوم‌یون: تشکیل، انتقال Li+، مشخصه‌یابی و شکست","title_evidence":"homepage_anchor"}
+{"id":206,"source_url":"https://o206.x-oo.chatgpt.site/","title":"کاتالیز ناهمگن و شیمی سطح: جذب، سایت فعال، سینتیک و مشخصه‌یابی operando","title_evidence":"homepage_anchor"}
+{"id":207,"source_url":"https://o207.x-oo.chatgpt.site/","title":"گذار شیشه‌ای و ویسکوالاستیسیته پلیمرها: از دینامیک زنجیر تا DMA، رئولوژی و فرایند","title_evidence":"homepage_anchor"}
+{"id":208,"source_url":"https://o208.x-oo.chatgpt.site/","title":"خوردگی الکتروشیمیایی و پسیواسیون فلزات: از سینتیک انحلال تا EIS و شکست موضعی","title_evidence":"homepage_anchor"}
+{"id":209,"source_url":"https://o209.x-oo.chatgpt.site/","title":"مواد دوبعدی graphene و MoS2: ساختار–خواص، نقص‌ها و مشخصه‌یابی Raman، AFM و XPS","title_evidence":"homepage_anchor"}
+{"id":210,"source_url":"https://o210.x-oo.chatgpt.site/","title":"ترمودینامیک تعادل فازی و نقش انرژی آزاد گیبس در طراحی مواد","title_evidence":"homepage_anchor"}
+{"id":211,"source_url":"https://o211.x-oo.chatgpt.site/","title":"سینتیک شیمیایی، نظریه حالت گذار و استخراج مکانیسم از قانون سرعت","title_evidence":"homepage_anchor"}
+{"id":212,"source_url":"https://o212.x-oo.chatgpt.site/","title":"ولتامتری چرخه‌ای؛ از انتقال الکترون تا تشخیص محدودیت نفوذ و سینتیک الکترودی","title_evidence":"homepage_anchor"}
+{"id":213,"source_url":"https://o213.x-oo.chatgpt.site/","title":"جذب گاز و روش BET؛ سنجش سطح ویژه و خطاهای رایج در مواد متخلخل","title_evidence":"homepage_anchor"}
+{"id":214,"source_url":"https://o214.x-oo.chatgpt.site/","title":"اصل ساباتیه و رابطه ساختار–فعالیت در کاتالیز ناهمگن","title_evidence":"homepage_anchor"}
+{"id":215,"source_url":"https://o215.x-oo.chatgpt.site/","title":"گذار شیشه‌ای در پلیمرها؛ تحرک زنجیر، حجم آزاد و تاریخچه حرارتی","title_evidence":"homepage_anchor"}
+{"id":216,"source_url":"https://o216.x-oo.chatgpt.site/","title":"رسوب‌سختی در آلیاژهای آلومینیوم؛ از محلول فوق‌اشباع تا رسوبات تقویت‌کننده","title_evidence":"homepage_anchor"}
+{"id":217,"source_url":"https://o217.x-oo.chatgpt.site/","title":"خوردگی و پسیواسیون فولاد زنگ‌نزن؛ پایداری فیلم اکسیدی و شکست موضعی","title_evidence":"homepage_anchor"}
+{"id":218,"source_url":"https://o218.x-oo.chatgpt.site/","title":"گرافن و مواد دوبعدی؛ پیوند ساختار اتمی با خواص مکانیکی و الکترونیکی","title_evidence":"homepage_anchor"}
+{"id":219,"source_url":"https://o219.x-oo.chatgpt.site/","title":"پلیمرهای خودترمیم‌شونده؛ پیوندهای دینامیک، شبکه‌های برگشت‌پذیر و سنجش واقعی ترمیم","title_evidence":"homepage_anchor"}
+{"id":220,"source_url":"https://o220.x-oo.chatgpt.site/","title":"شیمی هماهنگی و میدان لیگاند؛ ساختار الکترونی، هندسه و خواص کمپلکس‌های فلزات واسطه","title_evidence":"homepage_anchor"}
+{"id":221,"source_url":"https://o221.x-oo.chatgpt.site/","title":"طیف‌سنجی مادون‌قرمز و رامان؛ تقارن مولکولی، مدهای ارتعاشی و تفسیر طیف مواد","title_evidence":"homepage_anchor"}
+{"id":222,"source_url":"https://o222.x-oo.chatgpt.site/","title":"پراش پرتو ایکس و تحلیل ساختار بلوری؛ از قانون براگ تا پالایش ریتولد","title_evidence":"homepage_anchor"}
+{"id":223,"source_url":"https://o223.x-oo.chatgpt.site/","title":"شیشه‌های سیلیکاتی؛ شبکه آمورف، اصلاح‌کننده‌های شبکه و رابطه ترکیب با خواص","title_evidence":"homepage_anchor"}
+{"id":224,"source_url":"https://o224.x-oo.chatgpt.site/","title":"سرامیک‌های زیرکونیایی پایدارشده؛ استحاله فازی، چقرمه‌سازی و شکست","title_evidence":"homepage_anchor"}
+{"id":225,"source_url":"https://o225.x-oo.chatgpt.site/","title":"کامپوزیت‌های الیاف کربن–پلیمر؛ انتقال بار، فصل مشترک و سازوکارهای شکست","title_evidence":"homepage_anchor"}
+{"id":226,"source_url":"https://o226.x-oo.chatgpt.site/","title":"نانوبلورهای نیمه‌رسانا و نقاط کوانتومی؛ محصورشدگی کوانتومی، سطح و خواص نوری","title_evidence":"homepage_anchor"}
+{"id":227,"source_url":"https://o227.x-oo.chatgpt.site/","title":"آلیاژهای حافظه‌دار نیکل–تیتانیوم؛ مارتنزیت، فوق‌کشسانی و اثر حافظه شکلی","title_evidence":"homepage_anchor"}
+{"id":228,"source_url":"https://o228.x-oo.chatgpt.site/","title":"شیمی سل–ژل؛ هیدرولیز، تراکم و مهندسی اکسیدهای نانوساختار","title_evidence":"homepage_anchor"}
+{"id":229,"source_url":"https://o229.x-oo.chatgpt.site/","title":"باتری‌های لیتیوم‌یون؛ ترمودینامیک درج، انتقال یون و تخریب مواد الکترودی","title_evidence":"homepage_anchor"}
+{"id":230,"source_url":"https://o230.x-oo.chatgpt.site/","title":"نظریه اسید–باز و شیمی محلول؛ از برونستد–لوری تا لوئیس و گونه‌بندی تعادلی","title_evidence":"homepage_anchor"}
+{"id":231,"source_url":"https://o231.x-oo.chatgpt.site/","title":"شیمی آلی واکنش‌های جانشینی و حذف؛ رقابت SN1، SN2، E1 و E2 از دیدگاه مکانیزمی","title_evidence":"homepage_anchor"}
+{"id":232,"source_url":"https://o232.x-oo.chatgpt.site/","title":"واکنش‌های پری‌سیکلیک؛ تقارن اوربیتال، قواعد وودوارد–هافمن و کنترل استریوشیمی","title_evidence":"homepage_anchor"}
+{"id":233,"source_url":"https://o233.x-oo.chatgpt.site/","title":"کروماتوگرافی مایع با کارایی بالا؛ سازوکار جداسازی، پهن‌شدن باند و اعتبارسنجی کمی","title_evidence":"homepage_anchor"}
+{"id":234,"source_url":"https://o234.x-oo.chatgpt.site/","title":"طیف‌سنجی جرمی؛ یونش، تفکیک جرم، شکست مولکولی و شناسایی ترکیبات","title_evidence":"homepage_anchor"}
+{"id":235,"source_url":"https://o235.x-oo.chatgpt.site/","title":"جذب سطحی و ایزوترم‌ها؛ مدل‌های لانگمویر و BET، تخلخل و محدودیت‌های تفسیر","title_evidence":"homepage_anchor"}
+{"id":236,"source_url":"https://o236.x-oo.chatgpt.site/","title":"کاتالیز ناهمگن فلزی؛ جذب، واکنش سطحی، ساختار سایت فعال و غیرفعال‌شدن کاتالیست","title_evidence":"homepage_anchor"}
+{"id":237,"source_url":"https://o237.x-oo.chatgpt.site/","title":"فولادهای مارتنزیتی و عملیات حرارتی؛ استحاله، تمپرینگ و رابطه ریزساختار با خواص","title_evidence":"homepage_anchor"}
+{"id":238,"source_url":"https://o238.x-oo.chatgpt.site/","title":"هیدروژل‌ها؛ شبکه پلیمری، تورم، انتقال جرم و طراحی خواص مکانیکی","title_evidence":"homepage_anchor"}
+{"id":239,"source_url":"https://o239.x-oo.chatgpt.site/","title":"پروسکایت‌های هالیدی برای اپتوالکترونیک؛ ساختار، نقص، انتقال حامل و پایداری","title_evidence":"homepage_anchor"}
+{"id":240,"source_url":"https://o240.x-oo.chatgpt.site/","title":"الکتروشیمی بنیادی؛ پتانسیل الکترود، معادله نرنست و سینتیک انتقال بار","title_evidence":"homepage_anchor"}
+{"id":241,"source_url":"https://o241.x-oo.chatgpt.site/","title":"ولتامتری چرخه‌ای؛ انتقال جرم، واکنش‌پذیری الکترودی و تفسیر مکانیزمی منحنی جریان–پتانسیل","title_evidence":"homepage_anchor"}
+{"id":242,"source_url":"https://o242.x-oo.chatgpt.site/","title":"خوردگی فلزات؛ سلول‌های موضعی، پسیواسیون، خوردگی حفره‌ای و راهبردهای کنترل","title_evidence":"homepage_anchor"}
+{"id":243,"source_url":"https://o243.x-oo.chatgpt.site/","title":"گذار شیشه‌ای در پلیمرها؛ حرکت زنجیر، حجم آزاد، آرامش ساختاری و وابستگی زمانی–دمایی","title_evidence":"homepage_anchor"}
+{"id":244,"source_url":"https://o244.x-oo.chatgpt.site/","title":"پلیمریزاسیون رادیکالی؛ آغاز، رشد، خاتمه، انتقال زنجیر و کنترل جرم مولکولی","title_evidence":"homepage_anchor"}
+{"id":245,"source_url":"https://o245.x-oo.chatgpt.site/","title":"زینترینگ سرامیک‌ها؛ نفوذ، چگالش، رشد دانه و مهندسی ریزساختار","title_evidence":"homepage_anchor"}
+{"id":246,"source_url":"https://o246.x-oo.chatgpt.site/","title":"گرافن؛ ساختار نواری، نقص‌ها، انتقال الکترونی و رابطه فرایند ساخت با عملکرد","title_evidence":"homepage_anchor"}
+{"id":247,"source_url":"https://o247.x-oo.chatgpt.site/","title":"نانوبلورهای فلزی؛ هسته‌زایی، رشد، انرژی سطحی و کنترل شکل در سنتز محلولی","title_evidence":"homepage_anchor"}
+{"id":248,"source_url":"https://o248.x-oo.chatgpt.site/","title":"پلیمرهای حافظه‌دار؛ برنامه‌ریزی ترمومکانیکی، بازیابی شکل و طراحی شبکه","title_evidence":"homepage_anchor"}
+{"id":249,"source_url":"https://o249.x-oo.chatgpt.site/","title":"کامپوزیت‌های زمینه فلزی؛ فصل مشترک، انتقال بار، فرایند ساخت و سازوکارهای تقویت","title_evidence":"homepage_anchor"}
+{"id":250,"source_url":"https://o250.x-oo.chatgpt.site/","title":"طیف‌سنجی مادون‌قرمز تبدیل فوریه؛ ارتعاش مولکولی، قواعد انتخاب و تحلیل کمی طیف","title_evidence":"homepage_anchor"}
+{"id":251,"source_url":"https://o251.x-oo.chatgpt.site/","title":"طیف‌سنجی رامان؛ پراکندگی ناکشسان، قطبش‌پذیری و مشخصه‌یابی ساختار مواد","title_evidence":"homepage_anchor"}
+{"id":252,"source_url":"https://o252.x-oo.chatgpt.site/","title":"رزونانس مغناطیسی هسته‌ای؛ شیفت شیمیایی، کوپلینگ اسپین و استنتاج ساختار مولکولی","title_evidence":"homepage_anchor"}
+{"id":253,"source_url":"https://o253.x-oo.chatgpt.site/","title":"پراش پرتو ایکس در مواد بلوری؛ قانون براگ، شبکه متقابل، پهن‌شدگی قله و تحلیل فاز","title_evidence":"homepage_anchor"}
+{"id":254,"source_url":"https://o254.x-oo.chatgpt.site/","title":"ترمودینامیک محلول‌ها؛ پتانسیل شیمیایی، فعالیت، اختلاط غیرایده‌آل و تعادل فازی","title_evidence":"homepage_anchor"}
+{"id":255,"source_url":"https://o255.x-oo.chatgpt.site/","title":"سینتیک شیمیایی واکنش‌های پیچیده؛ تقریب حالت پایا، پیش‌تعادل و تعیین مرحله کنترل‌کننده","title_evidence":"homepage_anchor"}
+{"id":256,"source_url":"https://o256.x-oo.chatgpt.site/","title":"شیمی کمپلکس‌های فلزات واسطه؛ میدان لیگاند، حالت اسپینی و واکنش‌پذیری کئوردیناسیونی","title_evidence":"homepage_anchor"}
+{"id":257,"source_url":"https://o257.x-oo.chatgpt.site/","title":"آلیاژهای حافظه‌دار نیکل–تیتانیوم؛ استحاله مارتنزیتی، فوق‌کشسانی و مهندسی عملکرد","title_evidence":"homepage_anchor"}
+{"id":258,"source_url":"https://o258.x-oo.chatgpt.site/","title":"شیشه‌های سیلیکاتی؛ شبکه آمورف، اصلاح‌کننده‌ها، ویسکوزیته و رابطه ترکیب با خواص","title_evidence":"homepage_anchor"}
+{"id":259,"source_url":"https://o259.x-oo.chatgpt.site/","title":"نانولوله‌های کربنی؛ کایرالیته، ساختار الکترونی، نقص‌ها و انتقال بار در کامپوزیت‌ها","title_evidence":"homepage_anchor"}
+{"id":260,"source_url":"https://o260.x-oo.chatgpt.site/","title":"کاتالیز ناهمگن؛ جذب سطحی، سینتیک واکنش و رابطه ساختار کاتالیست با فعالیت و گزینش‌پذیری","title_evidence":"homepage_anchor"}
+{"id":261,"source_url":"https://o261.x-oo.chatgpt.site/","title":"ایزوترم‌های جذب سطحی؛ مدل‌های لانگمویر و BET، ناهمگنی سطح و محدودیت‌های استنتاج","title_evidence":"homepage_anchor"}
+{"id":262,"source_url":"https://o262.x-oo.chatgpt.site/","title":"نظریه حالت گذار و سطح انرژی پتانسیل؛ از سد فعال‌سازی تا ثابت سرعت واکنش","title_evidence":"homepage_anchor"}
+{"id":263,"source_url":"https://o263.x-oo.chatgpt.site/","title":"تعادل اسید–باز در محلول؛ فعالیت یونی، بافرها، چندپروتونی‌ها و حدود تقریب‌های pH","title_evidence":"homepage_anchor"}
+{"id":264,"source_url":"https://o264.x-oo.chatgpt.site/","title":"شیمی ردوکس و معادله نرنست؛ پتانسیل رسمی، گونه‌بندی و کوپل واکنش‌های اکسایش–کاهش","title_evidence":"homepage_anchor"}
+{"id":265,"source_url":"https://o265.x-oo.chatgpt.site/","title":"نمودارهای فازی دوتایی فلزی؛ تعادل فاز، یوتکتیک، انجماد و تحول ریزساختار","title_evidence":"homepage_anchor"}
+{"id":266,"source_url":"https://o266.x-oo.chatgpt.site/","title":"رسوب‌سختی در آلیاژهای فلزی؛ هسته‌زایی، رشد رسوب، برهم‌کنش نابجایی و بیش‌پیری","title_evidence":"homepage_anchor"}
+{"id":267,"source_url":"https://o267.x-oo.chatgpt.site/","title":"مکانیک شکست سرامیک‌ها؛ عیوب، چقرمگی شکست، رشد ترک و سازوکارهای مقاوم‌سازی","title_evidence":"homepage_anchor"}
+{"id":268,"source_url":"https://o268.x-oo.chatgpt.site/","title":"کامپوزیت‌های پلیمری تقویت‌شده با الیاف؛ فصل مشترک، انتقال بار، ناهمسانگردی و شکست","title_evidence":"homepage_anchor"}
+{"id":269,"source_url":"https://o269.x-oo.chatgpt.site/","title":"مواد دوبعدی دی‌کالکوژنید فلزات واسطه؛ ساختار لایه‌ای، اکسیتون‌ها، نقص‌ها و مهندسی دستگاه","title_evidence":"homepage_anchor"}
+{"id":270,"source_url":"https://o270.x-oo.chatgpt.site/","title":"گذار شیشه‌ای در پلیمرها؛ حجم آزاد، حرکت قطعه‌ای زنجیر و وابستگی زمان–دما","title_evidence":"homepage_anchor"}
+{"id":271,"source_url":"https://o271.x-oo.chatgpt.site/","title":"بلورینگی پلیمرها؛ هسته‌زایی، رشد لامل، سینتیک تبلور و اثر تاریخچه حرارتی","title_evidence":"homepage_anchor"}
+{"id":272,"source_url":"https://o272.x-oo.chatgpt.site/","title":"خوردگی و پسیواسیون فلزات؛ سینتیک الکتروشیمیایی، فیلم اکسیدی و شکست موضعی","title_evidence":"homepage_anchor"}
+{"id":273,"source_url":"https://o273.x-oo.chatgpt.site/","title":"اثر اندازه دانه بر استحکام فلزات؛ رابطه هال–پچ، سازوکار نابجایی و شکست آن در مقیاس نانو","title_evidence":"homepage_anchor"}
+{"id":274,"source_url":"https://o274.x-oo.chatgpt.site/","title":"شیمی سل–ژل سیلیکا؛ هیدرولیز، تراکم، ژل‌شدن و مهندسی تخلخل","title_evidence":"homepage_anchor"}
+{"id":275,"source_url":"https://o275.x-oo.chatgpt.site/","title":"شیمی نقص در اکسیدهای پروسکایتی؛ جای‌خالی اکسیژن، جبران بار و انتقال یونی–الکترونی","title_evidence":"homepage_anchor"}
+{"id":276,"source_url":"https://o276.x-oo.chatgpt.site/","title":"پلیمرهای خودترمیم‌شونده؛ پیوندهای دینامیک، نفوذ زنجیر و سنجش کمی بازیابی","title_evidence":"homepage_anchor"}
+{"id":277,"source_url":"https://o277.x-oo.chatgpt.site/","title":"هسته‌زایی و رشد نانوذرات کلوئیدی؛ فوق‌اشباع، مدل لامر، تمرکز اندازه و بلوغ استوالد","title_evidence":"homepage_anchor"}
+{"id":278,"source_url":"https://o278.x-oo.chatgpt.site/","title":"طیف‌سنجی فوتوالکترون پرتو ایکس؛ انرژی بستگی، شیفت شیمیایی و تحلیل کمی سطح","title_evidence":"homepage_anchor"}
+{"id":279,"source_url":"https://o279.x-oo.chatgpt.site/","title":"گرافن و مهندسی نقص؛ پراکندگی حامل، طیف‌سنجی رامان و رابطه نقص با عملکرد","title_evidence":"homepage_anchor"}
+{"id":280,"source_url":"https://o280.x-oo.chatgpt.site/","title":"آلیاژهای با آنتروپی بالا؛ ترمودینامیک اختلاط، نظم شیمیایی موضعی و سازوکارهای تغییر شکل","title_evidence":"homepage_anchor"}
+{"id":281,"source_url":"https://o281.x-oo.chatgpt.site/","title":"MXeneها؛ شیمی اچینگ، پایانه‌های سطحی، ساختار دوبعدی و رابطه سطح با انتقال بار","title_evidence":"homepage_anchor"}
+{"id":282,"source_url":"https://o282.x-oo.chatgpt.site/","title":"چارچوب‌های آلی کووالانسی؛ شیمی کووالانسی دینامیک، بلورینگی، تخلخل و طراحی عملکرد","title_evidence":"homepage_anchor"}
+{"id":283,"source_url":"https://o283.x-oo.chatgpt.site/","title":"فصل مشترک در باتری‌های حالت‌جامد؛ پایداری ترمودینامیکی، مقاومت بین‌سطحی و رشد دندریت","title_evidence":"homepage_anchor"}
+{"id":284,"source_url":"https://o284.x-oo.chatgpt.site/","title":"رسوب‌دهی لایه اتمی؛ واکنش‌های خودمحدودشونده سطح، پنجره فرایندی و کنترل زیرنانومتری فیلم","title_evidence":"homepage_anchor"}
+{"id":285,"source_url":"https://o285.x-oo.chatgpt.site/","title":"شیشه‌های فلزی؛ مایع فوق‌سرد، حجم آزاد، نوار برشی و رابطه نرخ سردشدن با چقرمگی","title_evidence":"homepage_anchor"}
+{"id":286,"source_url":"https://o286.x-oo.chatgpt.site/","title":"هیدروژل‌های شبکه دوگانه؛ اتلاف انرژی، شکست، تورم و طراحی همزمان نرمی و چقرمگی","title_evidence":"homepage_anchor"}
+{"id":287,"source_url":"https://o287.x-oo.chatgpt.site/","title":"الکترولیت‌های پلیمری؛ جفت‌شدن حرکت سگمنتی با انتقال یون و محدودیت‌های عدد انتقال","title_evidence":"homepage_anchor"}
+{"id":288,"source_url":"https://o288.x-oo.chatgpt.site/","title":"فوتوکاتالیز نیمه‌رسانا؛ تولید حامل، بازترکیب، سینتیک سطح و سنجش بازده کوانتومی","title_evidence":"homepage_anchor"}
+{"id":289,"source_url":"https://o289.x-oo.chatgpt.site/","title":"پروسکایت‌های هالیدی برای تبدیل انرژی؛ نقص‌ها، مهاجرت یون، فصل مشترک و پایداری عملیاتی","title_evidence":"homepage_anchor"}
+{"id":290,"source_url":"https://o290.x-oo.chatgpt.site/","title":"آلیاژهای حافظه‌دار NiTi؛ استحاله مارتنزیتی، فوق‌کشسانی، آموزش ترمومکانیکی و خستگی عملکردی","title_evidence":"homepage_anchor"}
+{"id":291,"source_url":"https://o291.x-oo.chatgpt.site/","title":"سرامیک‌های خودترمیم‌شونده؛ اکسیداسیون عامل ترمیم، پرشدن ترک و بازیابی استحکام در دمای بالا","title_evidence":"homepage_anchor"}
+{"id":292,"source_url":"https://o292.x-oo.chatgpt.site/","title":"مواد ترموالکتریک؛ ضریب شایستگی ZT، پراکندگی فونون و بهینه‌سازی همزمان انتقال الکترونی و گرمایی","title_evidence":"homepage_anchor"}
+{"id":293,"source_url":"https://o293.x-oo.chatgpt.site/","title":"ابرخازن‌ها و شبه‌ظرفیت؛ لایه دوگانه، واکنش سطحی سریع و محدودیت‌های سنجش چگالی انرژی","title_evidence":"homepage_anchor"}
+{"id":294,"source_url":"https://o294.x-oo.chatgpt.site/","title":"نانوکامپوزیت‌های زمینه فلزی؛ انتقال بار، تقویت اوروان، واکنش فصل مشترک و چالش تجمع نانوذرات","title_evidence":"homepage_anchor"}
+{"id":295,"source_url":"https://o295.x-oo.chatgpt.site/","title":"سرامیک‌های فوق‌دمابالا؛ بوریدها و کاربیدها، اکسیداسیون، شوک حرارتی و طراحی برای محیط‌های شدید","title_evidence":"homepage_anchor"}
+{"id":296,"source_url":"https://o296.x-oo.chatgpt.site/","title":"پلیمرهای رسانای مزدوج؛ دوپینگ، پولارون و بای‌پولارون، انتقال بار و پایداری محیطی","title_evidence":"homepage_anchor"}
+{"id":297,"source_url":"https://o297.x-oo.chatgpt.site/","title":"هیدروژن در فلزات؛ نفوذ، تله‌گذاری، تردی هیدروژنی و روش‌های تفکیک سازوکار شکست","title_evidence":"homepage_anchor"}
+{"id":298,"source_url":"https://o298.x-oo.chatgpt.site/","title":"مهندسی مرزدانه؛ جدایش، complexion، مهاجرت مرز و کنترل همزمان استحکام، خزش و خوردگی","title_evidence":"homepage_anchor"}
+{"id":299,"source_url":"https://o299.x-oo.chatgpt.site/","title":"مواد تغییر فاز برای ذخیره گرمای نهان؛ هسته‌زایی، فوق‌سردشدن، چرخه‌پذیری و مهندسی انتقال حرارت","title_evidence":"homepage_anchor"}
+{"id":300,"source_url":"https://o300.x-oo.chatgpt.site/","title":"وفاداری همانندسازی DNA؛ از انتخاب نوکلئوتید تا ویرایش پس‌ازهمانندسازی","title_evidence":"homepage_anchor"}
+{"id":301,"source_url":"https://o301.x-oo.chatgpt.site/","title":"تنظیم پیرایش RNA و منطق مولکولی پیرایش جایگزین","title_evidence":"homepage_anchor"}
+{"id":302,"source_url":"https://o302.x-oo.chatgpt.site/","title":"بازآرایی وابسته به ATP کروماتین؛ موتورهای مولکولی تنظیم دسترسی به نوکلئوزوم","title_evidence":"homepage_anchor"}
+{"id":303,"source_url":"https://o303.x-oo.chatgpt.site/","title":"معماری سه‌بعدی ژنوم؛ از Hi-C تا برون‌رانی حلقه و دامنه‌های TAD","title_evidence":"homepage_anchor"}
+{"id":304,"source_url":"https://o304.x-oo.chatgpt.site/","title":"حافظه اپی‌ژنتیک و وراثت میان‌نسلی؛ مرز میان شواهد مولکولی و ادعاهای فراتر از داده","title_evidence":"homepage_anchor"}
+{"id":305,"source_url":"https://o305.x-oo.chatgpt.site/","title":"ترنسکریپتومیکس تک‌سلولی؛ از قطره و UMI تا استنباط حالت‌های سلولی و محدودیت‌های scRNA-seq","title_evidence":"homepage_anchor"}
+{"id":306,"source_url":"https://o306.x-oo.chatgpt.site/","title":"ویرایش ژنوم با CRISPR-Cas9؛ انتخاب هدف، ترمیم شکست DNA و سنجش اثرات خارج‌هدف","title_evidence":"homepage_anchor"}
+{"id":307,"source_url":"https://o307.x-oo.chatgpt.site/","title":"ژنتیک میتوکندری؛ هتروپلاسمی، آستانه فنوتیپی و گلوگاه وراثتی mtDNA","title_evidence":"homepage_anchor"}
+{"id":308,"source_url":"https://o308.x-oo.chatgpt.site/","title":"از همبستگی تا علیت در پژوهش میکروبیوم؛ متاژنومیک، کشت گنوتوبیوتیک و آزمون‌های مداخله‌ای","title_evidence":"homepage_anchor"}
+{"id":309,"source_url":"https://o309.x-oo.chatgpt.site/","title":"شبکه تنظیم ژنی پرتوانی و تمایز؛ از OCT4 و SOX2 و NANOG تا بازبرنامه‌ریزی سلولی","title_evidence":"homepage_anchor"}
+{"id":310,"source_url":"https://o310.x-oo.chatgpt.site/","title":"تلومرها و تلومراز؛ همانندسازی انتهای کروموزوم، شلترین و تنظیم طول تلومر","title_evidence":"homepage_anchor"}
+{"id":311,"source_url":"https://o311.x-oo.chatgpt.site/","title":"عناصر جابه‌جاشونده؛ سازوکار حرکت، مهار ژنومی و نقش در تکامل شبکه‌های تنظیمی","title_evidence":"homepage_anchor"}
+{"id":312,"source_url":"https://o312.x-oo.chatgpt.site/","title":"ویرایش RNA از نوع A→I؛ آنزیم‌های ADAR، تشخیص RNA دو‌رشته‌ای و پیامدهای عملکردی","title_evidence":"homepage_anchor"}
+{"id":313,"source_url":"https://o313.x-oo.chatgpt.site/","title":"پلی‌آدنیلاسیون جایگزین؛ انتخاب محل برش، تنظیم انتهای ۳′ و سرنوشت رونوشت","title_evidence":"homepage_anchor"}
+{"id":314,"source_url":"https://o314.x-oo.chatgpt.site/","title":"زیست‌زایی ریبوزوم و کنترل ترجمه؛ مونتاژ زیرواحدها، پایش کیفیت و پروفایل‌برداری ریبوزومی","title_evidence":"homepage_anchor"}
+{"id":315,"source_url":"https://o315.x-oo.chatgpt.site/","title":"هم‌ایستایی پروتئین؛ شپرون‌ها، تاخوردگی، کنترل کیفیت و حذف پروتئین‌های بدتاخورده","title_evidence":"homepage_anchor"}
+{"id":316,"source_url":"https://o316.x-oo.chatgpt.site/","title":"اتوفاژی ماکرو؛ تشکیل اتوفاگوزوم، ادغام با لیزوزوم و سنجش شار اتوفاژیک","title_evidence":"homepage_anchor"}
+{"id":317,"source_url":"https://o317.x-oo.chatgpt.site/","title":"انتقال افقی ژن در باکتری‌ها؛ ترانسفورماسیون، ترانسداکشن، کونژوگاسیون و عناصر ژنتیکی متحرک","title_evidence":"homepage_anchor"}
+{"id":318,"source_url":"https://o318.x-oo.chatgpt.site/","title":"تبارزایی مولکولی و ساعت مولکولی؛ از مدل جانشینی تا استنباط بیزی زمان واگرایی","title_evidence":"homepage_anchor"}
+{"id":319,"source_url":"https://o319.x-oo.chatgpt.site/","title":"ترنسکریپتومیکس فضایی؛ حفظ مختصات بافتی، بارکدگذاری مکانی و محدودیت تفکیک سلولی","title_evidence":"homepage_anchor"}
+{"id":320,"source_url":"https://o320.x-oo.chatgpt.site/","title":"زیست‌زایی ریزRNA و خاموشی پسارونویسی ژن","title_evidence":"homepage_anchor"}
+{"id":321,"source_url":"https://o321.x-oo.chatgpt.site/","title":"متیلاسیون DNA، نگهداری الگوی اپی‌ژنتیک و دمتیلاسیون فعال","title_evidence":"homepage_anchor"}
+{"id":322,"source_url":"https://o322.x-oo.chatgpt.site/","title":"اصلاحات هیستونی و شبکه نویسنده، پاک‌کننده و خواننده کروماتین","title_evidence":"homepage_anchor"}
+{"id":323,"source_url":"https://o323.x-oo.chatgpt.site/","title":"افزاینده‌ها، راه‌اندازها و منطق اختصاصی تنظیم سیس ژن","title_evidence":"homepage_anchor"}
+{"id":324,"source_url":"https://o324.x-oo.chatgpt.site/","title":"چگالش‌های زیست‌مولکولی و جدایش فازی در تنظیم رونویسی","title_evidence":"homepage_anchor"}
+{"id":325,"source_url":"https://o325.x-oo.chatgpt.site/","title":"سامانه‌های دو مؤلفه‌ای باکتریایی و انتقال اطلاعات با فسفوریلاسیون","title_evidence":"homepage_anchor"}
+{"id":326,"source_url":"https://o326.x-oo.chatgpt.site/","title":"حس حدنصاب باکتریایی و منطق ارتباط شیمیایی جمعیت‌های میکروبی","title_evidence":"homepage_anchor"}
+{"id":327,"source_url":"https://o327.x-oo.chatgpt.site/","title":"تصمیم لیتیک و لیزوژنی باکتریوفاژها؛ از مدار ژنی تا سرنوشت سلول میزبان","title_evidence":"homepage_anchor"}
+{"id":328,"source_url":"https://o328.x-oo.chatgpt.site/","title":"مدارهای ژنی مصنوعی؛ اصول طراحی، مدل‌سازی و اعتبارسنجی در زیست‌شناسی ترکیبی","title_evidence":"homepage_anchor"}
+{"id":329,"source_url":"https://o329.x-oo.chatgpt.site/","title":"تکرار ژن و سرنوشت تکاملی نسخه‌های هم‌خانواده؛ از از‌دست‌رفتن تا نوکارکردی","title_evidence":"homepage_anchor"}
+{"id":330,"source_url":"https://o330.x-oo.chatgpt.site/","title":"RNAهای بلند غیرکدکننده؛ از معماری مولکولی تا تنظیم بیان ژن","title_evidence":"homepage_anchor"}
+{"id":331,"source_url":"https://o331.x-oo.chatgpt.site/","title":"انتخاب مسیر ترمیم شکست دو‌رشته‌ای DNA؛ رقابت اتصال انتها و نوترکیبی همولوگ","title_evidence":"homepage_anchor"}
+{"id":332,"source_url":"https://o332.x-oo.chatgpt.site/","title":"سنجش دسترسی کروماتینی در تک‌سلول؛ اصول، تحلیل و محدودیت‌های scATAC-seq","title_evidence":"homepage_anchor"}
+{"id":333,"source_url":"https://o333.x-oo.chatgpt.site/","title":"ترمیم عدم‌تطابق DNA؛ تشخیص خطای همانندسازی و تمایز رشته جدید","title_evidence":"homepage_anchor"}
+{"id":334,"source_url":"https://o334.x-oo.chatgpt.site/","title":"ترمیم برداشت باز؛ گلیکوزیلازهای DNA، جایگاه بی‌باز و بازسازی نوکلئوتید","title_evidence":"homepage_anchor"}
+{"id":335,"source_url":"https://o335.x-oo.chatgpt.site/","title":"ترمیم برداشت نوکلئوتید؛ شناسایی آسیب‌های حجیم و برش دوگانه DNA","title_evidence":"homepage_anchor"}
+{"id":336,"source_url":"https://o336.x-oo.chatgpt.site/","title":"ترمیم پیوندهای عرضی بین‌رشته‌ای DNA؛ مسیر فانکونی و هماهنگی با همانندسازی","title_evidence":"homepage_anchor"}
+{"id":337,"source_url":"https://o337.x-oo.chatgpt.site/","title":"واپاشی RNA پیام‌رسان وابسته به کدون پایان زودرس؛ سازوکار NMD و کنترل کیفیت ترجمه","title_evidence":"homepage_anchor"}
+{"id":338,"source_url":"https://o338.x-oo.chatgpt.site/","title":"متیلاسیون m6A در RNA پیام‌رسان؛ نویسنده‌ها، خواننده‌ها، پاک‌کننده‌ها و محدودیت نقشه‌برداری","title_evidence":"homepage_anchor"}
+{"id":339,"source_url":"https://o339.x-oo.chatgpt.site/","title":"ریبوسوئیچ‌ها؛ حسگری متابولیت با RNA و تنظیم مستقیم بیان ژن در باکتری‌ها","title_evidence":"homepage_anchor"}
+{"id":340,"source_url":"https://o340.x-oo.chatgpt.site/","title":"حفاظت و راه‌اندازی مجدد چنگال همانندسازی؛ از توقف موقت تا فروپاشی ژنومی","title_evidence":"homepage_anchor"}
+{"id":341,"source_url":"https://o341.x-oo.chatgpt.site/","title":"پاسخ به تنش همانندسازی و محور ATR–CHK1؛ حس‌کردن DNA تک‌رشته‌ای و تنظیم چرخه سلولی","title_evidence":"homepage_anchor"}
+{"id":342,"source_url":"https://o342.x-oo.chatgpt.site/","title":"هویت سانترومر و نوکلئوزوم CENP-A؛ چگونه جایگاه تقسیم کروموزوم حفظ می‌شود","title_evidence":"homepage_anchor"}
+{"id":343,"source_url":"https://o343.x-oo.chatgpt.site/","title":"کینه‌تکور، اتصال میکروتوبول و نقطه وارسی مونتاژ دوک؛ منطق مکانیکی جداسازی کروموزوم","title_evidence":"homepage_anchor"}
+{"id":344,"source_url":"https://o344.x-oo.chatgpt.site/","title":"کوهزین؛ انسجام کروماتیدهای خواهری و بیرون‌رانی حلقه‌های DNA","title_evidence":"homepage_anchor"}
+{"id":345,"source_url":"https://o345.x-oo.chatgpt.site/","title":"کندنسین و فشرده‌سازی کروموزوم میتوزی؛ از موتور SMC تا معماری حلقه‌ای","title_evidence":"homepage_anchor"}
+{"id":346,"source_url":"https://o346.x-oo.chatgpt.site/","title":"نوترکیبی میوزی؛ شکست برنامه‌ریزی‌شده DNA، کراس‌اور و کنترل جدایش همولوگ‌ها","title_evidence":"homepage_anchor"}
+{"id":347,"source_url":"https://o347.x-oo.chatgpt.site/","title":"نقش‌گذاری ژنومی؛ حافظه منشأ والدینی، متیلاسیون DNA و بیان تک‌الللی","title_evidence":"homepage_anchor"}
+{"id":348,"source_url":"https://o348.x-oo.chatgpt.site/","title":"ایمنی تطبیقی CRISPR–Cas در باکتری‌ها و آرکی‌ها؛ اکتساب حافظه، RNA راهنما و تداخل","title_evidence":"homepage_anchor"}
+{"id":349,"source_url":"https://o349.x-oo.chatgpt.site/","title":"سامانه‌های محدودسازی–تغییر در باکتری‌ها؛ تشخیص DNA خودی، برش DNA بیگانه و پیامدهای تکاملی","title_evidence":"homepage_anchor"}
+{"id":350,"source_url":"https://o350.x-oo.chatgpt.site/","title":"تحمل آسیب DNA؛ سنتز عبوری، تعویض الگو و انتخاب مسیر عبور از ضایعه","title_evidence":"homepage_anchor"}
+{"id":351,"source_url":"https://o351.x-oo.chatgpt.site/","title":"مجوزدهی مبدأهای همانندسازی؛ بارگذاری MCM، فعال‌سازی هلیکاز و جلوگیری از همانندسازی دوباره","title_evidence":"homepage_anchor"}
+{"id":352,"source_url":"https://o352.x-oo.chatgpt.site/","title":"هسته‌چه و زیست‌زایی ریبوزوم؛ رونویسی rDNA، پردازش پیش‌ساز rRNA و سازمان‌دهی بدون غشا","title_evidence":"homepage_anchor"}
+{"id":353,"source_url":"https://o353.x-oo.chatgpt.site/","title":"پویایی میتوکندری؛ همجوشی، شکافت و کنترل کیفیت شبکه انرژی سلول","title_evidence":"homepage_anchor"}
+{"id":354,"source_url":"https://o354.x-oo.chatgpt.site/","title":"ترافیک وزیکولی در مسیر ترشحی؛ پوشش‌های COPII و COPI، راب‌ها و همجوشی SNARE","title_evidence":"homepage_anchor"}
+{"id":355,"source_url":"https://o355.x-oo.chatgpt.site/","title":"انتقال یونی از غشا؛ گرادیان الکتروشیمیایی، کانال‌های انتخابی و پمپ‌های فعال","title_evidence":"homepage_anchor"}
+{"id":356,"source_url":"https://o356.x-oo.chatgpt.site/","title":"گیرنده‌های تیروزین‌کینازی؛ فعال‌سازی، فسفریلاسیون و رمزگذاری پیام رشد","title_evidence":"homepage_anchor"}
+{"id":357,"source_url":"https://o357.x-oo.chatgpt.site/","title":"گرادیان‌های مورفوژن در رشد؛ تولید، انتشار، تفسیر غلظت و شکل‌گیری الگوی بافت","title_evidence":"homepage_anchor"}
+{"id":358,"source_url":"https://o358.x-oo.chatgpt.site/","title":"جدایش کروموزوم باکتریایی؛ سامانه ParABS، سازمان نوکلئوئید و انتقال ori به سلول‌های دختر","title_evidence":"homepage_anchor"}
+{"id":359,"source_url":"https://o359.x-oo.chatgpt.site/","title":"وفاداری همانندسازی ویروس‌های RNA؛ RNA پلیمراز وابسته به RNA، نرخ جهش و تصحیح خطا","title_evidence":"homepage_anchor"}
+{"id":360,"source_url":"https://o360.x-oo.chatgpt.site/","title":"تداخل RNA؛ از پردازش RNA دو‌رشته‌ای تا خاموشی هدف‌مند توسط آرگونات","title_evidence":"homepage_anchor"}
+{"id":361,"source_url":"https://o361.x-oo.chatgpt.site/","title":"تجزیه mRNA وابسته به کدون پایان زودرس؛ منطق NMD، عوامل UPF و کنترل کیفیت ترجمه","title_evidence":"homepage_anchor"}
+{"id":362,"source_url":"https://o362.x-oo.chatgpt.site/","title":"شپرون‌های مولکولی و پروتئوستاز؛ چرخه‌های Hsp70 و Hsp90 در تاخوردگی و کنترل کیفیت پروتئین","title_evidence":"homepage_anchor"}
+{"id":363,"source_url":"https://o363.x-oo.chatgpt.site/","title":"سامانه یوبیکوئیتین–پروتئازوم؛ برچسب‌گذاری انتخابی، شناسایی بستر و تخریب پروتئین","title_evidence":"homepage_anchor"}
+{"id":364,"source_url":"https://o364.x-oo.chatgpt.site/","title":"زیست‌زایی اتوفاگوزوم؛ آغاز ULK1، غشای فاگوفور و ماشین ATG","title_evidence":"homepage_anchor"}
+{"id":365,"source_url":"https://o365.x-oo.chatgpt.site/","title":"زیست‌زایی پراکسی‌زوم و ورود پروتئین؛ سیگنال‌های PTS، گیرنده PEX5 و چرخه واردسازی","title_evidence":"homepage_anchor"}
+{"id":366,"source_url":"https://o366.x-oo.chatgpt.site/","title":"مژک اولیه و انتقال درون‌مژکی؛ ساخت آکسونم، حرکت IFT و سازمان‌دهی سیگنال‌های سلولی","title_evidence":"homepage_anchor"}
+{"id":367,"source_url":"https://o367.x-oo.chatgpt.site/","title":"کموتاکسی باکتریایی؛ گیرنده‌های شیمیایی، سامانه CheA/CheY و سازگاری دقیق با محیط","title_evidence":"homepage_anchor"}
+{"id":368,"source_url":"https://o368.x-oo.chatgpt.site/","title":"حس‌کردن حدنصاب در باکتری‌ها؛ خودالقاکننده‌ها، آستانه جمعیتی و هماهنگی رفتار گروهی","title_evidence":"homepage_anchor"}
+{"id":369,"source_url":"https://o369.x-oo.chatgpt.site/","title":"انتقال افقی ژن در باکتری‌ها؛ کونژوگاسیون، ترانسفورماسیون، ترانسداکشن و موانع ورود DNA","title_evidence":"homepage_anchor"}
+{"id":370,"source_url":"https://o370.x-oo.chatgpt.site/","title":"کنترل کیفیت ریبوزومی؛ توقف ترجمه، نجات ریبوزوم و حذف پپتید نوزاد ناقص","title_evidence":"homepage_anchor"}
+{"id":371,"source_url":"https://o371.x-oo.chatgpt.site/","title":"اصلاحات RNA ناقل و وفاداری ترجمه؛ رمزگشایی کدون، انعطاف جایگاه سوم کدون و حفظ قاب خوانش","title_evidence":"homepage_anchor"}
+{"id":372,"source_url":"https://o372.x-oo.chatgpt.site/","title":"رتروترانسپوزون LINE-1؛ رونویسی، رونویسی معکوس در جایگاه هدف و مهار توسط میزبان","title_evidence":"homepage_anchor"}
+{"id":373,"source_url":"https://o373.x-oo.chatgpt.site/","title":"اسپورزایی در Bacillus subtilis؛ تقسیم نامتقارن، آبشار فاکتورهای سیگما و ساخت اسپور مقاوم","title_evidence":"homepage_anchor"}
+{"id":374,"source_url":"https://o374.x-oo.chatgpt.site/","title":"واکنش‌های نوری فتوسنتز؛ فتوسیستم II، شکافت آب و تبدیل انرژی نور به نیروی پروتونی","title_evidence":"homepage_anchor"}
+{"id":375,"source_url":"https://o375.x-oo.chatgpt.site/","title":"فسفریلاسیون اکسیداتیو میتوکندری؛ زنجیره انتقال الکترون، نیروی پروتونی و موتور ATP سنتاز","title_evidence":"homepage_anchor"}
+{"id":376,"source_url":"https://o376.x-oo.chatgpt.site/","title":"آلواستری و سینتیک آنزیمی؛ همکاری زیرواحدها، گذارهای ساختاری و تنظیم فعالیت","title_evidence":"homepage_anchor"}
+{"id":377,"source_url":"https://o377.x-oo.chatgpt.site/","title":"مکانوتبدیل در چسبندگی کانونی؛ اینتگرین، تالین، وینکولین و انتقال نیرو از ماتریکس به هسته","title_evidence":"homepage_anchor"}
+{"id":378,"source_url":"https://o378.x-oo.chatgpt.site/","title":"ساعت شبانه‌روزی پستانداران؛ حلقه‌های بازخوردی CLOCK–BMAL1، PER–CRY و هم‌زمان‌سازی با نور","title_evidence":"homepage_anchor"}
+{"id":379,"source_url":"https://o379.x-oo.chatgpt.site/","title":"مدارهای ژنتیکی مصنوعی؛ کلید دوحالته، نوسان‌ساز و اصول طراحی سامانه‌های برنامه‌پذیر سلولی","title_evidence":"homepage_anchor"}
+{"id":380,"source_url":"https://o380.x-oo.chatgpt.site/","title":"متیلاسیون و دمتیلاسیون DNA؛ از 5-متیل‌سیتوزین تا اکسیداسیون TET و ترمیم برداشت باز","title_evidence":"homepage_anchor"}
+{"id":381,"source_url":"https://o381.x-oo.chatgpt.site/","title":"منطق تقویت‌کننده–پروموتر؛ انتخاب ژن هدف، تماس کروماتینی و کنترل کمّی رونویسی","title_evidence":"homepage_anchor"}
+{"id":382,"source_url":"https://o382.x-oo.chatgpt.site/","title":"ویرایش A-to-I در RNA؛ آنزیم‌های ADAR، RNA دو‌رشته‌ای و مرز میان تنوع رونوشت و ایمنی ذاتی","title_evidence":"homepage_anchor"}
+{"id":383,"source_url":"https://o383.x-oo.chatgpt.site/","title":"مسیر piRNA و مهار عناصر متحرک؛ از خوشه‌های ژنومی تا چرخه پینگ‌پنگ و پروتئین‌های PIWI","title_evidence":"homepage_anchor"}
+{"id":384,"source_url":"https://o384.x-oo.chatgpt.site/","title":"پاسخ پروتئین‌های تا‌نخورده در شبکه آندوپلاسمی؛ سه شاخه IRE1، PERK و ATF6","title_evidence":"homepage_anchor"}
+{"id":385,"source_url":"https://o385.x-oo.chatgpt.site/","title":"حس‌کردن اسیدهای آمینه در لیزوزوم؛ Rag GTPaseها، Ragulator و فعال‌سازی mTORC1","title_evidence":"homepage_anchor"}
+{"id":386,"source_url":"https://o386.x-oo.chatgpt.site/","title":"قطبیت رأسی–قاعده‌ای در سلول‌های اپی‌تلیال؛ کمپلکس PAR، اتصالات سلولی و جداسازی دامنه‌های غشایی","title_evidence":"homepage_anchor"}
+{"id":387,"source_url":"https://o387.x-oo.chatgpt.site/","title":"ایمنی تطبیقی CRISPR–Cas در باکتری و آرکی؛ اکتساب فاصله‌گذار، ساخت crRNA و تداخل با مهاجم","title_evidence":"homepage_anchor"}
+{"id":388,"source_url":"https://o388.x-oo.chatgpt.site/","title":"چگالش‌های زیست‌مولکولی و جدایش فازی؛ سازمان‌دهی بدون غشا، برهم‌کنش چندظرفیتی و مرز میان قطره و ژل","title_evidence":"homepage_anchor"}
+{"id":389,"source_url":"https://o389.x-oo.chatgpt.site/","title":"هدف‌گیری هم‌زمان با ترجمه به شبکه آندوپلاسمی؛ ذره شناسایی سیگنال، گیرنده SRP و ترانسلوکون Sec61","title_evidence":"homepage_anchor"}
+{"id":390,"source_url":"https://o390.x-oo.chatgpt.site/","title":"فیزیولوژی خواب و جوانه‌زنی بذر: از تعادل هورمونی تا طراحی آزمون بنیه","title_evidence":"homepage_anchor"}
+{"id":391,"source_url":"https://o391.x-oo.chatgpt.site/","title":"پایداری خاک‌دانه‌ها و ساختمان خاک: پیوند ماده آلی، تخلخل، نفوذ آب و فرسایش","title_evidence":"homepage_anchor"}
+{"id":392,"source_url":"https://o392.x-oo.chatgpt.site/","title":"تغذیه پتاسیمی گیاه: جذب ریشه، تنظیم اسمزی، روزنه و تحمل تنش","title_evidence":"homepage_anchor"}
+{"id":393,"source_url":"https://o393.x-oo.chatgpt.site/","title":"برهم‌کنش ژنوتیپ و محیط در آزمایش‌های چندمحیطی: پایداری، AMMI و بای‌پلات GGE","title_evidence":"homepage_anchor"}
+{"id":394,"source_url":"https://o394.x-oo.chatgpt.site/","title":"کشت بافت و ریزازدیادی گیاه: باززایی، آلودگی، تغییرات سوماکلونال و سازگارسازی","title_evidence":"homepage_anchor"}
+{"id":395,"source_url":"https://o395.x-oo.chatgpt.site/","title":"فعالیت آبی در ایمنی و پایداری غذا: آب آزاد، رشد میکروبی و طراحی فرمولاسیون","title_evidence":"homepage_anchor"}
+{"id":396,"source_url":"https://o396.x-oo.chatgpt.site/","title":"فرآوری پرفشار مواد غذایی: غیرفعال‌سازی میکروبی، سینتیک فرایند و اعتبارسنجی ایمنی","title_evidence":"homepage_anchor"}
+{"id":397,"source_url":"https://o397.x-oo.chatgpt.site/","title":"ساختار و کارکرد پروتئین‌های غذایی: دناتوراسیون، ژل، کف و امولسیون","title_evidence":"homepage_anchor"}
+{"id":398,"source_url":"https://o398.x-oo.chatgpt.site/","title":"مایکوتوکسین‌ها در زنجیره غذا و خوراک: منشأ قارچی، نمونه‌برداری، آشکارسازی و کنترل خطر","title_evidence":"homepage_anchor"}
+{"id":399,"source_url":"https://o399.x-oo.chatgpt.site/","title":"توازن انرژی و پروتئین در تغذیه گاو شیری: پروتئین متابولیسم‌پذیر، اسیدهای آمینه و کارایی نیتروژن","title_evidence":"homepage_anchor"}
+{"id":400,"source_url":"https://o400.x-oo.chatgpt.site/","title":"همئوستاز، بازخورد و کنترل چندلایه در فیزیولوژی انسان","title_evidence":"homepage_anchor"}
+{"id":401,"source_url":"https://o401.x-oo.chatgpt.site/","title":"زیست‌فیزیک پتانسیل غشاء و پتانسیل عمل در سلول‌های تحریک‌پذیر","title_evidence":"homepage_anchor"}
+{"id":402,"source_url":"https://o402.x-oo.chatgpt.site/","title":"هماهنگی ایمنی ذاتی و تطبیقی؛ از تشخیص الگو تا حافظه ایمنی","title_evidence":"homepage_anchor"}
+{"id":403,"source_url":"https://o403.x-oo.chatgpt.site/","title":"التهاب حاد و حل فعال التهاب؛ از نوتروفیل تا میانجی‌های تخصصی pro-resolving","title_evidence":"homepage_anchor"}
+{"id":404,"source_url":"https://o404.x-oo.chatgpt.site/","title":"بازخورد، ریتم و ترشح پالسی در محورهای درون‌ریز انسان","title_evidence":"homepage_anchor"}
+{"id":405,"source_url":"https://o405.x-oo.chatgpt.site/","title":"مقاومت به انسولین؛ از سیگنالینگ سلولی تا اختلال متابولیک چندبافتی","title_evidence":"homepage_anchor"}
+{"id":406,"source_url":"https://o406.x-oo.chatgpt.site/","title":"فارماکوکینتیک و فارماکودینامیک؛ از دوز تا مواجهه و پاسخ زیستی","title_evidence":"homepage_anchor"}
+{"id":407,"source_url":"https://o407.x-oo.chatgpt.site/","title":"دقت آزمون‌های تشخیصی و استدلال بیزی؛ از حساسیت و ویژگی تا احتمال پس از آزمون","title_evidence":"homepage_anchor"}
+{"id":408,"source_url":"https://o408.x-oo.chatgpt.site/","title":"استنتاج علّی در اپیدمیولوژی؛ confounding، bias و طراحی برای نزدیک‌شدن از ارتباط به علت","title_evidence":"homepage_anchor"}
+{"id":409,"source_url":"https://o409.x-oo.chatgpt.site/","title":"پزشکی مبتنی بر شواهد؛ از طراحی مطالعه تا GRADE، عدم‌قطعیت و تبدیل شواهد به تصمیم","title_evidence":"homepage_anchor"}
+{"id":410,"source_url":"https://o410.x-oo.chatgpt.site/","title":"پویایی تصفیه گلومرولی و خودتنظیمی کلیه؛ از نیروهای استارلینگ تا بازخورد توبولوگلومرولی","title_evidence":"homepage_anchor"}
+{"id":411,"source_url":"https://o411.x-oo.chatgpt.site/","title":"جفت‌شدن تحریک و انقباض در قلب؛ از پتانسیل عمل تا چرخه کلسیم","title_evidence":"homepage_anchor"}
+{"id":412,"source_url":"https://o412.x-oo.chatgpt.site/","title":"سد خونی ـ مغزی و واحد عصبی ـ عروقی؛ انتقال انتخابی، تنظیم جریان و اختلال بیماری‌زا","title_evidence":"homepage_anchor"}
+{"id":413,"source_url":"https://o413.x-oo.chatgpt.site/","title":"سامانه مکمل؛ از شناسایی و اُپسونیزاسیون تا التهاب، تنظیم و آسیب ایمنی","title_evidence":"homepage_anchor"}
+{"id":414,"source_url":"https://o414.x-oo.chatgpt.site/","title":"زیست‌شناسی هورمون تیروئید؛ از یدگیری و ساخت T4 و T3 تا دی‌یودیناز و گیرنده هسته‌ای","title_evidence":"homepage_anchor"}
+{"id":415,"source_url":"https://o415.x-oo.chatgpt.site/","title":"فسفریلاسیون اکسیداتیو میتوکندری؛ از انتقال الکترون و شیب پروتون تا ATP، گونه‌های فعال و بیماری","title_evidence":"homepage_anchor"}
+{"id":416,"source_url":"https://o416.x-oo.chatgpt.site/","title":"مقاومت ضدمیکروبی باکتریایی؛ از فشار انتخاب و انتقال افقی تا سازوکارهای مولکولی مقاومت","title_evidence":"homepage_anchor"}
+{"id":417,"source_url":"https://o417.x-oo.chatgpt.site/","title":"نفوذپذیری و بیان‌پذیری متغیر در ژنتیک پزشکی؛ چرا ژنوتیپ همیشه فنوتیپ را تعیین نمی‌کند","title_evidence":"homepage_anchor"}
+{"id":418,"source_url":"https://o418.x-oo.chatgpt.site/","title":"PCR کمی و دیجیتال در تشخیص مولکولی؛ از تکثیر و کالیبراسیون تا شمارش پواسونی و کنترل کیفیت","title_evidence":"homepage_anchor"}
+{"id":419,"source_url":"https://o419.x-oo.chatgpt.site/","title":"فیزیک کنتراست در CT و MRI؛ از ضریب تضعیف و واحد هانسفیلد تا آسایش T1 و T2","title_evidence":"homepage_anchor"}
+{"id":420,"source_url":"https://o420.x-oo.chatgpt.site/","title":"تعادل اسید ـ باز در انسان؛ از بافر و تهویه تا کلیه، شکاف آنیونی و اختلالات مختلط","title_evidence":"homepage_anchor"}
+{"id":421,"source_url":"https://o421.x-oo.chatgpt.site/","title":"هموستاز، انعقاد و فیبرینولیز؛ از چسبندگی پلاکت تا انفجار ترومبین و حل لخته","title_evidence":"homepage_anchor"}
+{"id":422,"source_url":"https://o422.x-oo.chatgpt.site/","title":"انعطاف‌پذیری سیناپسی؛ تقویت و تضعیف درازمدت، گیرنده‌های گلوتامات و مرز میان سیناپس و حافظه","title_evidence":"homepage_anchor"}
+{"id":423,"source_url":"https://o423.x-oo.chatgpt.site/","title":"همئوستاز کلسیم و فسفات؛ از پاراتیروئید و ویتامین D تا FGF23، کلیه و استخوان","title_evidence":"homepage_anchor"}
+{"id":424,"source_url":"https://o424.x-oo.chatgpt.site/","title":"انتقال اکسیژن و منحنی تفکیک اکسی‌هموگلوبین؛ از محتوای خون تا تحویل بافتی و هیپوکسی","title_evidence":"homepage_anchor"}
+{"id":425,"source_url":"https://o425.x-oo.chatgpt.site/","title":"سیتوکروم P450 و فارماکوژنتیک؛ از متابولیسم دارو تا مهار، القا و تفاوت فردی","title_evidence":"homepage_anchor"}
+{"id":426,"source_url":"https://o426.x-oo.chatgpt.site/","title":"میکروبیوم انسان و ایمنی میزبان؛ از سد مخاطی و متابولیت‌ها تا علیت، سوگیری و محدودیت روش‌ها","title_evidence":"homepage_anchor"}
+{"id":427,"source_url":"https://o427.x-oo.chatgpt.site/","title":"تغییرات تعداد نسخه در ژنتیک پزشکی؛ از سازوکار ایجاد تا تشخیص آزمایشگاهی و تفسیر ACMG/ClinGen","title_evidence":"homepage_anchor"}
+{"id":428,"source_url":"https://o428.x-oo.chatgpt.site/","title":"فلوسایتومتری و ایمنوفنوتایپینگ؛ از اپتیک و جبران طیفی تا دروازه‌گذاری و استدلال تشخیصی","title_evidence":"homepage_anchor"}
+{"id":429,"source_url":"https://o429.x-oo.chatgpt.site/","title":"فیزیک سونوگرافی و داپلر؛ از تشکیل تصویر و اندازه‌گیری جریان تا آرتیفکت و محدودیت تشخیصی","title_evidence":"homepage_anchor"}
+{"id":430,"source_url":"https://o430.x-oo.chatgpt.site/","title":"تطابق تهویه و پرفیوژن در ریه؛ از ناهمگنی منطقه‌ای تا شنت، فضای مرده و ناکارآمدی تبادل گاز","title_evidence":"homepage_anchor"}
+{"id":431,"source_url":"https://o431.x-oo.chatgpt.site/","title":"بازتاب گیرنده‌های فشاری و تنظیم کوتاه‌مدت فشار شریانی؛ از حس مکانیکی تا شبکه خودکار قلب و عروق","title_evidence":"homepage_anchor"}
+{"id":432,"source_url":"https://o432.x-oo.chatgpt.site/","title":"همئوستاز آمونیاک و چرخه اوره؛ شبکه چنداندامی نیتروژن از روده و کبد تا کلیه، عضله و مغز","title_evidence":"homepage_anchor"}
+{"id":433,"source_url":"https://o433.x-oo.chatgpt.site/","title":"تحمل ایمنی مرکزی و محیطی؛ چگونه لنفوسیت‌های خودواکنشگر مهار می‌شوند و خودایمنی چگونه پدید می‌آید","title_evidence":"homepage_anchor"}
+{"id":434,"source_url":"https://o434.x-oo.chatgpt.site/","title":"خونسازی و محور حسگری اکسیژن ـ اریتروپویتین؛ از سلول بنیادی مغز استخوان تا تنظیم گلبول قرمز و آهن","title_evidence":"homepage_anchor"}
+{"id":435,"source_url":"https://o435.x-oo.chatgpt.site/","title":"آترواسکلروز به‌عنوان بیماری نگهداشت لیپوپروتئین و التهاب دیواره شریان؛ از ذره ApoB تا پلاک و آتروترومبوز","title_evidence":"homepage_anchor"}
+{"id":436,"source_url":"https://o436.x-oo.chatgpt.site/","title":"سامانه رنین ـ آنژیوتانسین ـ آلدوسترون؛ از حسگری پرفیوژن و سدیم تا تنظیم حجم، مقاومت عروقی و بازخورد کلیوی","title_evidence":"homepage_anchor"}
+{"id":437,"source_url":"https://o437.x-oo.chatgpt.site/","title":"اینترفرون‌های نوع یک و حالت ضدویروسی سلول؛ از حسگری اسید نوکلئیک تا بیان ژن، مهار ویروس و تنظیم التهاب","title_evidence":"homepage_anchor"}
+{"id":438,"source_url":"https://o438.x-oo.chatgpt.site/","title":"خون‌سازی کلونال وابسته به سن؛ از جهش سوماتیک سلول بنیادی تا رقابت کلونی، التهاب و خطر بیماری","title_evidence":"homepage_anchor"}
+{"id":439,"source_url":"https://o439.x-oo.chatgpt.site/","title":"توموگرافی گسیل پوزیترون؛ از واپاشی هسته‌ای و هم‌زمانی فوتون‌ها تا بازسازی، کمّی‌سازی و تصویربرداری مولکولی","title_evidence":"homepage_anchor"}
+{"id":440,"source_url":"https://o440.x-oo.chatgpt.site/","title":"فیزیولوژی مایع مغزی ـ نخاعی؛ از شبکه کوروئید و سد خون ـ مایع مغزی تا گردش، تخلیه و فشار درون‌جمجمه‌ای","title_evidence":"homepage_anchor"}
+{"id":441,"source_url":"https://o441.x-oo.chatgpt.site/","title":"اتصال عصب ـ عضله و جفت‌شدن تحریک ـ انقباض در عضله اسکلتی؛ از استیل‌کولین تا آزادسازی کلسیم و تولید نیرو","title_evidence":"homepage_anchor"}
+{"id":442,"source_url":"https://o442.x-oo.chatgpt.site/","title":"همئوستاز آهن و محور هپسیدین ـ فروپورتین؛ از جذب روده‌ای و بازیافت ماکروفاژی تا التهاب و اریتروپوئز","title_evidence":"homepage_anchor"}
+{"id":443,"source_url":"https://o443.x-oo.chatgpt.site/","title":"پیام‌رسانی سیتوکینی از مسیر JAK–STAT؛ از گیرنده غشایی تا تنظیم ژن و منطق بیماری‌های ایمنی","title_evidence":"homepage_anchor"}
+{"id":444,"source_url":"https://o444.x-oo.chatgpt.site/","title":"کنترل عصبی ـ هورمونی اشتها و توازن انرژی؛ از لپتین و گرلین تا مدارهای هسته قوسی هیپوتالاموس","title_evidence":"homepage_anchor"}
+{"id":445,"source_url":"https://o445.x-oo.chatgpt.site/","title":"ساعت شبانه‌روزی انسان؛ از حلقه‌های مولکولی بازخوردی تا هسته فوق‌کیاسمایی و هماهنگی ساعت‌های محیطی","title_evidence":"homepage_anchor"}
+{"id":446,"source_url":"https://o446.x-oo.chatgpt.site/","title":"فارماکولوژی گیرنده و تعدیل آلواستریک؛ از اشغال گیرنده و کارآیی ذاتی تا آگونیسم جزئی، سوگیری پیام و انتخاب‌پذیری","title_evidence":"homepage_anchor"}
+{"id":447,"source_url":"https://o447.x-oo.chatgpt.site/","title":"موزاییسم سوماتیک در ژنتیک پزشکی؛ از جهش پسازیگوتی و کسر آللی تا فنوتیپ بافتی و چالش تشخیص","title_evidence":"homepage_anchor"}
+{"id":448,"source_url":"https://o448.x-oo.chatgpt.site/","title":"طیف‌سنجی جرمی پشت‌سرهم با کروماتوگرافی مایع در آزمایشگاه بالینی؛ از آماده‌سازی نمونه تا اثر ماتریکس و اعتبارسنجی","title_evidence":"homepage_anchor"}
+{"id":449,"source_url":"https://o449.x-oo.chatgpt.site/","title":"علم غربالگری جمعیت؛ از زمان پیش‌اندازی و سوگیری طول تا بیش‌تشخیصی، پیامدهای واقعی و ارزیابی سود و زیان","title_evidence":"homepage_anchor"}
+{"id":450,"source_url":"https://o450.x-oo.chatgpt.site/","title":"سورفکتانت ریوی و پایداری آلوئول؛ از کشش سطحی و قانون لاپلاس تا پروتئین‌های سورفکتانت و نارسایی تنفسی","title_evidence":"homepage_anchor"}
+{"id":451,"source_url":"https://o451.x-oo.chatgpt.site/","title":"سازوکار تغلیظ و رقیق‌سازی ادرار؛ از جریان مخالف و شیب اسمزی مدولا تا وازوپرسین و آکواپورین ۲","title_evidence":"homepage_anchor"}
+{"id":452,"source_url":"https://o452.x-oo.chatgpt.site/","title":"پردازش و ارائه آنتی‌ژن؛ از پروتئازوم و MHC-I تا اندوزوم، MHC-II و ارائه متقاطع","title_evidence":"homepage_anchor"}
+{"id":453,"source_url":"https://o453.x-oo.chatgpt.site/","title":"محور هیپوتالاموس ـ هیپوفیز ـ آدرنال و ریتم کورتیزول؛ از بازخورد منفی تا نوسان شبانه‌روزی و ضربانی","title_evidence":"homepage_anchor"}
+{"id":454,"source_url":"https://o454.x-oo.chatgpt.site/","title":"گردش روده‌ای ـ کبدی اسیدهای صفراوی؛ از ساخت از کلسترول تا محور FXR–FGF19 و تنظیم متابولیک","title_evidence":"homepage_anchor"}
+{"id":455,"source_url":"https://o455.x-oo.chatgpt.site/","title":"فروپتوز؛ مرگ تنظیم‌شده وابسته به آهن از پراکسیداسیون لیپیدی تا GPX4 و پیامدهای بیماری","title_evidence":"homepage_anchor"}
+{"id":456,"source_url":"https://o456.x-oo.chatgpt.site/","title":"آزمون حساسیت ضدمیکروبی؛ از MIC و رقت‌سازی تا انتشار دیسکی، نقاط برش و عدم‌قطعیت تفسیر","title_evidence":"homepage_anchor"}
+{"id":457,"source_url":"https://o457.x-oo.chatgpt.site/","title":"تفسیر و طبقه‌بندی واریانت‌های ژنتیکی؛ از شواهد جمعیتی و عملکردی تا چارچوب ACMG/AMP و واریانت با اهمیت نامشخص","title_evidence":"homepage_anchor"}
+{"id":458,"source_url":"https://o458.x-oo.chatgpt.site/","title":"DNA توموری در گردش و بیوپسی مایع؛ از زیست‌شناسی DNA آزاد سلولی تا حد تشخیص، پایش و سوگیری نمونه","title_evidence":"homepage_anchor"}
+{"id":459,"source_url":"https://o459.x-oo.chatgpt.site/","title":"همبسته‌های ایمنی حفاظت پس از واکسیناسیون؛ از آنتی‌بادی و حافظه تا جانشین‌های حفاظت و محدودیت استنتاج","title_evidence":"homepage_anchor"}
+{"id":460,"source_url":"https://o460.x-oo.chatgpt.site/","title":"گلیکوکالیکس اندوتلیال و سد ریزعروقی؛ از مکانوتراگسی تا نفوذپذیری، التهاب و بازنگری نیروهای استارلینگ","title_evidence":"homepage_anchor"}
+{"id":461,"source_url":"https://o461.x-oo.chatgpt.site/","title":"ترومبوپوئز و زیست‌شناسی مگاکاریوسیت؛ از ترومبوپوئتین و اندومیتوز تا پروپلاکت و تنظیم شمار پلاکت","title_evidence":"homepage_anchor"}
+{"id":462,"source_url":"https://o462.x-oo.chatgpt.site/","title":"اینفلامازوم NLRP3 و پیروپتوز؛ از حسگری خطر تا کاسپاز-۱، گازدرمین D و التهاب کنترل‌نشده","title_evidence":"homepage_anchor"}
+{"id":463,"source_url":"https://o463.x-oo.chatgpt.site/","title":"میلین، گره رانویه و هدایت جهشی؛ از سازمان آکسون ـ گلیا تا سرعت انتقال و بازآرایی در بیماری","title_evidence":"homepage_anchor"}
+{"id":464,"source_url":"https://o464.x-oo.chatgpt.site/","title":"محور هورمون رشد و IGF-1؛ از ترشح ضربانی هیپوفیز تا رشد بافتی، متابولیسم و بازخورد چندلایه","title_evidence":"homepage_anchor"}
+{"id":465,"source_url":"https://o465.x-oo.chatgpt.site/","title":"متابولیسم اجسام کتونی؛ از بتااکسیداسیون و کتوژنز کبدی تا اکسیداسیون بافتی، روزه‌داری و پیام‌رسانی متابولیک","title_evidence":"homepage_anchor"}
+{"id":466,"source_url":"https://o466.x-oo.chatgpt.site/","title":"ناقل‌های دارویی ABC و SLC؛ از جذب روده و برداشت کبدی تا دفع کلیوی، سد خونی ـ مغزی و تداخل‌های دارویی","title_evidence":"homepage_anchor"}
+{"id":467,"source_url":"https://o467.x-oo.chatgpt.site/","title":"بیماری‌های ناشی از گسترش تکرارهای DNA؛ از ناپایداری ژنومی و پدیده پیش‌افتادگی تا موزاییسم و تشخیص مولکولی","title_evidence":"homepage_anchor"}
+{"id":468,"source_url":"https://o468.x-oo.chatgpt.site/","title":"پاکسازی موکوسیلیاری راه‌های هوایی؛ از لایه مایع سطحی و ضربان مژک تا رئولوژی موکوس، دفاع میزبان و اختلال بیماری‌زا","title_evidence":"homepage_anchor"}
+{"id":469,"source_url":"https://o469.x-oo.chatgpt.site/","title":"ارزیابی مدل‌های پیش‌بینی بالینی؛ از کالیبراسیون و قدرت تفکیک تا اعتبارسنجی، بیش‌برازش، سودمندی تصمیم و خطر سوگیری","title_evidence":"homepage_anchor"}
+{"id":470,"source_url":"https://o470.x-oo.chatgpt.site/","title":"زیست‌شناسی درد و نوسی‌سپشن؛ از تبدیل محرک آسیب‌زا در پایانه عصبی تا حساس‌شدن محیطی و مرکزی","title_evidence":"homepage_anchor"}
+{"id":471,"source_url":"https://o471.x-oo.chatgpt.site/","title":"جفت‌شدن محرک و ترشح در سلول بتای پانکراس؛ از حسگری گلوکز و کانال پتاسیمی حساس به ATP تا کلسیم و برون‌رانی انسولین","title_evidence":"homepage_anchor"}
+{"id":472,"source_url":"https://o472.x-oo.chatgpt.site/","title":"سامانه حسگری DNA سیتوزولی cGAS–STING؛ از تولید cGAMP و اینترفرون نوع یک تا التهاب استریل و خودایمنی","title_evidence":"homepage_anchor"}
+{"id":473,"source_url":"https://o473.x-oo.chatgpt.site/","title":"متابولیسم تک‌کربنی؛ از چرخه فولات و متیونین تا ساخت نوکلئوتید، متیلاسیون، گلوتاتیون و بیماری","title_evidence":"homepage_anchor"}
+{"id":474,"source_url":"https://o474.x-oo.chatgpt.site/","title":"سامانه یوبیکوئیتین ـ پروتئازوم و هم‌ایستایی پروتئین؛ از برچسب‌گذاری انتخابی تا تخریب، تنظیم سلولی و بیماری","title_evidence":"homepage_anchor"}
+{"id":475,"source_url":"https://o475.x-oo.chatgpt.site/","title":"پایش درمانی دارو و دوزدهی دقیق مبتنی بر مدل؛ از غلظت پلاسمایی تا برآورد بیزی مواجهه و تصمیم بالینی","title_evidence":"homepage_anchor"}
+{"id":476,"source_url":"https://o476.x-oo.chatgpt.site/","title":"تحلیل بقا و داده‌های زمان تا رویداد در پزشکی؛ از سانسور و کاپلان–مایر تا مدل کاکس، فرض خطرهای متناسب و خطرهای رقیب","title_evidence":"homepage_anchor"}
+{"id":477,"source_url":"https://o477.x-oo.chatgpt.site/","title":"خطاهای پیش‌تحلیلی و تغییرپذیری زیستی در پزشکی آزمایشگاهی؛ از نمونه‌گیری و همولیز تا مقدار تغییر مرجع و تفسیر سریالی","title_evidence":"homepage_anchor"}
+{"id":478,"source_url":"https://o478.x-oo.chatgpt.site/","title":"هیبریداسیون درجا با فلورسانس در سیتوژنتیک پزشکی؛ از طراحی پروب و هیبریداسیون تا شمارش سیگنال، موزاییسم و اعتبارسنجی","title_evidence":"homepage_anchor"}
+{"id":479,"source_url":"https://o479.x-oo.chatgpt.site/","title":"تصویربرداری تشدید مغناطیسی وزن‌دار به انتشار؛ از حرکت براونی آب و ضریب انتشار ظاهری تا سکته، تومور و آرتیفکت","title_evidence":"homepage_anchor"}
+{"id":480,"source_url":"https://o480.x-oo.chatgpt.site/","title":"تنظیم جریان خون مغزی و جفت‌شدن عصبی ـ عروقی؛ از خودتنظیمی و واکنش‌پذیری دی‌اکسیدکربن تا واحد عصبی ـ عروقی و محدودیت سنجش","title_evidence":"homepage_anchor"}
+{"id":481,"source_url":"https://o481.x-oo.chatgpt.site/","title":"سلول‌های کشنده طبیعی؛ از تشخیص «خودیِ گمشده» و آموزش ایمنی تا سیتوتوکسیسیته، حافظه‌مانند و کاربردهای درمانی","title_evidence":"homepage_anchor"}
+{"id":482,"source_url":"https://o482.x-oo.chatgpt.site/","title":"انتقال معکوس کلسترول و زیست‌شناسی HDL؛ از خروج کلسترول ماکروفاژ تا کبد، کارکرد ذره و محدودیت تفسیر HDL-C","title_evidence":"homepage_anchor"}
+{"id":483,"source_url":"https://o483.x-oo.chatgpt.site/","title":"محور هیپوتالاموس ـ هیپوفیز ـ گناد؛ از مولد ضربانی GnRH و گنادوتروپین‌ها تا بازخورد جنسی، بلوغ و باروری","title_evidence":"homepage_anchor"}
+{"id":484,"source_url":"https://o484.x-oo.chatgpt.site/","title":"حساسیت‌زدایی و بازیابی گیرنده‌های جفت‌شونده با پروتئین G؛ از فسفریلاسیون و بتاآرستین تا درون‌بری، بازیافت و سوگیری پیام","title_evidence":"homepage_anchor"}
+{"id":485,"source_url":"https://o485.x-oo.chatgpt.site/","title":"نقش‌گذاری ژنومی و دیزومی تک‌والدی؛ از حافظه اپی‌ژنتیکی والد منشأ تا هموزیگوسیتی، سندرم‌های نقش‌گذاری و تشخیص ژنتیکی","title_evidence":"homepage_anchor"}
+{"id":486,"source_url":"https://o486.x-oo.chatgpt.site/","title":"زیست‌لایه‌های باکتریایی و حسگری تراکم جمعیت؛ از ماتریکس خارج‌سلولی و ناهمگنی متابولیک تا تحمل ضدمیکروبی و عفونت مزمن","title_evidence":"homepage_anchor"}
+{"id":487,"source_url":"https://o487.x-oo.chatgpt.site/","title":"داده‌های گمشده و برآورد چندگانه در پژوهش پزشکی؛ از سازوکار فقدان داده تا مدل جایگذاری، تحلیل حساسیت و خطر سوگیری","title_evidence":"homepage_anchor"}
+{"id":488,"source_url":"https://o488.x-oo.chatgpt.site/","title":"تداخل در ایمنوسنجی‌های آزمایشگاهی؛ از آنتی‌بادی هتروفیل و زیست‌تین تا اثر قلابی، واکنش متقاطع و راهبرد تشخیص نتیجه کاذب","title_evidence":"homepage_anchor"}
+{"id":489,"source_url":"https://o489.x-oo.chatgpt.site/","title":"دوز تابش در توموگرافی رایانه‌ای؛ از CTDI و DLP تا دوز اندامی، عدم‌قطعیت خطر و بهینه‌سازی کیفیت تصویر","title_evidence":"homepage_anchor"}
+{"id":490,"source_url":"https://o490.x-oo.chatgpt.site/","title":"ساعت زیستی و پزشکی شبانه‌روزی؛ از هسته فوق‌کیاسمایی و ژن‌های ساعت تا ملاتونین، هم‌زمان‌سازی و اختلال ریتم","title_evidence":"homepage_anchor"}
+{"id":491,"source_url":"https://o491.x-oo.chatgpt.site/","title":"سامانه رنین ـ آنژیوتانسین ـ آلدوسترون؛ از حسگری پرفیوژن کلیه تا هم‌ایستایی حجم، فشار خون و بازآرایی بافتی","title_evidence":"homepage_anchor"}
+{"id":492,"source_url":"https://o492.x-oo.chatgpt.site/","title":"مرکز زایگر و بلوغ میل پادتنی؛ از جهش پیکری و انتخاب کلونی تا سلول حافظه و پلاسموسیت بلندعمر","title_evidence":"homepage_anchor"}
+{"id":493,"source_url":"https://o493.x-oo.chatgpt.site/","title":"میکروگلیا و التهاب عصبی؛ از پایش هم‌ایستایی و هرس سیناپسی تا پاسخ آسیب، حالت‌های سلولی و خطای مفهوم «فعال‌شدن»","title_evidence":"homepage_anchor"}
+{"id":494,"source_url":"https://o494.x-oo.chatgpt.site/","title":"هم‌ایستایی آهن و محور هپسیدین ـ فروپورتین؛ از جذب روده و بازیافت ماکروفاژی تا اریتروپوئز، التهاب و اضافه‌بار آهن","title_evidence":"homepage_anchor"}
+{"id":495,"source_url":"https://o495.x-oo.chatgpt.site/","title":"فارماکوژنتیک HLA و واکنش‌های شدید دارویی؛ از ارائه پپتید و اختصاصیت آللی تا پیش‌بینی خطر و محدودیت غربالگری","title_evidence":"homepage_anchor"}
+{"id":496,"source_url":"https://o496.x-oo.chatgpt.site/","title":"هتروپلاسمی DNA میتوکندری و اثر آستانه؛ از وراثت مادری و تفکیک میتوزی تا ناهمگنی بافتی و تفسیر بیماری","title_evidence":"homepage_anchor"}
+{"id":497,"source_url":"https://o497.x-oo.chatgpt.site/","title":"نهفتگی و بازفعال‌شدن هرپس‌ویروس‌ها؛ از ماندگاری اپیزومی و خاموشی ژنی تا مخزن سلولی، ایمنی میزبان و عود","title_evidence":"homepage_anchor"}
+{"id":498,"source_url":"https://o498.x-oo.chatgpt.site/","title":"فراتحلیل شبکه‌ای در پزشکی؛ از شواهد مستقیم و غیرمستقیم تا انتقال‌پذیری، ناهمخوانی، رتبه‌بندی و قطعیت نتیجه","title_evidence":"homepage_anchor"}
+{"id":499,"source_url":"https://o499.x-oo.chatgpt.site/","title":"تصویربرداری PET و کمّی‌سازی رادیوردیاب؛ از نابودی پوزیترون و آشکارسازی هم‌زمان تا SUV، تصحیحات فیزیکی و محدودیت تفسیر","title_evidence":"homepage_anchor"}
+{"id":500,"source_url":"https://o500.x-oo.chatgpt.site/","title":"تحلیل خمش و تغییرشکل تیرها با نظریه اویلر–برنولی و حدود اعتبار آن","title_evidence":"homepage_anchor"}
+{"id":501,"source_url":"https://o501.x-oo.chatgpt.site/","title":"طراحی در برابر خستگی و رشد ترک با رویکرد مکانیک شکست و تحمل آسیب","title_evidence":"homepage_anchor"}
+{"id":502,"source_url":"https://o502.x-oo.chatgpt.site/","title":"ارتعاشات مکانیکی یک درجه آزادی، تشدید و طراحی ایزولاسیون ارتعاش","title_evidence":"homepage_anchor"}
+{"id":503,"source_url":"https://o503.x-oo.chatgpt.site/","title":"تحلیل افت فشار و انتخاب قطر در جریان داخلی لوله با معادله دارسی–ویسباخ","title_evidence":"homepage_anchor"}
+{"id":504,"source_url":"https://o504.x-oo.chatgpt.site/","title":"طراحی و تحلیل مبدل‌های حرارتی با روش‌های LMTD و اثربخشی–NTU","title_evidence":"homepage_anchor"}
+{"id":505,"source_url":"https://o505.x-oo.chatgpt.site/","title":"تحلیل چرخه رانکین، بازده نیروگاه بخار و اثر سوپرهیت، بازگرمایش و بازیابی","title_evidence":"homepage_anchor"}
+{"id":506,"source_url":"https://o506.x-oo.chatgpt.site/","title":"تحلیل توان در سامانه‌های سه‌فاز، عدم‌تعادل، هارمونیک و الزامات اندازه‌گیری","title_evidence":"homepage_anchor"}
+{"id":507,"source_url":"https://o507.x-oo.chatgpt.site/","title":"طراحی کنترل‌کننده PID، پایداری حلقه بسته و مدیریت اشباع عملگر","title_evidence":"homepage_anchor"}
+{"id":508,"source_url":"https://o508.x-oo.chatgpt.site/","title":"رفتار خمشی تیر بتن‌آرمه، شکل‌پذیری و کنترل حالت‌های شکست","title_evidence":"homepage_anchor"}
+{"id":509,"source_url":"https://o509.x-oo.chatgpt.site/","title":"مهندسی قابلیت اطمینان، توزیع Weibull و نگهداری مبتنی بر قابلیت اطمینان","title_evidence":"homepage_anchor"}
+{"id":510,"source_url":"https://o510.x-oo.chatgpt.site/","title":"پیچش محورهای دایروی، تنش برشی و سختی پیچشی از نظریه سن‌ونان تا طراحی عملی","title_evidence":"homepage_anchor"}
+{"id":511,"source_url":"https://o511.x-oo.chatgpt.site/","title":"تماس هرتزی، تنش زیرسطحی و خستگی تماس غلتشی در یاتاقان‌ها و سطوح غلتان","title_evidence":"homepage_anchor"}
+{"id":512,"source_url":"https://o512.x-oo.chatgpt.site/","title":"کمانش ستون‌ها، بار بحرانی اویلر و پایداری سازه‌ای با درنظرگرفتن نقص‌های واقعی","title_evidence":"homepage_anchor"}
+{"id":513,"source_url":"https://o513.x-oo.chatgpt.site/","title":"جریان تراکم‌پذیر در نازل‌ها، خفگی جریان و روابط ماخ در طراحی مجاری گاز","title_evidence":"homepage_anchor"}
+{"id":514,"source_url":"https://o514.x-oo.chatgpt.site/","title":"رسانش حرارتی گذرا، عدد بیو و عدد فوریه در تحلیل گرم و سرد شدن اجسام","title_evidence":"homepage_anchor"}
+{"id":515,"source_url":"https://o515.x-oo.chatgpt.site/","title":"چرخه تبرید تراکم بخار، ضریب عملکرد و تحلیل مهندسی کمپرسور، کندانسور، شیر انبساط و اواپراتور","title_evidence":"homepage_anchor"}
+{"id":516,"source_url":"https://o516.x-oo.chatgpt.site/","title":"ترانسفورماتور قدرت، مدار معادل، تنظیم ولتاژ، تلفات و آزمون‌های مهندسی","title_evidence":"homepage_anchor"}
+{"id":517,"source_url":"https://o517.x-oo.chatgpt.site/","title":"موتور القایی سه‌فاز، لغزش، گشتاور–سرعت، مدار معادل و بهره‌برداری با درایو دورمتغیر","title_evidence":"homepage_anchor"}
+{"id":518,"source_url":"https://o518.x-oo.chatgpt.site/","title":"مدل فضای حالت، کنترل‌پذیری، مشاهده‌پذیری و طراحی بازخورد حالت در سامانه‌های دینامیکی","title_evidence":"homepage_anchor"}
+{"id":519,"source_url":"https://o519.x-oo.chatgpt.site/","title":"طراحی تقطیر مرحله‌ای، تعادل بخار–مایع، روش مک‌کیب–تیل و محدودیت‌های هیدرولیکی ستون","title_evidence":"homepage_anchor"}
+{"id":520,"source_url":"https://o520.x-oo.chatgpt.site/","title":"استوانه‌های ضخیم تحت فشار، معادلات لامه و معیارهای طراحی مخازن فشار","title_evidence":"homepage_anchor"}
+{"id":521,"source_url":"https://o521.x-oo.chatgpt.site/","title":"یاتاقان ژورنال هیدرودینامیکی، معادله رینولدز و طراحی لایه روانکار","title_evidence":"homepage_anchor"}
+{"id":522,"source_url":"https://o522.x-oo.chatgpt.site/","title":"کاویتاسیون در پمپ‌های گریز از مرکز، هد خالص مثبت مکش و نقطه کار سامانه","title_evidence":"homepage_anchor"}
+{"id":523,"source_url":"https://o523.x-oo.chatgpt.site/","title":"انتقال حرارت تابشی، ضریب دید و شبکه‌های تابشی در محفظه‌های مهندسی","title_evidence":"homepage_anchor"}
+{"id":524,"source_url":"https://o524.x-oo.chatgpt.site/","title":"چرخه برایتون، توربین گاز و اثر نسبت فشار، بازده اجزا و بازیاب حرارتی","title_evidence":"homepage_anchor"}
+{"id":525,"source_url":"https://o525.x-oo.chatgpt.site/","title":"ژنراتور سنکرون سه‌فاز، زاویه توان، تحریک و کنترل توان راکتیو","title_evidence":"homepage_anchor"}
+{"id":526,"source_url":"https://o526.x-oo.chatgpt.site/","title":"اینورتر منبع ولتاژ، مدولاسیون پهنای پالس و کنترل هارمونیک در مبدل‌های قدرت","title_evidence":"homepage_anchor"}
+{"id":527,"source_url":"https://o527.x-oo.chatgpt.site/","title":"عدم‌قطعیت اندازه‌گیری، کالیبراسیون و قابلیت ردیابی مترولوژیک در ابزار دقیق مهندسی","title_evidence":"homepage_anchor"}
+{"id":528,"source_url":"https://o528.x-oo.chatgpt.site/","title":"ظرفیت باربری و نشست پی‌های سطحی، معیار گسیختگی خاک و کنترل تغییرشکل","title_evidence":"homepage_anchor"}
+{"id":529,"source_url":"https://o529.x-oo.chatgpt.site/","title":"طراحی راکتورهای مخزن همزن‌دار و جریان قالبی، موازنه مولی و توزیع زمان ماند","title_evidence":"homepage_anchor"}
+{"id":530,"source_url":"https://o530.x-oo.chatgpt.site/","title":"روش اجزای محدود در تحلیل سازه‌ها؛ از صورت ضعیف تا همگرایی شبکه و اعتبارسنجی","title_evidence":"homepage_anchor"}
+{"id":531,"source_url":"https://o531.x-oo.chatgpt.site/","title":"دینامیک روتور، سرعت‌های بحرانی، نابالانسی و پایداری سامانه محور–یاتاقان","title_evidence":"homepage_anchor"}
+{"id":532,"source_url":"https://o532.x-oo.chatgpt.site/","title":"لایه مرزی، جدایش جریان و پسا در جریان خارجی پیرامون اجسام","title_evidence":"homepage_anchor"}
+{"id":533,"source_url":"https://o533.x-oo.chatgpt.site/","title":"همرفت اجباری در لوله‌ها و کانال‌ها؛ از عدد ناسلت تا طراحی حرارتی و افت فشار","title_evidence":"homepage_anchor"}
+{"id":534,"source_url":"https://o534.x-oo.chatgpt.site/","title":"توربین بخار؛ انبساط مرحله‌ای، مثلث سرعت، بازده درونی و معیارهای بهره‌برداری","title_evidence":"homepage_anchor"}
+{"id":535,"source_url":"https://o535.x-oo.chatgpt.site/","title":"اتصال کوتاه، مؤلفه‌های متقارن و حفاظت رله‌ای در سامانه‌های قدرت","title_evidence":"homepage_anchor"}
+{"id":536,"source_url":"https://o536.x-oo.chatgpt.site/","title":"تقویت‌کننده عملیاتی، بازخورد منفی، بهره حلقه و پایداری مدار","title_evidence":"homepage_anchor"}
+{"id":537,"source_url":"https://o537.x-oo.chatgpt.site/","title":"طراحی کنترل در حوزه فرکانس؛ نمودار بود، حاشیه‌های پایداری و جبران‌سازهای پیش‌فاز و پس‌فاز","title_evidence":"homepage_anchor"}
+{"id":538,"source_url":"https://o538.x-oo.chatgpt.site/","title":"دیوار حائل، فشار جانبی خاک، زهکشی و کنترل لغزش و واژگونی","title_evidence":"homepage_anchor"}
+{"id":539,"source_url":"https://o539.x-oo.chatgpt.site/","title":"جذب گاز در برج‌های پرشده؛ تعادل فازی، انتقال جرم، ارتفاع بستر و افت فشار","title_evidence":"homepage_anchor"}
+{"id":540,"source_url":"https://o540.x-oo.chatgpt.site/","title":"مکانیک شکست الاستیک–پلاستیک؛ انتگرال J، ناحیه پلاستیک نوک ترک و منحنی مقاومت","title_evidence":"homepage_anchor"}
+{"id":541,"source_url":"https://o541.x-oo.chatgpt.site/","title":"طراحی اتصالات پیچی پیش‌بارگذاری‌شده؛ سختی اتصال، گشتاور بستن، جدایش و خستگی","title_evidence":"homepage_anchor"}
+{"id":542,"source_url":"https://o542.x-oo.chatgpt.site/","title":"ضربه قوچ و گذراهای هیدرولیکی در خطوط لوله؛ موج فشار، زمان بحرانی و تجهیزات حفاظتی","title_evidence":"homepage_anchor"}
+{"id":543,"source_url":"https://o543.x-oo.chatgpt.site/","title":"جوشش استخری و شار گرمای بحرانی؛ منحنی جوشش، انتقال حرارت دوفازی و محدودیت‌های طراحی","title_evidence":"homepage_anchor"}
+{"id":544,"source_url":"https://o544.x-oo.chatgpt.site/","title":"نیروگاه چرخه ترکیبی گاز–بخار؛ بازیافت حرارت، مولد بخار بازیاب و تحلیل بازده","title_evidence":"homepage_anchor"}
+{"id":545,"source_url":"https://o545.x-oo.chatgpt.site/","title":"خطوط انتقال جریان متناوب؛ معادلات تلگراف، پارامترهای توزیع‌شده، توان راکتیو و تنظیم ولتاژ","title_evidence":"homepage_anchor"}
+{"id":546,"source_url":"https://o546.x-oo.chatgpt.site/","title":"ماسفت قدرت در مبدل‌های سوئیچینگ؛ تلفات رسانش و کلیدزنی، درایو گیت و طراحی حرارتی","title_evidence":"homepage_anchor"}
+{"id":547,"source_url":"https://o547.x-oo.chatgpt.site/","title":"تخمین حالت با فیلتر کالمن؛ مدل تصادفی، کوواریانس خطا و تلفیق اندازه‌گیری در سامانه‌های مهندسی","title_evidence":"homepage_anchor"}
+{"id":548,"source_url":"https://o548.x-oo.chatgpt.site/","title":"ستون بتن‌آرمه تحت بار محوری و خمش؛ نمودار اندرکنش، لاغری و طراحی ظرفیت","title_evidence":"homepage_anchor"}
+{"id":549,"source_url":"https://o549.x-oo.chatgpt.site/","title":"یکپارچه‌سازی حرارتی فرایند و تحلیل پینچ؛ هدف‌گذاری انرژی و طراحی شبکه مبدل‌های حرارتی","title_evidence":"homepage_anchor"}
+{"id":550,"source_url":"https://o550.x-oo.chatgpt.site/","title":"پایداری و کمانش پوسته‌های نازک استوانه‌ای؛ حساسیت به نقص هندسی، فشار و معیارهای طراحی","title_evidence":"homepage_anchor"}
+{"id":551,"source_url":"https://o551.x-oo.chatgpt.site/","title":"روش حجم محدود در دینامیک سیالات محاسباتی؛ گسسته‌سازی معادلات ناویر–استوکس، بقای شار و اعتبارسنجی","title_evidence":"homepage_anchor"}
+{"id":552,"source_url":"https://o552.x-oo.chatgpt.site/","title":"همرفت طبیعی در محفظه‌ها و سطوح گرم؛ عدد رایلی، لایه مرزی شناوری و طراحی انتقال حرارت","title_evidence":"homepage_anchor"}
+{"id":553,"source_url":"https://o553.x-oo.chatgpt.site/","title":"موتور احتراق داخلی چهارزمانه؛ چرخه‌های اتو و دیزل، بازده، تنفس موتور و پدیده ناک","title_evidence":"homepage_anchor"}
+{"id":554,"source_url":"https://o554.x-oo.chatgpt.site/","title":"مبدل‌های کاهنده و افزاینده جریان مستقیم؛ نسبت تبدیل، ریپل، حالت هدایت پیوسته و طراحی حلقه کنترل","title_evidence":"homepage_anchor"}
+{"id":555,"source_url":"https://o555.x-oo.chatgpt.site/","title":"پایداری گذرای سامانه قدرت؛ معادله نوسان روتور، معیار مساحت برابر و زمان بحرانی رفع خطا","title_evidence":"homepage_anchor"}
+{"id":556,"source_url":"https://o556.x-oo.chatgpt.site/","title":"کنترل بهینه خطی–درجه‌دوم؛ تابع هزینه، معادله ریکاتی، بازخورد حالت و مصالحه عملکرد با انرژی کنترل","title_evidence":"homepage_anchor"}
+{"id":557,"source_url":"https://o557.x-oo.chatgpt.site/","title":"کمانش جانبی–پیچشی تیرهای فولادی؛ طول مهارنشده، توزیع لنگر و طراحی ظرفیت خمشی","title_evidence":"homepage_anchor"}
+{"id":558,"source_url":"https://o558.x-oo.chatgpt.site/","title":"تحکیم یک‌بعدی خاک‌های ریزدانه؛ فشار آب حفره‌ای، ضریب تحکیم و پیش‌بینی نشست وابسته به زمان","title_evidence":"homepage_anchor"}
+{"id":559,"source_url":"https://o559.x-oo.chatgpt.site/","title":"جداسازی غشایی و انتقال جرم؛ مدل محلول–نفوذ، پلاریزاسیون غلظتی، گرفتگی و معیارهای طراحی فرایند","title_evidence":"homepage_anchor"}
+{"id":560,"source_url":"https://o560.x-oo.chatgpt.site/","title":"تحلیل تنش و تغییرشکل پوسته‌های استوانه‌ای نازک تحت فشار داخلی و بارهای ترکیبی","title_evidence":"homepage_anchor"}
+{"id":561,"source_url":"https://o561.x-oo.chatgpt.site/","title":"چرخ‌دنده‌های درگیر؛ هندسه اینولوت، نسبت تماس، تنش دندانه و حالت‌های خرابی","title_evidence":"homepage_anchor"}
+{"id":562,"source_url":"https://o562.x-oo.chatgpt.site/","title":"جریان آشفته در مجاری؛ تنش رینولدز، افت انرژی و مدل‌سازی مهندسی آشفتگی","title_evidence":"homepage_anchor"}
+{"id":563,"source_url":"https://o563.x-oo.chatgpt.site/","title":"مبدل‌های حرارتی پوسته‌ولوله؛ طراحی حرارتی–هیدرولیکی، رسوب و افت فشار","title_evidence":"homepage_anchor"}
+{"id":564,"source_url":"https://o564.x-oo.chatgpt.site/","title":"کمپرسورهای گریز از مرکز؛ مثلث سرعت، نسبت فشار، سرج و خفگی","title_evidence":"homepage_anchor"}
+{"id":565,"source_url":"https://o565.x-oo.chatgpt.site/","title":"پخش بار در شبکه قدرت؛ موازنه توان، روش نیوتن–رافسون و محدودیت‌های بهره‌برداری","title_evidence":"homepage_anchor"}
+{"id":566,"source_url":"https://o566.x-oo.chatgpt.site/","title":"مبدل باک و بوست؛ مدل‌سازی حالت‌میانگین، ریپل و طراحی حلقه کنترل","title_evidence":"homepage_anchor"}
+{"id":567,"source_url":"https://o567.x-oo.chatgpt.site/","title":"کنترل پیش‌بین مدل‌مبنا؛ بهینه‌سازی افق محدود، قیود و استحکام عملی","title_evidence":"homepage_anchor"}
+{"id":568,"source_url":"https://o568.x-oo.chatgpt.site/","title":"پل‌های فولادی؛ خمش مرکب، کمانش موضعی، خستگی و طراحی جزئیات اتصال","title_evidence":"homepage_anchor"}
+{"id":569,"source_url":"https://o569.x-oo.chatgpt.site/","title":"ستون جذب گاز و دفع؛ ضرایب انتقال جرم، خطوط عملیاتی و طراحی ارتفاع بستر","title_evidence":"homepage_anchor"}
+{"id":570,"source_url":"https://o570.x-oo.chatgpt.site/","title":"روش حجم محدود در دینامیک سیالات محاسباتی؛ گسسته‌سازی بقایی، شارهای عددی و همگرایی شبکه","title_evidence":"homepage_anchor"}
+{"id":571,"source_url":"https://o571.x-oo.chatgpt.site/","title":"مکانیک تماس و اصطکاک در اتصالات مهندسی؛ فشار تماس، لغزش جزئی و سایش","title_evidence":"homepage_anchor"}
+{"id":572,"source_url":"https://o572.x-oo.chatgpt.site/","title":"مبدل‌های حرارتی صفحه‌ای؛ انتقال حرارت، افت فشار، رسوب و طراحی شبکه صفحات","title_evidence":"homepage_anchor"}
+{"id":573,"source_url":"https://o573.x-oo.chatgpt.site/","title":"دیگ بخار صنعتی؛ موازنه انرژی، احتراق، گردش آب و ایمنی حرارتی","title_evidence":"homepage_anchor"}
+{"id":574,"source_url":"https://o574.x-oo.chatgpt.site/","title":"هماهنگی عایقی و اضافه‌ولتاژ در شبکه‌های قدرت؛ صاعقه، کلیدزنی و حفاظت موجی","title_evidence":"homepage_anchor"}
+{"id":575,"source_url":"https://o575.x-oo.chatgpt.site/","title":"یکسوکننده‌های دیودی و تریستوری؛ شکل موج، ضریب توان، هارمونیک و طراحی حرارتی","title_evidence":"homepage_anchor"}
+{"id":576,"source_url":"https://o576.x-oo.chatgpt.site/","title":"کنترل مقاوم در سامانه‌های مهندسی؛ عدم‌قطعیت مدل، پایداری و حساسیت","title_evidence":"homepage_anchor"}
+{"id":577,"source_url":"https://o577.x-oo.chatgpt.site/","title":"تحلیل لرزه‌ای سازه‌ها؛ طیف پاسخ، شکل‌های ارتعاش و ترکیب مودها","title_evidence":"homepage_anchor"}
+{"id":578,"source_url":"https://o578.x-oo.chatgpt.site/","title":"تحکیم یک‌بعدی خاک‌های رسی؛ فشار آب حفره‌ای، نشست زمانی و پارامترهای آزمایشگاهی","title_evidence":"homepage_anchor"}
+{"id":579,"source_url":"https://o579.x-oo.chatgpt.site/","title":"راکتورهای کاتالیستی بستر ثابت؛ انتقال جرم و حرارت، افت فشار و نقاط داغ","title_evidence":"homepage_anchor"}
+{"id":580,"source_url":"https://o580.x-oo.chatgpt.site/","title":"جداسازی ارتعاش ماشین‌آلات؛ قابلیت انتقال، نسبت فرکانس، میرایی و انتخاب تکیه‌گاه","title_evidence":"homepage_anchor"}
+{"id":581,"source_url":"https://o581.x-oo.chatgpt.site/","title":"خستگی تحت بارگذاری دامنه‌متغیر؛ شمارش چرخه، منحنی تنش–عمر و انباشت آسیب","title_evidence":"homepage_anchor"}
+{"id":582,"source_url":"https://o582.x-oo.chatgpt.site/","title":"تحلیل شبکه لوله‌ها؛ افت هد، پمپ، شیر و توزیع دبی در شاخه‌های موازی و حلقوی","title_evidence":"homepage_anchor"}
+{"id":583,"source_url":"https://o583.x-oo.chatgpt.site/","title":"پره‌های انتقال حرارت و سطوح گسترده؛ بازده پره، اثربخشی و بهینه‌سازی هندسه","title_evidence":"homepage_anchor"}
+{"id":584,"source_url":"https://o584.x-oo.chatgpt.site/","title":"موتورهای احتراق داخلی؛ چرخه ترمودینامیکی، پرشدن سیلندر، احتراق، اتلاف و بازده","title_evidence":"homepage_anchor"}
+{"id":585,"source_url":"https://o585.x-oo.chatgpt.site/","title":"موتور سنکرون سه‌فاز؛ زاویه بار، تحریک میدان، ضریب توان و پایداری کار","title_evidence":"homepage_anchor"}
+{"id":586,"source_url":"https://o586.x-oo.chatgpt.site/","title":"اتصال زمین و حفاظت در برابر برق‌گرفتگی؛ جریان خطا، ولتاژ تماس و هماهنگی قطع","title_evidence":"homepage_anchor"}
+{"id":587,"source_url":"https://o587.x-oo.chatgpt.site/","title":"شناسایی سیستم از داده؛ انتخاب ساختار مدل، تحریک پایا، برآورد پارامتر و اعتبارسنجی","title_evidence":"homepage_anchor"}
+{"id":588,"source_url":"https://o588.x-oo.chatgpt.site/","title":"تیرهای بتن پیش‌تنیده؛ نیروی پیش‌تنیدگی، افت‌ها، تنش خدمت و مقاومت خمشی","title_evidence":"homepage_anchor"}
+{"id":589,"source_url":"https://o589.x-oo.chatgpt.site/","title":"استخراج مایع–مایع؛ تعادل توزیع، مرحله‌های تماسی، انتخاب حلال و طراحی فرایند","title_evidence":"homepage_anchor"}
+{"id":590,"source_url":"https://o590.x-oo.chatgpt.site/","title":"آزمون فراصوتی غیرمخرب؛ انتشار موج، بازتاب، تضعیف و آشکارسازی عیب","title_evidence":"homepage_anchor"}
+{"id":591,"source_url":"https://o591.x-oo.chatgpt.site/","title":"فنر مارپیچی فشاری؛ تنش برشی، خیز، کمانش و طراحی عمر خستگی","title_evidence":"homepage_anchor"}
+{"id":592,"source_url":"https://o592.x-oo.chatgpt.site/","title":"جریان کانال باز و پرش هیدرولیکی؛ انرژی ویژه، عدد فرود و استهلاک انرژی","title_evidence":"homepage_anchor"}
+{"id":593,"source_url":"https://o593.x-oo.chatgpt.site/","title":"مقاومت حرارتی تماس؛ زبری سطح، فشار اتصال و انتقال گرما میان جامدات","title_evidence":"homepage_anchor"}
+{"id":594,"source_url":"https://o594.x-oo.chatgpt.site/","title":"برج خنک‌کننده مرطوب؛ تبخیر، دمای حباب‌تر، چرخه تغلیظ و مدیریت آب","title_evidence":"homepage_anchor"}
+{"id":595,"source_url":"https://o595.x-oo.chatgpt.site/","title":"کیفیت توان و هارمونیک‌ها؛ اعوجاج ولتاژ و جریان، بارهای غیرخطی و راهکارهای کاهش","title_evidence":"homepage_anchor"}
+{"id":596,"source_url":"https://o596.x-oo.chatgpt.site/","title":"نمونه‌برداری و تبدیل آنالوگ به دیجیتال؛ نایکوئیست، علیاسینگ، کوانتیزاسیون و فیلتر ضدعلیاس","title_evidence":"homepage_anchor"}
+{"id":597,"source_url":"https://o597.x-oo.chatgpt.site/","title":"پایداری لیاپانوف در سامانه‌های غیرخطی؛ تابع انرژی، ناحیه جذب و بازخورد","title_evidence":"homepage_anchor"}
+{"id":598,"source_url":"https://o598.x-oo.chatgpt.site/","title":"دال بتن‌آرمه و برش پانچ؛ مسیر انتقال بار، محیط بحرانی و کنترل گسیختگی ترد","title_evidence":"homepage_anchor"}
+{"id":599,"source_url":"https://o599.x-oo.chatgpt.site/","title":"جداسازی غشایی آب؛ اسمز معکوس، نانوفیلتراسیون، شار، گرفتگی و بازیابی","title_evidence":"homepage_anchor"}
+{"id":600,"source_url":"https://o600.x-oo.chatgpt.site/","title":"تحلیل پیچیدگی الگوریتم‌ها و تحلیل سرشکن؛ از کران‌های مجانبی تا تابع پتانسیل","title_evidence":"homepage_anchor"}
+{"id":601,"source_url":"https://o601.x-oo.chatgpt.site/","title":"درخت B+ و درخت LSM در سامانه‌های ذخیره‌سازی؛ معماری، هزینه خواندن و نوشتن و سیاست‌های ادغام","title_evidence":"homepage_anchor"}
+{"id":602,"source_url":"https://o602.x-oo.chatgpt.site/","title":"حافظه مجازی، خطای صفحه و الگوریتم‌های جایگزینی؛ از TLB تا مجموعه کاری و کوبش حافظه","title_evidence":"homepage_anchor"}
+{"id":603,"source_url":"https://o603.x-oo.chatgpt.site/","title":"اجماع در سیستم‌های توزیع‌شده؛ از محدودیت FLP تا Paxos، Raft و ماشین حالت تکرارشده","title_evidence":"homepage_anchor"}
+{"id":604,"source_url":"https://o604.x-oo.chatgpt.site/","title":"کنترل ازدحام در TCP و QUIC؛ از AIMD و Reno تا CUBIC، زمان رفت‌وبرگشت و بازیابی اتلاف","title_evidence":"homepage_anchor"}
+{"id":605,"source_url":"https://o605.x-oo.chatgpt.site/","title":"رمزنگاری کلید عمومی؛ RSA، منحنی‌های بیضوی، امضای دیجیتال و گذار به رمزنگاری پساکوانتومی","title_evidence":"homepage_anchor"}
+{"id":606,"source_url":"https://o606.x-oo.chatgpt.site/","title":"شبکه‌های عصبی هم‌نهشتی و یادگیری باقیمانده‌ای؛ از هم‌نهشتی و میدان پذیرش تا ResNet و ارزیابی معتبر","title_evidence":"homepage_anchor"}
+{"id":607,"source_url":"https://o607.x-oo.chatgpt.site/","title":"تعمیم و ارزیابی در یادگیری ماشین؛ بیش‌برازش، نشت داده، سوگیری، اعتبارسنجی متقاطع و انتخاب معیار","title_evidence":"homepage_anchor"}
+{"id":608,"source_url":"https://o608.x-oo.chatgpt.site/","title":"ترنسفورمر و خودتوجهی در پردازش زبان طبیعی؛ معماری، تعمیم و ارزیابی معتبر","title_evidence":"homepage_anchor"}
+{"id":609,"source_url":"https://o609.x-oo.chatgpt.site/","title":"سیستم‌های توصیه‌گر؛ پالایش مشارکتی، تجزیه ماتریسی، رتبه‌بندی و ارزیابی بدون نشت داده","title_evidence":"homepage_anchor"}
+{"id":610,"source_url":"https://o610.x-oo.chatgpt.site/","title":"محاسبه‌پذیری، مسئله توقف و کاهش‌پذیری در نظریه محاسبات","title_evidence":"homepage_anchor"}
+{"id":611,"source_url":"https://o611.x-oo.chatgpt.site/","title":"سازگاری حافظه، هم‌روندی و انسجام حافظه نهان در چندپردازنده‌ها","title_evidence":"homepage_anchor"}
+{"id":612,"source_url":"https://o612.x-oo.chatgpt.site/","title":"تراکنش، سریال‌پذیری، جداسازی و کنترل هم‌روندی چندنسخه‌ای در پایگاه داده","title_evidence":"homepage_anchor"}
+{"id":613,"source_url":"https://o613.x-oo.chatgpt.site/","title":"هش سازگار، حد نصاب و توازن داده در سامانه‌های توزیع‌شده","title_evidence":"homepage_anchor"}
+{"id":614,"source_url":"https://o614.x-oo.chatgpt.site/","title":"تبدیل فوریه گسسته، تبدیل فوریه سریع و محاسبه هم‌پیچی در پردازش سیگنال","title_evidence":"homepage_anchor"}
+{"id":615,"source_url":"https://o615.x-oo.chatgpt.site/","title":"الگوریتم‌های تصادفی، روش‌های مونت‌کارلو و لاس‌وگاس و تحلیل احتمال خطا","title_evidence":"homepage_anchor"}
+{"id":616,"source_url":"https://o616.x-oo.chatgpt.site/","title":"ترنسفورمرهای بینایی، قطعه‌بندی تصویر و توجه خودکار در بازشناسی دیداری","title_evidence":"homepage_anchor"}
+{"id":617,"source_url":"https://o617.x-oo.chatgpt.site/","title":"کالیبراسیون احتمال و سنجش عدم‌قطعیت در شبکه‌های عصبی","title_evidence":"homepage_anchor"}
+{"id":618,"source_url":"https://o618.x-oo.chatgpt.site/","title":"بهینه‌سازی شبکه‌های عصبی با گرادیان تصادفی، تکانه و Adam","title_evidence":"homepage_anchor"}
+{"id":619,"source_url":"https://o619.x-oo.chatgpt.site/","title":"شبکه‌های عصبی گرافی، پیام‌رسانی و یادگیری بازنمایی روی داده‌های رابطه‌ای","title_evidence":"homepage_anchor"}
+{"id":620,"source_url":"https://o620.x-oo.chatgpt.site/","title":"الگوریتم‌های تقریبی برای مسائل NP-سخت: نسبت تقریب، ریلکسیشن و گردکردن","title_evidence":"homepage_anchor"}
+{"id":621,"source_url":"https://o621.x-oo.chatgpt.site/","title":"ساختمان‌داده‌های هم‌زمان: خطی‌پذیری، بدون‌قفل و انتظار‌آزاد","title_evidence":"homepage_anchor"}
+{"id":622,"source_url":"https://o622.x-oo.chatgpt.site/","title":"بهینه‌سازی پرس‌وجوی رابطه‌ای: برآورد کاردینالیتی، مدل هزینه و ترتیب اتصال","title_evidence":"homepage_anchor"}
+{"id":623,"source_url":"https://o623.x-oo.chatgpt.site/","title":"CRDT و سازگاری نهایی قوی در سامانه‌های توزیع‌شده","title_evidence":"homepage_anchor"}
+{"id":624,"source_url":"https://o624.x-oo.chatgpt.site/","title":"BGP و پایداری مسیریابی بین‌دامنه‌ای: سیاست، همگرایی و اعتبارسنجی مبدأ","title_evidence":"homepage_anchor"}
+{"id":625,"source_url":"https://o625.x-oo.chatgpt.site/","title":"فشرده‌سازی بدون اتلاف: آنتروپی، کد هافمن و خانواده لِمپل–زیو","title_evidence":"homepage_anchor"}
+{"id":626,"source_url":"https://o626.x-oo.chatgpt.site/","title":"یادگیری خودنظارتی و کنتراستی در بینایی ماشین: SimCLR، MoCo و ارزیابی بازنمایی","title_evidence":"homepage_anchor"}
+{"id":627,"source_url":"https://o627.x-oo.chatgpt.site/","title":"ارزیابی تشخیص شیء و بخش‌بندی: IoU، AP، mAP و دام‌های مقایسه","title_evidence":"homepage_anchor"}
+{"id":628,"source_url":"https://o628.x-oo.chatgpt.site/","title":"یادگیری فدرال: FedAvg، ناهمگنی داده، حریم خصوصی و ارزیابی","title_evidence":"homepage_anchor"}
+{"id":629,"source_url":"https://o629.x-oo.chatgpt.site/","title":"پایداری عددی و حل دستگاه‌های خطی بزرگ: شرطی‌بودن، CG و GMRES","title_evidence":"homepage_anchor"}
+{"id":630,"source_url":"https://o630.x-oo.chatgpt.site/","title":"برنامه‌ریزی پویا، اصل بهینگی و طراحی الگوریتم‌های چندمرحله‌ای","title_evidence":"homepage_anchor"}
+{"id":631,"source_url":"https://o631.x-oo.chatgpt.site/","title":"ساختمان‌داده‌های احتمالی برای داده‌های عظیم: فیلتر بلوم، Count-Min Sketch و HyperLogLog","title_evidence":"homepage_anchor"}
+{"id":632,"source_url":"https://o632.x-oo.chatgpt.site/","title":"اجرای خارج از ترتیب، تغییر نام ثبات‌ها و حدس اجرای دستورها در ریزمعماری پردازنده","title_evidence":"homepage_anchor"}
+{"id":633,"source_url":"https://o633.x-oo.chatgpt.site/","title":"پردازش جریانی داده، زمان رویداد، واترمارک و تضمین پردازش دقیقاً یک‌بار","title_evidence":"homepage_anchor"}
+{"id":634,"source_url":"https://o634.x-oo.chatgpt.site/","title":"کدهای پاک‌شونده و رید–سالومون در ذخیره‌سازی قابل‌اعتماد داده","title_evidence":"homepage_anchor"}
+{"id":635,"source_url":"https://o635.x-oo.chatgpt.site/","title":"حریم خصوصی تفاضلی: تعریف ریاضی، سازوکار نویز و مصالحه میان محرمانگی و سودمندی","title_evidence":"homepage_anchor"}
+{"id":636,"source_url":"https://o636.x-oo.chatgpt.site/","title":"خودرمزگذار واریانسی، استنباط تقریبی و یادگیری بازنمایی نهفته","title_evidence":"homepage_anchor"}
+{"id":637,"source_url":"https://o637.x-oo.chatgpt.site/","title":"پردازش گفتار دیجیتال: تبدیل فوریه کوتاه‌مدت، مقیاس مِل و هم‌ترازی CTC","title_evidence":"homepage_anchor"}
+{"id":638,"source_url":"https://o638.x-oo.chatgpt.site/","title":"کاهش بُعد با تحلیل مؤلفه‌های اصلی، تجزیه مقدار منفرد و تصویرسازی تصادفی","title_evidence":"homepage_anchor"}
+{"id":639,"source_url":"https://o639.x-oo.chatgpt.site/","title":"بهینه‌سازی بیزی با فرایند گاوسی برای توابع گران‌قیمت و تنظیم هایپرپارامتر","title_evidence":"homepage_anchor"}
+{"id":640,"source_url":"https://o640.x-oo.chatgpt.site/","title":"بیشینه‌جریان و برش‌کمینه در شبکه‌ها: از مسیر افزایشی تا دوگانگی بهینه‌سازی","title_evidence":"homepage_anchor"}
+{"id":641,"source_url":"https://o641.x-oo.chatgpt.site/","title":"فرم تک‌انتساب ایستا در کامپایلرها: گراف جریان کنترل، سلطه و بهینه‌سازی","title_evidence":"homepage_anchor"}
+{"id":642,"source_url":"https://o642.x-oo.chatgpt.site/","title":"زمان منطقی و علیت در سیستم‌های توزیع‌شده: از ساعت لامپورت تا ساعت برداری","title_evidence":"homepage_anchor"}
+{"id":643,"source_url":"https://o643.x-oo.chatgpt.site/","title":"ذخیره‌سازی ستونی و اجرای تحلیلی: از C-Store تا Dremel و Parquet","title_evidence":"homepage_anchor"}
+{"id":644,"source_url":"https://o644.x-oo.chatgpt.site/","title":"کدهای LDPC و تصحیح خطا: ساختار تنک، انتشار باور و نزدیک‌شدن به حد شانون","title_evidence":"homepage_anchor"}
+{"id":645,"source_url":"https://o645.x-oo.chatgpt.site/","title":"رمزنگاری همریخت: محاسبه روی دادهٔ رمز‌شده، نویز و بودجهٔ عمق","title_evidence":"homepage_anchor"}
+{"id":646,"source_url":"https://o646.x-oo.chatgpt.site/","title":"مدل‌های انتشار احتمالی: فرایند نویزدهی، وارون‌سازی و ارزیابی مدل مولد","title_evidence":"homepage_anchor"}
+{"id":647,"source_url":"https://o647.x-oo.chatgpt.site/","title":"یادگیری تقویتی: معادلات بلمن، تفاوت زمانی و گرادیان سیاست","title_evidence":"homepage_anchor"}
+{"id":648,"source_url":"https://o648.x-oo.chatgpt.site/","title":"استنباط علّی در علم داده: نمودارهای علّی، مداخله، مخدوش‌گری و شناسایی","title_evidence":"homepage_anchor"}
+{"id":649,"source_url":"https://o649.x-oo.chatgpt.site/","title":"روش اجزای محدود: صورت ضعیف، گسسته‌سازی، خطا و همگرایی در محاسبات علمی","title_evidence":"homepage_anchor"}
+{"id":650,"source_url":"https://o650.x-oo.chatgpt.site/","title":"جست‌وجوی ابتکاری A*؛ بهینگی، سازگاری تابع راهنما و هزینهٔ جست‌وجو","title_evidence":"homepage_anchor"}
+{"id":651,"source_url":"https://o651.x-oo.chatgpt.site/","title":"جمع‌آوری خودکار حافظه؛ ردیابی، نسل‌بندی، هم‌روندی و مکث‌های اجرایی","title_evidence":"homepage_anchor"}
+{"id":652,"source_url":"https://o652.x-oo.chatgpt.site/","title":"برش سازگار و عکس‌برداری سراسری در سامانه‌های توزیع‌شده","title_evidence":"homepage_anchor"}
+{"id":653,"source_url":"https://o653.x-oo.chatgpt.site/","title":"جست‌وجوی نزدیک‌ترین همسایهٔ تقریبی و نمایه‌های برداری؛ از HNSW تا کمّی‌سازی حاصل‌ضربی","title_evidence":"homepage_anchor"}
+{"id":654,"source_url":"https://o654.x-oo.chatgpt.site/","title":"محاسبهٔ چندطرفهٔ امن و اشتراک راز؛ محاسبه روی داده‌های محرمانه","title_evidence":"homepage_anchor"}
+{"id":655,"source_url":"https://o655.x-oo.chatgpt.site/","title":"جابجایی توزیع در یادگیری ماشین؛ جابجایی کوواریته، جابجایی برچسب و تعمیم خارج از توزیع","title_evidence":"homepage_anchor"}
+{"id":656,"source_url":"https://o656.x-oo.chatgpt.site/","title":"پیش‌بینی سری زمانی؛ پس‌آزمایی، جلوگیری از نشت زمانی و سنجش عدم‌قطعیت","title_evidence":"homepage_anchor"}
+{"id":657,"source_url":"https://o657.x-oo.chatgpt.site/","title":"رهگیری چندشیء در ویدئو؛ تخصیص داده، پایداری هویت و ارزیابی بدون نشت","title_evidence":"homepage_anchor"}
+{"id":658,"source_url":"https://o658.x-oo.chatgpt.site/","title":"مشتق‌گیری خودکار و پس‌انتشار؛ از گراف محاسباتی تا حاصل‌ضرب هسین در بردار","title_evidence":"homepage_anchor"}
+{"id":659,"source_url":"https://o659.x-oo.chatgpt.site/","title":"همولوژی پایا و تحلیل دادهٔ توپولوژیک؛ بارکدها، نمودارهای پایداری و محدودیت‌های تفسیر","title_evidence":"homepage_anchor"}
+{"id":660,"source_url":"https://o660.x-oo.chatgpt.site/","title":"آرایهٔ پسوندی، تبدیل باروز–ویلر و نمایهٔ FM برای جست‌وجوی متن","title_evidence":"homepage_anchor"}
+{"id":661,"source_url":"https://o661.x-oo.chatgpt.site/","title":"وارسی مدل، منطق زمانی و بررسی خودکار سامانه‌های حالت‌متناهی","title_evidence":"homepage_anchor"}
+{"id":662,"source_url":"https://o662.x-oo.chatgpt.site/","title":"معماری GPU، اجرای SIMT و سلسله‌مراتب حافظه در محاسبات موازی","title_evidence":"homepage_anchor"}
+{"id":663,"source_url":"https://o663.x-oo.chatgpt.site/","title":"قضیه CAP، جداسازی شبکه و مصالحهٔ سازگاری و دسترس‌پذیری","title_evidence":"homepage_anchor"}
+{"id":664,"source_url":"https://o664.x-oo.chatgpt.site/","title":"نمایهٔ وارونه و رتبه‌بندی BM25 در بازیابی اطلاعات متنی","title_evidence":"homepage_anchor"}
+{"id":665,"source_url":"https://o665.x-oo.chatgpt.site/","title":"درخت مرکل، اثبات تمامیت و گزارش‌های شفافیت در سامانه‌های امن","title_evidence":"homepage_anchor"}
+{"id":666,"source_url":"https://o666.x-oo.chatgpt.site/","title":"ماشین بردار پشتیبان، حاشیهٔ بیشینه و روش‌های کرنلی در یادگیری ماشین","title_evidence":"homepage_anchor"}
+{"id":667,"source_url":"https://o667.x-oo.chatgpt.site/","title":"تقویت گرادیانی درخت‌ها؛ از نزول در فضای تابع تا XGBoost و ارزیابی معتبر","title_evidence":"homepage_anchor"}
+{"id":668,"source_url":"https://o668.x-oo.chatgpt.site/","title":"بخش‌بندی معنایی تصویر؛ از شبکه‌های تمام‌هم‌نهشتی تا U-Net و DeepLab","title_evidence":"homepage_anchor"}
+{"id":669,"source_url":"https://o669.x-oo.chatgpt.site/","title":"حل عددی معادلات دیفرانسیل معمولی؛ رانگ–کوتا، کنترل گام و مسئلهٔ سختی","title_evidence":"homepage_anchor"}
+{"id":670,"source_url":"https://o670.x-oo.chatgpt.site/","title":"تطبیق بیشینه در گراف‌های دوبخشی و مسئله تخصیص","title_evidence":"homepage_anchor"}
+{"id":671,"source_url":"https://o671.x-oo.chatgpt.site/","title":"تخصیص ثبات در کامپایلرها؛ تحلیل زنده‌بودن، گراف تداخل و رنگ‌آمیزی","title_evidence":"homepage_anchor"}
+{"id":672,"source_url":"https://o672.x-oo.chatgpt.site/","title":"تعهد اتمی در تراکنش‌های توزیع‌شده؛ دو مرحله‌ای، سه مرحله‌ای و مسئله انسداد","title_evidence":"homepage_anchor"}
+{"id":673,"source_url":"https://o673.x-oo.chatgpt.site/","title":"بازیابی پایگاه داده با گزارش نوشتن پیشاپیش و الگوریتم ARIES","title_evidence":"homepage_anchor"}
+{"id":674,"source_url":"https://o674.x-oo.chatgpt.site/","title":"سامانه نام دامنه، کش، DNSSEC و اعتبارسنجی زنجیره اعتماد","title_evidence":"homepage_anchor"}
+{"id":675,"source_url":"https://o675.x-oo.chatgpt.site/","title":"رمزنگاری احرازشده با داده وابسته؛ AEAD، GCM و ChaCha20–Poly1305","title_evidence":"homepage_anchor"}
+{"id":676,"source_url":"https://o676.x-oo.chatgpt.site/","title":"یادگیری از داده‌های نامتوازن؛ معیارهای ارزیابی، بازنمونه‌گیری و کالیبراسیون","title_evidence":"homepage_anchor"}
+{"id":677,"source_url":"https://o677.x-oo.chatgpt.site/","title":"جریان‌های نرمال‌ساز در مدل‌سازی مولد و استنباط احتمالاتی","title_evidence":"homepage_anchor"}
+{"id":678,"source_url":"https://o678.x-oo.chatgpt.site/","title":"بازنمایی برداری واژه‌ها؛ از Word2Vec و GloVe تا زیرواژه‌ها","title_evidence":"homepage_anchor"}
+{"id":679,"source_url":"https://o679.x-oo.chatgpt.site/","title":"بهینه‌سازی محدب، شرایط KKT و الگوریتم‌های پروگزیمال","title_evidence":"homepage_anchor"}
+{"id":680,"source_url":"https://o680.x-oo.chatgpt.site/","title":"الگوریتم‌های کوتاه‌ترین مسیر: دیکسترا، بلمن–فورد و بازوزن‌دهی جانسون","title_evidence":"homepage_anchor"}
+{"id":681,"source_url":"https://o681.x-oo.chatgpt.site/","title":"تحلیل ایستای برنامه، جریان داده و تفسیر انتزاعی","title_evidence":"homepage_anchor"}
+{"id":682,"source_url":"https://o682.x-oo.chatgpt.site/","title":"ایزوله‌سازی فرایندها در لینوکس: فضای نام، گروه کنترل و مرزهای امنیت کانتینر","title_evidence":"homepage_anchor"}
+{"id":683,"source_url":"https://o683.x-oo.chatgpt.site/","title":"MapReduce و محاسبات داده‌گرا در خوشه‌های توزیع‌شده","title_evidence":"homepage_anchor"}
+{"id":684,"source_url":"https://o684.x-oo.chatgpt.site/","title":"اثبات‌های صفر-دانش و محاسبهٔ قابل‌راستی‌آزمایی","title_evidence":"homepage_anchor"}
+{"id":685,"source_url":"https://o685.x-oo.chatgpt.site/","title":"جریان نوری و ثبت تصویر: از لوکاس–کاناده تا هورن–شانک","title_evidence":"homepage_anchor"}
+{"id":686,"source_url":"https://o686.x-oo.chatgpt.site/","title":"تشخیص ناهنجاری: جنگل جداسازی، ماشین بردار پشتیبان تک‌کلاسه و ارزیابی بدون نشت داده","title_evidence":"homepage_anchor"}
+{"id":687,"source_url":"https://o687.x-oo.chatgpt.site/","title":"مدل‌های مارکوف پنهان و الگوریتم‌های رو‌به‌جلو، ویتربی و بام–ولش","title_evidence":"homepage_anchor"}
+{"id":688,"source_url":"https://o688.x-oo.chatgpt.site/","title":"مونت‌کارلوی زنجیره مارکوف: متروپولیس–هستینگز، گیبس و تشخیص همگرایی","title_evidence":"homepage_anchor"}
+{"id":689,"source_url":"https://o689.x-oo.chatgpt.site/","title":"محاسبات ممیز شناور، استاندارد IEEE 754 و تحلیل خطای گردکردن","title_evidence":"homepage_anchor"}
+{"id":690,"source_url":"https://o690.x-oo.chatgpt.site/","title":"شوری و سدیمی‌شدن خاک؛ تشخیص، سازوکار تخریب ساختمان و طراحی علمی اصلاح","title_evidence":"homepage_anchor"}
+{"id":691,"source_url":"https://o691.x-oo.chatgpt.site/","title":"فسفر خاک و کارایی مصرف فسفر در گیاه؛ از شیمی ریزوسفر تا مدیریت و اصلاح ژنتیکی","title_evidence":"homepage_anchor"}
+{"id":692,"source_url":"https://o692.x-oo.chatgpt.site/","title":"فوتوپریودیسم و کنترل زمان گل‌دهی؛ از ساعت شبانه‌روزی تا فلوریژن و سازگاری زراعی","title_evidence":"homepage_anchor"}
+{"id":693,"source_url":"https://o693.x-oo.chatgpt.site/","title":"ایمنی ذاتی گیاه و شناسایی الگوهای میکروبی؛ از گیرنده‌های سطحی تا مقاومت پایدار","title_evidence":"homepage_anchor"}
+{"id":694,"source_url":"https://o694.x-oo.chatgpt.site/","title":"فناوری هاپلوئید مضاعف در اصلاح نباتات؛ از القای گامتوفیتی تا تثبیت سریع خطوط خالص","title_evidence":"homepage_anchor"}
+{"id":695,"source_url":"https://o695.x-oo.chatgpt.site/","title":"آسیب سرمایی پس از برداشت در میوه و سبزی؛ سازوکار سلولی، طراحی زنجیره سرد و کنترل خسارت","title_evidence":"homepage_anchor"}
+{"id":696,"source_url":"https://o696.x-oo.chatgpt.site/","title":"خشک‌کردن پاششی در علوم غذا؛ انتقال حرارت و جرم، ریزپوشانی و طراحی کیفیت پودر","title_evidence":"homepage_anchor"}
+{"id":697,"source_url":"https://o697.x-oo.chatgpt.site/","title":"شیمی فصل مشترک در امولسیون‌های غذایی؛ از تشکیل قطره تا پایداری فیزیکی و اکسیداتیو","title_evidence":"homepage_anchor"}
+{"id":698,"source_url":"https://o698.x-oo.chatgpt.site/","title":"قهوه‌ای‌شدن آنزیمی در مواد غذایی گیاهی؛ پلی‌فنول‌اکسیداز، سینتیک واکنش و راهبردهای کنترل","title_evidence":"homepage_anchor"}
+{"id":699,"source_url":"https://o699.x-oo.chatgpt.site/","title":"تنش گرمایی در طیور؛ توازن حرارتی، پاسخ فیزیولوژیک و طراحی علمی مدیریت سالن","title_evidence":"homepage_anchor"}
+{"id":700,"source_url":"https://o700.x-oo.chatgpt.site/","title":"دینامیک مرزهای صفحات تکتونیکی و چرخه تولید و مصرف پوسته","title_evidence":"homepage_anchor"}
+{"id":701,"source_url":"https://o701.x-oo.chatgpt.site/","title":"شبکه بلوری کانی‌ها و شناسایی فاز با پراش پرتو ایکس","title_evidence":"homepage_anchor"}
+{"id":702,"source_url":"https://o702.x-oo.chatgpt.site/","title":"تبلور ماگما و تفریق بلوری؛ از سری واکنشی بوون تا بافت سنگ‌های آذرین","title_evidence":"homepage_anchor"}
+{"id":703,"source_url":"https://o703.x-oo.chatgpt.site/","title":"امواج لرزه‌ای و وارون‌سازی ساختار درونی زمین","title_evidence":"homepage_anchor"}
+{"id":704,"source_url":"https://o704.x-oo.chatgpt.site/","title":"گاززدایی ماگما و پایش ژئوشیمیایی سامانه‌های آتشفشانی","title_evidence":"homepage_anchor"}
+{"id":705,"source_url":"https://o705.x-oo.chatgpt.site/","title":"تغذیه آب زیرزمینی، جریان در آبخوان و برآورد بیلان","title_evidence":"homepage_anchor"}
+{"id":706,"source_url":"https://o706.x-oo.chatgpt.site/","title":"گردش واژگونی اقیانوس، چگالی آب دریا و انتقال گرما و مواد در اعماق","title_evidence":"homepage_anchor"}
+{"id":707,"source_url":"https://o707.x-oo.chatgpt.site/","title":"لایه مرزی جو، آشفتگی و تبادل تکانه، گرما و رطوبت با سطح زمین","title_evidence":"homepage_anchor"}
+{"id":708,"source_url":"https://o708.x-oo.chatgpt.site/","title":"تبادل کاتیونی، اسیدیته و بافر شیمیایی خاک؛ پیوند کانی‌ها، ماده آلی و محلول خاک","title_evidence":"homepage_anchor"}
+{"id":709,"source_url":"https://o709.x-oo.chatgpt.site/","title":"سنجش‌ازدور پوشش گیاهی؛ از بازتاب طیفی برگ تا شاخص‌های سبزینگی و عدم‌قطعیت ماهواره‌ای","title_evidence":"homepage_anchor"}
+{"id":710,"source_url":"https://o710.x-oo.chatgpt.site/","title":"شیمی سامانه کربنات در آب دریا؛ دی‌اکسیدکربن محلول، قلیائیت، pH و اشباع کربنات","title_evidence":"homepage_anchor"}
+{"id":711,"source_url":"https://o711.x-oo.chatgpt.site/","title":"ایزوتوپ‌های پایدار اکسیژن و هیدروژن در چرخه آب؛ جزءبه‌جزءشدن، خطوط آب جوی و ردیابی منشأ","title_evidence":"homepage_anchor"}
+{"id":712,"source_url":"https://o712.x-oo.chatgpt.site/","title":"انتقال رسوب در رودخانه؛ تنش برشی، بار بستر، بار معلق و اندازه‌گیری شار","title_evidence":"homepage_anchor"}
+{"id":713,"source_url":"https://o713.x-oo.chatgpt.site/","title":"دگرگونی سنگ‌ها؛ تعادل فازی، رخساره‌های دگرگونی و مسیر فشار–دما","title_evidence":"homepage_anchor"}
+{"id":714,"source_url":"https://o714.x-oo.chatgpt.site/","title":"دیرینه‌مغناطیس؛ ثبت میدان مغناطیسی زمین در سنگ‌ها و بازسازی وارونگی‌های قطبی","title_evidence":"homepage_anchor"}
+{"id":715,"source_url":"https://o715.x-oo.chatgpt.site/","title":"موازنه جرم یخچال‌های طبیعی؛ اندازه‌گیری انباشت، ذوب و تغییر حجم یخ","title_evidence":"homepage_anchor"}
+{"id":716,"source_url":"https://o716.x-oo.chatgpt.site/","title":"اندازه‌گیری دبی رودخانه؛ از مقطع–سرعت تا منحنی اشل–دبی و سنجش دوپلری صوتی","title_evidence":"homepage_anchor"}
+{"id":717,"source_url":"https://o717.x-oo.chatgpt.site/","title":"فیزیک جزرومد اقیانوسی؛ نیروهای نجومی، تشدید حوضه‌ای و تحلیل مؤلفه‌های هارمونیک","title_evidence":"homepage_anchor"}
+{"id":718,"source_url":"https://o718.x-oo.chatgpt.site/","title":"شیمی ذرات معلق ریز در جو؛ سولفات، نیترات، کربن و فرایندهای تشکیل ذرات ثانویه","title_evidence":"homepage_anchor"}
+{"id":719,"source_url":"https://o719.x-oo.chatgpt.site/","title":"بوم‌شناسی تکه‌تکه‌شدن زیستگاه؛ اثر مساحت، لبه، انزوا و مقیاس بر تنوع زیستی","title_evidence":"homepage_anchor"}
+{"id":720,"source_url":"https://o720.x-oo.chatgpt.site/","title":"پویایی پیچان‌رودها: جریان ثانویه، فرسایش کناره و مهاجرت کانال","title_evidence":"homepage_anchor"}
+{"id":721,"source_url":"https://o721.x-oo.chatgpt.site/","title":"گرادیان زمین‌گرمایی و شار گرمایی پوسته زمین: اندازه‌گیری، مدل‌سازی و عدم‌قطعیت","title_evidence":"homepage_anchor"}
+{"id":722,"source_url":"https://o722.x-oo.chatgpt.site/","title":"کانی‌های رسی در هوازدگی سنگ‌ها: پیدایش، تبدیل و کنترل ژئوشیمیایی","title_evidence":"homepage_anchor"}
+{"id":723,"source_url":"https://o723.x-oo.chatgpt.site/","title":"آبخوان‌های کارستی: جریان مجرایی، تغذیه، ردیابی و آسیب‌پذیری هیدروژئولوژیک","title_evidence":"homepage_anchor"}
+{"id":724,"source_url":"https://o724.x-oo.chatgpt.site/","title":"نوسان ال‌نینو–جنوبی: جفت‌شدگی اقیانوس و جو، ترموکلاین و بازخوردهای استوایی","title_evidence":"homepage_anchor"}
+{"id":725,"source_url":"https://o725.x-oo.chatgpt.site/","title":"فیزیک تشدید چرخندهای حاره‌ای: شار گرما، برش باد و برهم‌کنش اقیانوس و جو","title_evidence":"homepage_anchor"}
+{"id":726,"source_url":"https://o726.x-oo.chatgpt.site/","title":"اندازه‌گیری تغییر تراز دریا: مدسنجی ساحلی، ارتفاع‌سنجی ماهواره‌ای و چارچوب مرجع ژئودتیکی","title_evidence":"homepage_anchor"}
+{"id":727,"source_url":"https://o727.x-oo.chatgpt.site/","title":"پایداری کربن آلی خاک: پیوندهای آلی–کانی، تجمع و نقش ریزمحیط‌ها","title_evidence":"homepage_anchor"}
+{"id":728,"source_url":"https://o728.x-oo.chatgpt.site/","title":"سنجش دمای سطح زمین از فروسرخ گرمایی: گسیلندگی، تصحیح جوی و بازیابی ماهواره‌ای","title_evidence":"homepage_anchor"}
+{"id":729,"source_url":"https://o729.x-oo.chatgpt.site/","title":"چرخه نیتروژن دریایی و مصبی: تثبیت، نیتریفیکاسیون، دنیتریفیکاسیون و اکسایش بی‌هوازی آمونیوم","title_evidence":"homepage_anchor"}
+{"id":730,"source_url":"https://o730.x-oo.chatgpt.site/","title":"مکانیک شکست دامنه‌ها: تنش مؤثر، مقاومت برشی، فشار آب منفذی و پایداری زمین‌لغزش","title_evidence":"homepage_anchor"}
+{"id":731,"source_url":"https://o731.x-oo.chatgpt.site/","title":"انتقال رسوب بادی و پویایی تپه‌های ماسه‌ای: آستانه حرکت، جهش دانه و مهاجرت ریخت‌زمین","title_evidence":"homepage_anchor"}
+{"id":732,"source_url":"https://o732.x-oo.chatgpt.site/","title":"ژئوشیمی آرسنیک در آب زیرزمینی: اکسایش–کاهش، جذب سطحی و آزادسازی از رسوبات آبخوان","title_evidence":"homepage_anchor"}
+{"id":733,"source_url":"https://o733.x-oo.chatgpt.site/","title":"پراکنش و ته‌نشینی خاکستر آتشفشانی: ستون فوران، انتقال جوی و سرعت سقوط ذرات","title_evidence":"homepage_anchor"}
+{"id":734,"source_url":"https://o734.x-oo.chatgpt.site/","title":"بودجه تابشی زمین و اثر ابرها: بازتاب کوتاه‌موج، گسیل فروسرخ و عدم‌تعادل انرژی","title_evidence":"homepage_anchor"}
+{"id":735,"source_url":"https://o735.x-oo.chatgpt.site/","title":"اندازه‌گیری خشکسالی: از کمبود بارش و تقاضای تبخیری تا رطوبت خاک و پاسخ هیدرولوژیک","title_evidence":"homepage_anchor"}
+{"id":736,"source_url":"https://o736.x-oo.chatgpt.site/","title":"تولید اولیه اقیانوس: محدودیت نور و مواد مغذی، فیتوپلانکتون و برآورد ماهواره‌ای کلروفیل","title_evidence":"homepage_anchor"}
+{"id":737,"source_url":"https://o737.x-oo.chatgpt.site/","title":"پیامدهای هیدرولوژیک و ژئومورفیک آتش‌سوزی: نفوذ، رواناب، فرسایش و بازیابی حوضه","title_evidence":"homepage_anchor"}
+{"id":738,"source_url":"https://o738.x-oo.chatgpt.site/","title":"سفیدشدگی مرجان و تنش گرمایی: فیزیولوژی همزیستی، آستانه دما و شاخص درجه–هفته گرمایی","title_evidence":"homepage_anchor"}
+{"id":739,"source_url":"https://o739.x-oo.chatgpt.site/","title":"گرانش‌سنجی ماهواره‌ای برای ذخیره آب خشکی: مبانی GRACE و GRACE-FO، تفکیک جرم و عدم‌قطعیت","title_evidence":"homepage_anchor"}
+{"id":740,"source_url":"https://o740.x-oo.chatgpt.site/","title":"هوازدگی سنگ، پیدایش سنگ‌پوشه و کنترل‌های فیزیکی–شیمیایی منطقه بحرانی زمین","title_evidence":"homepage_anchor"}
+{"id":741,"source_url":"https://o741.x-oo.chatgpt.site/","title":"تغذیه آبخوان و عبور آب از ناحیه غیراشباع؛ روش‌های اندازه‌گیری، مدل‌ها و عدم‌قطعیت","title_evidence":"homepage_anchor"}
+{"id":742,"source_url":"https://o742.x-oo.chatgpt.site/","title":"امواج داخلی اقیانوس؛ فیزیک لایه‌بندی، انتشار انرژی و اختلاط درون‌اقیانوسی","title_evidence":"homepage_anchor"}
+{"id":743,"source_url":"https://o743.x-oo.chatgpt.site/","title":"ریزفیزیک برهم‌کنش هواویز و ابر؛ از هسته‌های میعان تا بارش و عدم‌قطعیت تابشی","title_evidence":"homepage_anchor"}
+{"id":744,"source_url":"https://o744.x-oo.chatgpt.site/","title":"پویایی گرمایی خاک منجمد دائمی و لایه فعال؛ انتقال حرارت، تغییر فاز و پایش ژئوفیزیکی","title_evidence":"homepage_anchor"}
+{"id":745,"source_url":"https://o745.x-oo.chatgpt.site/","title":"شوری و سدیمی‌شدن خاک؛ شیمی محلول، تبادل کاتیونی، هدایت الکتریکی و پایداری ساختمان خاک","title_evidence":"homepage_anchor"}
+{"id":746,"source_url":"https://o746.x-oo.chatgpt.site/","title":"تحلیل فراوانی سیلاب؛ احتمال فراگذشت سالانه، توزیع‌های آماری و عدم‌قطعیت برآورد دبی اوج","title_evidence":"homepage_anchor"}
+{"id":747,"source_url":"https://o747.x-oo.chatgpt.site/","title":"جریان گرمای زمین و گرادیان زمین‌گرمایی؛ رسانش، تولید پرتوزا و انتقال همرفتی در پوسته","title_evidence":"homepage_anchor"}
+{"id":748,"source_url":"https://o748.x-oo.chatgpt.site/","title":"تنوع بتا در بوم‌شناسی؛ تفکیک گونه‌ای میان زیستگاه‌ها، سنجه‌ها و استنباط فرایندهای جامعه","title_evidence":"homepage_anchor"}
+{"id":749,"source_url":"https://o749.x-oo.chatgpt.site/","title":"دمای سطح زمین از سنجش‌ازدور فروسرخ گرمایی؛ تابش، گسیلندگی، تصحیح جو و اعتبارسنجی","title_evidence":"homepage_anchor"}
+{"id":750,"source_url":"https://o750.x-oo.chatgpt.site/","title":"گرادیان زمین‌گرمایی و انتقال گرما در پوسته زمین","title_evidence":"homepage_anchor"}
+{"id":751,"source_url":"https://o751.x-oo.chatgpt.site/","title":"پیدایش و تکامل حوضه‌های رسوبی؛ فرونشست، رسوب‌گذاری و ثبت تکتونیکی","title_evidence":"homepage_anchor"}
+{"id":752,"source_url":"https://o752.x-oo.chatgpt.site/","title":"کارست و انحلال سنگ‌های کربناته؛ از شیمی آب تا غار و فروچاله","title_evidence":"homepage_anchor"}
+{"id":753,"source_url":"https://o753.x-oo.chatgpt.site/","title":"تبادل آب زیرزمینی و رودخانه؛ گرادیان هیدرولیکی، جریان پایه و ناحیه تبادل بستر","title_evidence":"homepage_anchor"}
+{"id":754,"source_url":"https://o754.x-oo.chatgpt.site/","title":"فرسایش ساحلی و جابه‌جایی خط ساحل؛ نقش موج، توفان و بودجه رسوب","title_evidence":"homepage_anchor"}
+{"id":755,"source_url":"https://o755.x-oo.chatgpt.site/","title":"همرفت مرطوب در جو و پیدایش ابرهای کومه‌ای بارا و توفان تندری","title_evidence":"homepage_anchor"}
+{"id":756,"source_url":"https://o756.x-oo.chatgpt.site/","title":"ال‌نینو–نوسان جنوبی؛ سازوکار پیوند اقیانوس و جو در اقیانوس آرام استوایی","title_evidence":"homepage_anchor"}
+{"id":757,"source_url":"https://o757.x-oo.chatgpt.site/","title":"ناحیه‌های کمینه اکسیژن در اقیانوس؛ تهویه، بازکانی‌سازی و چرخه نیتروژن","title_evidence":"homepage_anchor"}
+{"id":758,"source_url":"https://o758.x-oo.chatgpt.site/","title":"دی‌ان‌ای محیطی در پایش تنوع زیستی آبزی؛ نمونه‌برداری، آشکارسازی و عدم‌قطعیت","title_evidence":"homepage_anchor"}
+{"id":759,"source_url":"https://o759.x-oo.chatgpt.site/","title":"موازنه انرژی سطح زمین؛ تابش خالص، گرمای محسوس، گرمای نهان و تبخیر-تعرق","title_evidence":"homepage_anchor"}
+{"id":760,"source_url":"https://o760.x-oo.chatgpt.site/","title":"توموگرافی لرزه‌ای و تصویرسازی سه‌بعدی ساختار درونی زمین","title_evidence":"homepage_anchor"}
+{"id":761,"source_url":"https://o761.x-oo.chatgpt.site/","title":"سامانه‌های گرمابی کف اقیانوس و دگرسانی ژئوشیمیایی پوسته اقیانوسی","title_evidence":"homepage_anchor"}
+{"id":762,"source_url":"https://o762.x-oo.chatgpt.site/","title":"لُس، پالئوسول و بازسازی اقلیم‌های گذشته از بایگانی‌های رسوبی خشکی","title_evidence":"homepage_anchor"}
+{"id":763,"source_url":"https://o763.x-oo.chatgpt.site/","title":"آب معادل برف و سنجش ذخیره آب در برف‌پوش کوهستانی","title_evidence":"homepage_anchor"}
+{"id":764,"source_url":"https://o764.x-oo.chatgpt.site/","title":"رودخانه‌های جوی؛ انتقال متمرکز بخار آب، بارش کوهستانی و عدم‌قطعیت پیش‌بینی","title_evidence":"homepage_anchor"}
+{"id":765,"source_url":"https://o765.x-oo.chatgpt.site/","title":"لایه‌بندی حرارتی دریاچه‌ها، اکسیژن محلول و چرخه مواد مغذی","title_evidence":"homepage_anchor"}
+{"id":766,"source_url":"https://o766.x-oo.chatgpt.site/","title":"چرخه متان در تالاب‌ها؛ تولید، اکسایش، انتقال و اندازه‌گیری شار","title_evidence":"homepage_anchor"}
+{"id":767,"source_url":"https://o767.x-oo.chatgpt.site/","title":"ریزپلاستیک‌ها در آب‌های شیرین و دریایی؛ منشأ، انتقال، اندازه‌گیری و محدودیت‌های استنباط","title_evidence":"homepage_anchor"}
+{"id":768,"source_url":"https://o768.x-oo.chatgpt.site/","title":"گردوغبار معدنی جو؛ گسیل، انتقال، برهم‌کنش تابشی و چرخه زیست‌زمین‌شیمی","title_evidence":"homepage_anchor"}
+{"id":769,"source_url":"https://o769.x-oo.chatgpt.site/","title":"فرونشست زمین بر اثر افت آب زیرزمینی؛ تنش مؤثر، تراکم آبخوان و پایش تغییرشکل","title_evidence":"homepage_anchor"}
+{"id":770,"source_url":"https://o770.x-oo.chatgpt.site/","title":"سن‌سنجی اورانیوم–سرب در زیرکن: از واپاشی رادیواکتیو تا نمودار هم‌خوانی","title_evidence":"homepage_anchor"}
+{"id":771,"source_url":"https://o771.x-oo.chatgpt.site/","title":"تعادل فازی کانی‌ها و نمودارهای فشار–دما در سنگ‌شناسی دگرگونی","title_evidence":"homepage_anchor"}
+{"id":772,"source_url":"https://o772.x-oo.chatgpt.site/","title":"ردیابی خاستگاه رسوبات: از کانی‌های سنگین تا زیرکن آواری و ژئوشیمی","title_evidence":"homepage_anchor"}
+{"id":773,"source_url":"https://o773.x-oo.chatgpt.site/","title":"بالاآمدگی ساحلی اقیانوس: انتقال اکمن، باد و پیامدهای زیست‌ژئوشیمیایی","title_evidence":"homepage_anchor"}
+{"id":774,"source_url":"https://o774.x-oo.chatgpt.site/","title":"شیمی اُزن در جو: تولید نوری، چرخه‌های کاتالیستی و تفاوت استراتوسفر با تروپوسفر","title_evidence":"homepage_anchor"}
+{"id":775,"source_url":"https://o775.x-oo.chatgpt.site/","title":"پایداری کربن آلی خاک: برهم‌کنش کانی–آلی، تجمعات و کنترل زیستی","title_evidence":"homepage_anchor"}
+{"id":776,"source_url":"https://o776.x-oo.chatgpt.site/","title":"تبخیر–تعرق و موازنه انرژی سطح: از اندازه‌گیری میدانی تا سنجش‌ازدور","title_evidence":"homepage_anchor"}
+{"id":777,"source_url":"https://o777.x-oo.chatgpt.site/","title":"استوکیومتری بوم‌شناختی کربن، نیتروژن و فسفر: نسبت عناصر و محدودیت رشد","title_evidence":"homepage_anchor"}
+{"id":778,"source_url":"https://o778.x-oo.chatgpt.site/","title":"مدل‌سازی پراکنش گونه‌ها: از داده حضور تا پیش‌بینی زیستگاه و عدم‌قطعیت","title_evidence":"homepage_anchor"}
+{"id":779,"source_url":"https://o779.x-oo.chatgpt.site/","title":"چرخه فسفر در سامانه زمین: هوازدگی، جذب سطحی، انتقال رودخانه‌ای و دفن رسوبی","title_evidence":"homepage_anchor"}
+{"id":780,"source_url":"https://o780.x-oo.chatgpt.site/","title":"دیناموی مغناطیسی زمین: همرفت هسته بیرونی، القای مغناطیسی و تغییرات زمانی میدان","title_evidence":"homepage_anchor"}
+{"id":781,"source_url":"https://o781.x-oo.chatgpt.site/","title":"سن‌سنجی پتاسیم–آرگون و آرگون–آرگون: ساعت ایزوتوپی، طیف آزادسازی و دمای بسته‌شدن","title_evidence":"homepage_anchor"}
+{"id":782,"source_url":"https://o782.x-oo.chatgpt.site/","title":"دیاژنز ماسه‌سنگ‌ها: تراکم، سیمانی‌شدن، انحلال و تحول تخلخل در حین دفن","title_evidence":"homepage_anchor"}
+{"id":783,"source_url":"https://o783.x-oo.chatgpt.site/","title":"ایزوستازی و خمش لیتوسفر: تعادل جرم، ضخامت کشسان مؤثر و پاسخ پوسته به بارگذاری","title_evidence":"homepage_anchor"}
+{"id":784,"source_url":"https://o784.x-oo.chatgpt.site/","title":"بازسازی اقلیم دیرینه از هسته‌های یخی: ایزوتوپ‌های آب، حباب‌های هوا، غبار و مقیاس زمانی","title_evidence":"homepage_anchor"}
+{"id":785,"source_url":"https://o785.x-oo.chatgpt.site/","title":"چرخه نیتروژن در خاک: معدنی‌شدن، تثبیت، نیتریفیکاسیون، دنیتریفیکاسیون و کنترل‌های ریزمحیطی","title_evidence":"homepage_anchor"}
+{"id":786,"source_url":"https://o786.x-oo.chatgpt.site/","title":"اسیدی‌شدن آب‌های شیرین: ظرفیت خنثی‌سازی اسید، شیمی کربنات و پاسخ دریاچه و حوضه آبریز","title_evidence":"homepage_anchor"}
+{"id":787,"source_url":"https://o787.x-oo.chatgpt.site/","title":"بوم‌شناسی آتش: رژیم آتش، شدت و سختی، سازگاری گیاهان و بازسازی اکوسیستم پس از سوختن","title_evidence":"homepage_anchor"}
+{"id":788,"source_url":"https://o788.x-oo.chatgpt.site/","title":"جریان‌های کدورت و رسوب‌گذاری اعماق دریا: دینامیک جریان چگال، فرسایش بستر و تشکیل توربیدایت","title_evidence":"homepage_anchor"}
+{"id":789,"source_url":"https://o789.x-oo.chatgpt.site/","title":"سنجش‌ازدور راداری پوشش زمین: بازپراکنش مایکروویو، قطبش، زبری و تفکیک پوشش گیاهی و خاک","title_evidence":"homepage_anchor"}
+{"id":790,"source_url":"https://o790.x-oo.chatgpt.site/","title":"روابط منبع–مخزن و تقسیم کربن در گیاهان زراعی","title_evidence":"homepage_anchor"}
+{"id":791,"source_url":"https://o791.x-oo.chatgpt.site/","title":"هم‌ایستایی آهن در گیاه و سازوکارهای جذب، انتقال و کلروز آهن","title_evidence":"homepage_anchor"}
+{"id":792,"source_url":"https://o792.x-oo.chatgpt.site/","title":"تراکم خاک، مقاومت مکانیکی و محدودیت رشد ریشه","title_evidence":"homepage_anchor"}
+{"id":793,"source_url":"https://o793.x-oo.chatgpt.site/","title":"هتروزیس و منطق علمی تولید هیبرید در اصلاح نباتات","title_evidence":"homepage_anchor"}
+{"id":794,"source_url":"https://o794.x-oo.chatgpt.site/","title":"کنترل زیستی بیماری‌های گیاهی با تریکودرما: سازوکار، آزمایش و کاربرد مزرعه‌ای","title_evidence":"homepage_anchor"}
+{"id":795,"source_url":"https://o795.x-oo.chatgpt.site/","title":"فرآوری مواد غذایی با میدان الکتریکی پالسی: الکتروپوریشن، غیرفعال‌سازی و مقیاس صنعتی","title_evidence":"homepage_anchor"}
+{"id":796,"source_url":"https://o796.x-oo.chatgpt.site/","title":"ژلاتینه‌شدن و رتروگراداسیون نشاسته در سامانه‌های غذایی","title_evidence":"homepage_anchor"}
+{"id":797,"source_url":"https://o797.x-oo.chatgpt.site/","title":"هیدروکلوئیدهای غذایی و کنترل رئولوژی، ژل‌شدن و پایداری بافت","title_evidence":"homepage_anchor"}
+{"id":798,"source_url":"https://o798.x-oo.chatgpt.site/","title":"زیست‌لایه‌های میکروبی در صنایع غذایی: تشکیل، پایش و راهبردهای کنترل","title_evidence":"homepage_anchor"}
+{"id":799,"source_url":"https://o799.x-oo.chatgpt.site/","title":"متانوژنز شکمبه، شار هیدروژن و راهبردهای علمی کاهش متان","title_evidence":"homepage_anchor"}
+{"id":800,"source_url":"https://o800.x-oo.chatgpt.site/","title":"تنظیم روزنه‌ها به‌وسیله اسید آبسزیک در تنش خشکی: از حس‌کردن کم‌آبی تا کنترل تعرق","title_evidence":"homepage_anchor"}
+{"id":801,"source_url":"https://o801.x-oo.chatgpt.site/","title":"ریزوسفر، ترشحات ریشه و قارچ‌های میکوریز آربوسکولار در جذب عناصر غذایی گیاه","title_evidence":"homepage_anchor"}
+{"id":802,"source_url":"https://o802.x-oo.chatgpt.site/","title":"تنش شوری در گیاهان زراعی: هم‌ایستایی سدیم و پتاسیم، مسیر SOS و سازوکارهای تحمل","title_evidence":"homepage_anchor"}
+{"id":803,"source_url":"https://o803.x-oo.chatgpt.site/","title":"زمان‌بندی علمی آبیاری بر پایه تبخیر-تعرق، بیلان آب خاک و ضریب گیاهی","title_evidence":"homepage_anchor"}
+{"id":804,"source_url":"https://o804.x-oo.chatgpt.site/","title":"اپیدمیولوژی بیماری‌های گیاهی: مثلث بیماری، چرخه عفونت و مدل‌سازی پیشرفت اپیدمی","title_evidence":"homepage_anchor"}
+{"id":805,"source_url":"https://o805.x-oo.chatgpt.site/","title":"تثبیت زیستی نیتروژن در همزیستی لگوم–ریزوبیوم: از عامل گره‌زایی تا نیتروژناز و کارایی مزرعه","title_evidence":"homepage_anchor"}
+{"id":806,"source_url":"https://o806.x-oo.chatgpt.site/","title":"میکروبیولوژی پیش‌بین غذا و فناوری موانع: مدل‌سازی رشد، بقا و کنترل چندعاملی میکروارگانیسم‌ها","title_evidence":"homepage_anchor"}
+{"id":807,"source_url":"https://o807.x-oo.chatgpt.site/","title":"واکنش میلارد در شیمی غذا: مسیرهای مولکولی، عطر و رنگ، افت ارزش تغذیه‌ای و کنترل فرایند","title_evidence":"homepage_anchor"}
+{"id":808,"source_url":"https://o808.x-oo.chatgpt.site/","title":"طراحی و اعتبارسنجی فرآوری حرارتی غذا: مفاهیم D، z، F و انتقال حرارت در نقطه سرد","title_evidence":"homepage_anchor"}
+{"id":809,"source_url":"https://o809.x-oo.chatgpt.site/","title":"کشاورزی دقیق با سنجش از دور و نرخ متغیر: از شاخص پوشش گیاهی و نقشه عملکرد تا نسخه‌نویسی مکانی","title_evidence":"homepage_anchor"}
+{"id":810,"source_url":"https://o810.x-oo.chatgpt.site/","title":"فتوسنتز C3 و C4: تثبیت کربن، تنفس نوری و سازوکار تغلیظ دی‌اکسید کربن","title_evidence":"homepage_anchor"}
+{"id":811,"source_url":"https://o811.x-oo.chatgpt.site/","title":"کارایی مصرف نیتروژن در گیاهان زراعی: جذب نیترات و آمونیوم، همانندسازی و بازتخصیص","title_evidence":"homepage_anchor"}
+{"id":812,"source_url":"https://o812.x-oo.chatgpt.site/","title":"ماده آلی خاک و ظرفیت تبادل کاتیونی: سازوکار نگهداشت عناصر غذایی، بافرینگ و حاصلخیزی","title_evidence":"homepage_anchor"}
+{"id":813,"source_url":"https://o813.x-oo.chatgpt.site/","title":"معماری و هیدرولیک ریشه در تحمل خشکی: عمق، زاویه رشد، آکوپورین‌ها و استخراج آب خاک","title_evidence":"homepage_anchor"}
+{"id":814,"source_url":"https://o814.x-oo.chatgpt.site/","title":"انتخاب ژنومی در اصلاح نباتات: جمعیت آموزش، ارزش اصلاحی و برهم‌کنش ژنوتیپ با محیط","title_evidence":"homepage_anchor"}
+{"id":815,"source_url":"https://o815.x-oo.chatgpt.site/","title":"اتیلن و رسیدگی میوه‌های فرازگرا: زیست‌ساخت، ادراک، 1-MCP و مدیریت پس از برداشت","title_evidence":"homepage_anchor"}
+{"id":816,"source_url":"https://o816.x-oo.chatgpt.site/","title":"اسماء الهی و اخلاق انتظار امام مهدی | یکی از دوستان مهندس محمد رضایی","title_evidence":"homepage_anchor"}
+{"id":817,"source_url":"https://o817.x-oo.chatgpt.site/","title":"بسته‌بندی با اتمسفر اصلاح‌شده: نفوذ گاز، تنفس محصول و طراحی تعادل اکسیژن و دی‌اکسید کربن","title_evidence":"homepage_anchor"}
+{"id":818,"source_url":"https://o818.x-oo.chatgpt.site/","title":"اکسیداسیون چربی در غذا: آغاز زنجیره‌ای، هیدروپراکسیدها، فرآورده‌های ثانویه و سنجش پایداری","title_evidence":"homepage_anchor"}
+{"id":819,"source_url":"https://o819.x-oo.chatgpt.site/","title":"میکروبیوم شکمبه و کارایی خوراک نشخوارکنندگان: تخمیر فیبر، اسیدهای چرب فرار و متان","title_evidence":"homepage_anchor"}
