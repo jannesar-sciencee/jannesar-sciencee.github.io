@@ -1,0 +1,393 @@
+{
+  "schema_version": "1.0",
+  "name": "O-XX Research Website Fulltext Corpus",
+  "status": "draft; NOT yet merged to site or published as a new Zenodo corpus version",
+  "version": "2026-10-31-draft",
+  "creator": {
+    "name": "Hossein Atar Jannesar Nobari",
+    "name_fa": "حسین عطار جاننثار نوبری",
+    "orcid": "https://orcid.org/0009-0006-6435-0378",
+    "identity_id": "https://jannesar-sciencee.github.io/identity/#person"
+  },
+  "provenance": {
+    "source_range": "https://o1.o-xx.chatgpt.site/ through https://o998.o-xx.chatgpt.site/",
+    "retrieved_utc_date": "2026-10-31",
+    "extraction_method": "public source page HTML, semantic <article> element only; no model rewriting",
+    "past_catalogue_doi": "10.5281/zenodo.23651837",
+    "past_catalogue_doi_role": "previous catalogue DOI only, NOT the DOI of this new full-text corpus"
+  },
+  "counts": {
+    "expected": 998,
+    "records": 998,
+    "fulltext": 997,
+    "unavailable": 1,
+    "source_html_code_units": 12565634,
+    "shards": 50
+  },
+  "checks": {
+    "unique_sequential_ids": true,
+    "nonempty_fulltext_sizes": true,
+    "all_entries_refer_to_original_source": true
+  },
+  "unavailable_records": [
+    {
+      "id": 794,
+      "url": "https://o794.o-xx.chatgpt.site/",
+      "status": "unavailable",
+      "http_status": 401,
+      "error": "target_http_error"
+    }
+  ],
+  "shards": [
+    {
+      "path": "fulltext_0001_0020.jsonl",
+      "first_id": 1,
+      "last_id": 20,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0021_0040.jsonl",
+      "first_id": 21,
+      "last_id": 40,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0041_0060.jsonl",
+      "first_id": 41,
+      "last_id": 60,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0061_0080.jsonl",
+      "first_id": 61,
+      "last_id": 80,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0081_0100.jsonl",
+      "first_id": 81,
+      "last_id": 100,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0101_0120.jsonl",
+      "first_id": 101,
+      "last_id": 120,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0121_0140.jsonl",
+      "first_id": 121,
+      "last_id": 140,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0141_0160.jsonl",
+      "first_id": 141,
+      "last_id": 160,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0161_0180.jsonl",
+      "first_id": 161,
+      "last_id": 180,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0181_0200.jsonl",
+      "first_id": 181,
+      "last_id": 200,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0201_0220.jsonl",
+      "first_id": 201,
+      "last_id": 220,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0221_0240.jsonl",
+      "first_id": 221,
+      "last_id": 240,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0241_0260.jsonl",
+      "first_id": 241,
+      "last_id": 260,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0261_0280.jsonl",
+      "first_id": 261,
+      "last_id": 280,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0281_0300.jsonl",
+      "first_id": 281,
+      "last_id": 300,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0301_0320.jsonl",
+      "first_id": 301,
+      "last_id": 320,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0321_0340.jsonl",
+      "first_id": 321,
+      "last_id": 340,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0341_0360.jsonl",
+      "first_id": 341,
+      "last_id": 360,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0361_0380.jsonl",
+      "first_id": 361,
+      "last_id": 380,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0381_0400.jsonl",
+      "first_id": 381,
+      "last_id": 400,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0401_0420.jsonl",
+      "first_id": 401,
+      "last_id": 420,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0421_0440.jsonl",
+      "first_id": 421,
+      "last_id": 440,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0441_0460.jsonl",
+      "first_id": 441,
+      "last_id": 460,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0461_0480.jsonl",
+      "first_id": 461,
+      "last_id": 480,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0481_0500.jsonl",
+      "first_id": 481,
+      "last_id": 500,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0501_0520.jsonl",
+      "first_id": 501,
+      "last_id": 520,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0521_0540.jsonl",
+      "first_id": 521,
+      "last_id": 540,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0541_0560.jsonl",
+      "first_id": 541,
+      "last_id": 560,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0561_0580.jsonl",
+      "first_id": 561,
+      "last_id": 580,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0581_0600.jsonl",
+      "first_id": 581,
+      "last_id": 600,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0601_0620.jsonl",
+      "first_id": 601,
+      "last_id": 620,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0621_0640.jsonl",
+      "first_id": 621,
+      "last_id": 640,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0641_0660.jsonl",
+      "first_id": 641,
+      "last_id": 660,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0661_0680.jsonl",
+      "first_id": 661,
+      "last_id": 680,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0681_0700.jsonl",
+      "first_id": 681,
+      "last_id": 700,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0701_0720.jsonl",
+      "first_id": 701,
+      "last_id": 720,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0721_0740.jsonl",
+      "first_id": 721,
+      "last_id": 740,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0741_0760.jsonl",
+      "first_id": 741,
+      "last_id": 760,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0761_0780.jsonl",
+      "first_id": 761,
+      "last_id": 780,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0781_0800.jsonl",
+      "first_id": 781,
+      "last_id": 800,
+      "records": 20,
+      "fulltext": 19
+    },
+    {
+      "path": "fulltext_0801_0820.jsonl",
+      "first_id": 801,
+      "last_id": 820,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0821_0840.jsonl",
+      "first_id": 821,
+      "last_id": 840,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0841_0860.jsonl",
+      "first_id": 841,
+      "last_id": 860,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0861_0880.jsonl",
+      "first_id": 861,
+      "last_id": 880,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0881_0900.jsonl",
+      "first_id": 881,
+      "last_id": 900,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0901_0920.jsonl",
+      "first_id": 901,
+      "last_id": 920,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0921_0940.jsonl",
+      "first_id": 921,
+      "last_id": 940,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0941_0960.jsonl",
+      "first_id": 941,
+      "last_id": 960,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0961_0980.jsonl",
+      "first_id": 961,
+      "last_id": 980,
+      "records": 20,
+      "fulltext": 20
+    },
+    {
+      "path": "fulltext_0981_0998.jsonl",
+      "first_id": 981,
+      "last_id": 998,
+      "records": 18,
+      "fulltext": 18
+    }
+  ]
+}
