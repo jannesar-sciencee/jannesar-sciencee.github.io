@@ -1,0 +1,998 @@
+{"id":1,"source_url":"https://o1.o-xx.chatgpt.site/","title":"تمرین بازیابی و فاصله‌گذاری در ماندگاری یادگیری واژگان","title_evidence":"h1"}
+{"id":2,"source_url":"https://o2.o-xx.chatgpt.site/","title":"پایش فراشناختی و فاصلهٔ اطمینان دانشجو از عملکرد واقعی","title_evidence":"h1"}
+{"id":3,"source_url":"https://o3.o-xx.chatgpt.site/","title":"عدالت رویه‌ای و سکوت کارکنان در تصمیم‌های سازمانی","title_evidence":"h1"}
+{"id":4,"source_url":"https://o4.o-xx.chatgpt.site/","title":"خطای برآورد زمان در انتظار بدون نشانه","title_evidence":"h1"}
+{"id":5,"source_url":"https://o5.o-xx.chatgpt.site/","title":"یادآوری قصد آینده در میان تکالیف روزمره","title_evidence":"h1"}
+{"id":6,"source_url":"https://o6.o-xx.chatgpt.site/","title":"انتقال مهارت از تمرین به موقعیت تازه","title_evidence":"h1"}
+{"id":7,"source_url":"https://o7.o-xx.chatgpt.site/","title":"بازشناسی الگو در نمونه‌های ناقص","title_evidence":"h1"}
+{"id":8,"source_url":"https://o8.o-xx.chatgpt.site/","title":"تداخل معنایی در نامیدن رنگ‌ها","title_evidence":"h1"}
+{"id":9,"source_url":"https://o9.o-xx.chatgpt.site/","title":"تفاوت یادآوری آزاد و بازشناسی تصویر","title_evidence":"h1"}
+{"id":10,"source_url":"https://o10.o-xx.chatgpt.site/","title":"تشخیص تغییر در صحنه‌های دیداری","title_evidence":"h1"}
+{"id":11,"source_url":"https://o11.o-xx.chatgpt.site/","title":"بار شناختی در حل مسئلهٔ چندقیدی","title_evidence":"h1"}
+{"id":12,"source_url":"https://o12.o-xx.chatgpt.site/","title":"تثبیت ذهنی در استفاده از ابزار","title_evidence":"h1"}
+{"id":13,"source_url":"https://o13.o-xx.chatgpt.site/","title":"دانش قبلی و دسته‌بندی اشیای ناآشنا","title_evidence":"h1"}
+{"id":14,"source_url":"https://o14.o-xx.chatgpt.site/","title":"اثر ترتیب در قضاوت دربارهٔ مجموعهٔ گزینه‌ها","title_evidence":"h1"}
+{"id":15,"source_url":"https://o15.o-xx.chatgpt.site/","title":"خستگی تصمیم در انتخاب‌های پیاپی","title_evidence":"h1"}
+{"id":16,"source_url":"https://o16.o-xx.chatgpt.site/","title":"ابهام احتمالات و ترجیح گزینهٔ معلوم","title_evidence":"h1"}
+{"id":17,"source_url":"https://o17.o-xx.chatgpt.site/","title":"یادگیری ضمنی توالی حرکتی","title_evidence":"h1"}
+{"id":18,"source_url":"https://o18.o-xx.chatgpt.site/","title":"هماهنگی دیداری و حرکتی در گرفتن شیء","title_evidence":"h1"}
+{"id":19,"source_url":"https://o19.o-xx.chatgpt.site/","title":"انطباق ادراک با روشنایی محیط","title_evidence":"h1"}
+{"id":20,"source_url":"https://o20.o-xx.chatgpt.site/","title":"ترکیب نشانه‌های شنیداری و دیداری در تشخیص رویداد","title_evidence":"h1"}
+{"id":21,"source_url":"https://o21.o-xx.chatgpt.site/","title":"تخمین تعداد در مجموعه‌های پراکنده","title_evidence":"h1"}
+{"id":22,"source_url":"https://o22.o-xx.chatgpt.site/","title":"حافظهٔ مسیر و نشانه‌های نقطهٔ عطف","title_evidence":"h1"}
+{"id":23,"source_url":"https://o23.o-xx.chatgpt.site/","title":"پیش‌بینی حرکت دیگران در فعالیت مشترک","title_evidence":"h1"}
+{"id":24,"source_url":"https://o24.o-xx.chatgpt.site/","title":"سرگردانی ذهن هنگام انجام تکلیف یکنواخت","title_evidence":"h1"}
+{"id":25,"source_url":"https://o25.o-xx.chatgpt.site/","title":"اعتماد به حافظه و تکرار وارسی","title_evidence":"h1"}
+{"id":26,"source_url":"https://o26.o-xx.chatgpt.site/","title":"تشخیص خطای خود در تکالیف سرعتی","title_evidence":"h1"}
+{"id":27,"source_url":"https://o27.o-xx.chatgpt.site/","title":"تجسم ذهنی و برنامه‌ریزی عمل پیچیده","title_evidence":"h1"}
+{"id":28,"source_url":"https://o28.o-xx.chatgpt.site/","title":"توجه مشترک در تعامل نوزاد و مراقب","title_evidence":"h1"}
+{"id":29,"source_url":"https://o29.o-xx.chatgpt.site/","title":"نوبت‌گیری آوایی در سال نخست زندگی","title_evidence":"h1"}
+{"id":30,"source_url":"https://o30.o-xx.chatgpt.site/","title":"دائمی‌بودن شیء در جست‌وجوی کودک خردسال","title_evidence":"h1"}
+{"id":31,"source_url":"https://o31.o-xx.chatgpt.site/","title":"تقلید تأخیری از حرکت تازه در کودکی","title_evidence":"h1"}
+{"id":32,"source_url":"https://o32.o-xx.chatgpt.site/","title":"اشاره‌های حرکتی و پیدایش نخستین واژه‌ها","title_evidence":"h1"}
+{"id":33,"source_url":"https://o33.o-xx.chatgpt.site/","title":"درک مالکیت در کودکان پیش‌دبستانی","title_evidence":"h1"}
+{"id":34,"source_url":"https://o34.o-xx.chatgpt.site/","title":"تمایز قصد و پیامد در داوری کودک","title_evidence":"h1"}
+{"id":35,"source_url":"https://o35.o-xx.chatgpt.site/","title":"باور کاذب و فهم دیدگاه دیگری","title_evidence":"h1"}
+{"id":36,"source_url":"https://o36.o-xx.chatgpt.site/","title":"بازی وانمودی و ساخت روایت کودکانه","title_evidence":"h1"}
+{"id":37,"source_url":"https://o37.o-xx.chatgpt.site/","title":"قاعده‌پذیری در بازی گروهی پیش‌دبستان","title_evidence":"h1"}
+{"id":38,"source_url":"https://o38.o-xx.chatgpt.site/","title":"انتظار نوبت در فعالیت‌های خردسالان","title_evidence":"h1"}
+{"id":39,"source_url":"https://o39.o-xx.chatgpt.site/","title":"یادگیری نام اشیا از گفت‌وگوی مشترک","title_evidence":"h1"}
+{"id":40,"source_url":"https://o40.o-xx.chatgpt.site/","title":"تمایز واقعیت و خیال در داستان کودکان","title_evidence":"h1"}
+{"id":41,"source_url":"https://o41.o-xx.chatgpt.site/","title":"دقت شمارش و اصل یک‌به‌یک در کودکی","title_evidence":"h1"}
+{"id":42,"source_url":"https://o42.o-xx.chatgpt.site/","title":"درک برگشت‌پذیری در مسئلهٔ مقدار","title_evidence":"h1"}
+{"id":43,"source_url":"https://o43.o-xx.chatgpt.site/","title":"یادگیری قواعد طبقه‌بندی در گذار به مدرسه","title_evidence":"h1"}
+{"id":44,"source_url":"https://o44.o-xx.chatgpt.site/","title":"درک طنز ساده در کودکان دبستانی","title_evidence":"h1"}
+{"id":45,"source_url":"https://o45.o-xx.chatgpt.site/","title":"توضیح‌دادن اشتباه به همسال در کودکی","title_evidence":"h1"}
+{"id":46,"source_url":"https://o46.o-xx.chatgpt.site/","title":"دوستی متقابل در سال‌های دبستان","title_evidence":"h1"}
+{"id":47,"source_url":"https://o47.o-xx.chatgpt.site/","title":"پذیرش همسال و ورود به بازی جمعی","title_evidence":"h1"}
+{"id":48,"source_url":"https://o48.o-xx.chatgpt.site/","title":"فهم انصاف در تقسیم منابع کودکانه","title_evidence":"h1"}
+{"id":49,"source_url":"https://o49.o-xx.chatgpt.site/","title":"واکنش کودک به اصلاح پاسخ نادرست","title_evidence":"h1"}
+{"id":50,"source_url":"https://o50.o-xx.chatgpt.site/","title":"تغییر راهبرد حل مسئله در نوجوانی","title_evidence":"h1"}
+{"id":51,"source_url":"https://o51.o-xx.chatgpt.site/","title":"حساسیت نوجوان به حضور همسال در انتخاب خطر","title_evidence":"h1"}
+{"id":52,"source_url":"https://o52.o-xx.chatgpt.site/","title":"تصور مخاطب و خودارائه‌گری نوجوانان","title_evidence":"h1"}
+{"id":53,"source_url":"https://o53.o-xx.chatgpt.site/","title":"گذار از راهنمایی والدین به برنامه‌ریزی مستقل تحصیلی","title_evidence":"h1"}
+{"id":54,"source_url":"https://o54.o-xx.chatgpt.site/","title":"تغییر برداشت از زمان آینده در نوجوانی","title_evidence":"h1"}
+{"id":55,"source_url":"https://o55.o-xx.chatgpt.site/","title":"درک چندمعنایی شخصیت داستان در نوجوانی","title_evidence":"h1"}
+{"id":56,"source_url":"https://o56.o-xx.chatgpt.site/","title":"خواب و تغییر زمان شروع روز در دوران بلوغ","title_evidence":"h1"}
+{"id":57,"source_url":"https://o57.o-xx.chatgpt.site/","title":"خودشناسی حرفه‌ای در پایان دبیرستان","title_evidence":"h1"}
+{"id":58,"source_url":"https://o58.o-xx.chatgpt.site/","title":"گذار به بزرگسالی و مهارت ادارهٔ امور اداری","title_evidence":"h1"}
+{"id":59,"source_url":"https://o59.o-xx.chatgpt.site/","title":"بازنگری انتخاب شغلی در اوایل بزرگسالی","title_evidence":"h1"}
+{"id":60,"source_url":"https://o60.o-xx.chatgpt.site/","title":"یادگیری مسئولیت مالی در نخستین سکونت مستقل","title_evidence":"h1"}
+{"id":61,"source_url":"https://o61.o-xx.chatgpt.site/","title":"بازسازی روایت زندگی در میانسالی","title_evidence":"h1"}
+{"id":62,"source_url":"https://o62.o-xx.chatgpt.site/","title":"انتقال دانش عملی از بزرگسال به نوجوان","title_evidence":"h1"}
+{"id":63,"source_url":"https://o63.o-xx.chatgpt.site/","title":"تغییر سرعت پردازش در سالمندی معمول","title_evidence":"h1"}
+{"id":64,"source_url":"https://o64.o-xx.chatgpt.site/","title":"حافظهٔ زندگی‌نامه‌ای و نشانه‌های موسیقایی سالمندان","title_evidence":"h1"}
+{"id":65,"source_url":"https://o65.o-xx.chatgpt.site/","title":"یادگیری ابزار تازه در بزرگسالی دیرهنگام","title_evidence":"h1"}
+{"id":66,"source_url":"https://o66.o-xx.chatgpt.site/","title":"ادراک سن و انتظارات یادگیری در بزرگسالان","title_evidence":"h1"}
+{"id":67,"source_url":"https://o67.o-xx.chatgpt.site/","title":"رشد واژگان در کودکان دارای دو زبان خانگی","title_evidence":"h1"}
+{"id":68,"source_url":"https://o68.o-xx.chatgpt.site/","title":"توالی حرکات ظریف و تمرین بازی در خردسالی","title_evidence":"h1"}
+{"id":69,"source_url":"https://o69.o-xx.chatgpt.site/","title":"شناخت هیجان از حالت چهره در کودکی","title_evidence":"h1"}
+{"id":70,"source_url":"https://o70.o-xx.chatgpt.site/","title":"درک قواعد ایمنی در مسیر مدرسه","title_evidence":"h1"}
+{"id":71,"source_url":"https://o71.o-xx.chatgpt.site/","title":"همکاری خواهر و برادر در تکلیف مشترک","title_evidence":"h1"}
+{"id":72,"source_url":"https://o72.o-xx.chatgpt.site/","title":"تفاوت بازی انفرادی و موازی در خردسالی","title_evidence":"h1"}
+{"id":73,"source_url":"https://o73.o-xx.chatgpt.site/","title":"یادگیری از خطای همسال در دوران دبستان","title_evidence":"h1"}
+{"id":74,"source_url":"https://o74.o-xx.chatgpt.site/","title":"فهم استعارهٔ ساده در گذار سنی","title_evidence":"h1"}
+{"id":75,"source_url":"https://o75.o-xx.chatgpt.site/","title":"ادراک فاصله و توان حرکت در رشد کودک","title_evidence":"h1"}
+{"id":76,"source_url":"https://o76.o-xx.chatgpt.site/","title":"تغییر اهمیت پاداش فوری در دوره‌های سنی","title_evidence":"h1"}
+{"id":77,"source_url":"https://o77.o-xx.chatgpt.site/","title":"تداوم عادت روزمره پس از تغییر نقش سنی","title_evidence":"h1"}
+{"id":78,"source_url":"https://o78.o-xx.chatgpt.site/","title":"بازخورد توصیفی و اصلاح نگارش دانش‌آموز","title_evidence":"h1"}
+{"id":79,"source_url":"https://o79.o-xx.chatgpt.site/","title":"نمونهٔ حل‌شده و یادگیری معادلهٔ جبری","title_evidence":"h1"}
+{"id":80,"source_url":"https://o80.o-xx.chatgpt.site/","title":"ارزیابی همتایان و کیفیت استدلال نوشتاری","title_evidence":"h1"}
+{"id":81,"source_url":"https://o81.o-xx.chatgpt.site/","title":"آزمون شفاهی و فرصت نمایش دانش","title_evidence":"h1"}
+{"id":82,"source_url":"https://o82.o-xx.chatgpt.site/","title":"یادداشت‌برداری ساختاری و فهم سخنرانی","title_evidence":"h1"}
+{"id":83,"source_url":"https://o83.o-xx.chatgpt.site/","title":"آموزش مبتنی بر پروژه و تقسیم مسئولیت یادگیری","title_evidence":"h1"}
+{"id":84,"source_url":"https://o84.o-xx.chatgpt.site/","title":"پرسش‌گری معلم و بسط پاسخ کلاسی","title_evidence":"h1"}
+{"id":85,"source_url":"https://o85.o-xx.chatgpt.site/","title":"زمان مکث معلم و مشارکت داوطلبانه","title_evidence":"h1"}
+{"id":86,"source_url":"https://o86.o-xx.chatgpt.site/","title":"آموزش مفهوم کسر با بازنمایی تصویری","title_evidence":"h1"}
+{"id":87,"source_url":"https://o87.o-xx.chatgpt.site/","title":"بدفهمی علمی در مفهوم تعادل نیرو","title_evidence":"h1"}
+{"id":88,"source_url":"https://o88.o-xx.chatgpt.site/","title":"آموزش استدلال آماری و فهم عدم‌قطعیت","title_evidence":"h1"}
+{"id":89,"source_url":"https://o89.o-xx.chatgpt.site/","title":"خواندن انتقادی و تشخیص فرض پنهان متن","title_evidence":"h1"}
+{"id":90,"source_url":"https://o90.o-xx.chatgpt.site/","title":"آموزش تاریخ و مقایسهٔ روایت‌های مستند","title_evidence":"h1"}
+{"id":91,"source_url":"https://o91.o-xx.chatgpt.site/","title":"شبیه‌سازی آموزشی و فهم سامانهٔ پیچیده","title_evidence":"h1"}
+{"id":92,"source_url":"https://o92.o-xx.chatgpt.site/","title":"آزمایش عملی و استنتاج دانش‌آموز","title_evidence":"h1"}
+{"id":93,"source_url":"https://o93.o-xx.chatgpt.site/","title":"کار گروهی ناهمگن و توزیع گفت‌وگوی درسی","title_evidence":"h1"}
+{"id":94,"source_url":"https://o94.o-xx.chatgpt.site/","title":"آموزش مشارکتی و پاسخ‌گویی فردی","title_evidence":"h1"}
+{"id":95,"source_url":"https://o95.o-xx.chatgpt.site/","title":"انگیزش تسلط و انتخاب تکلیف دشوار","title_evidence":"h1"}
+{"id":96,"source_url":"https://o96.o-xx.chatgpt.site/","title":"اضطراب امتحان و تخصیص زمان پاسخ","title_evidence":"h1"}
+{"id":97,"source_url":"https://o97.o-xx.chatgpt.site/","title":"تعویق تکلیف و ابهام دستور آموزشی","title_evidence":"h1"}
+{"id":98,"source_url":"https://o98.o-xx.chatgpt.site/","title":"زبان کتاب درسی و فهم اصطلاح علمی","title_evidence":"h1"}
+{"id":99,"source_url":"https://o99.o-xx.chatgpt.site/","title":"نمایش جنسیت در مثال‌های کتاب درسی","title_evidence":"h1"}
+{"id":100,"source_url":"https://o100.o-xx.chatgpt.site/","title":"آموزش فراگیر و سازگارسازی آزمون","title_evidence":"h1"}
+{"id":101,"source_url":"https://o101.o-xx.chatgpt.site/","title":"آموزش دانش‌آموز دارای اختلال خواندن و بار تکلیف","title_evidence":"h1"}
+{"id":102,"source_url":"https://o102.o-xx.chatgpt.site/","title":"سامانهٔ مدیریت یادگیری و نظم تحویل تکلیف","title_evidence":"h1"}
+{"id":103,"source_url":"https://o103.o-xx.chatgpt.site/","title":"اثر تماشاگر و درخواست کمک در فضای عمومی","title_evidence":"h1"}
+{"id":104,"source_url":"https://o104.o-xx.chatgpt.site/","title":"توافق ظاهری و مخالفت خصوصی در گروه","title_evidence":"h1"}
+{"id":105,"source_url":"https://o105.o-xx.chatgpt.site/","title":"اقلیت منسجم و بازنگری نظر اکثریت","title_evidence":"h1"}
+{"id":106,"source_url":"https://o106.o-xx.chatgpt.site/","title":"قطبی‌شدن داوری پس از بحث گروهی","title_evidence":"h1"}
+{"id":107,"source_url":"https://o107.o-xx.chatgpt.site/","title":"تفکر گروهی و حذف گزینهٔ جایگزین","title_evidence":"h1"}
+{"id":108,"source_url":"https://o108.o-xx.chatgpt.site/","title":"توزیع مسئولیت در انجام وظیفهٔ مشترک","title_evidence":"h1"}
+{"id":109,"source_url":"https://o109.o-xx.chatgpt.site/","title":"اعتماد اولیه در تعامل با فرد ناشناس","title_evidence":"h1"}
+{"id":110,"source_url":"https://o110.o-xx.chatgpt.site/","title":"ترمیم اعتماد پس از نقض توافق","title_evidence":"h1"}
+{"id":111,"source_url":"https://o111.o-xx.chatgpt.site/","title":"اسناد رفتار و نادیده‌گرفتن محدودیت موقعیت","title_evidence":"h1"}
+{"id":112,"source_url":"https://o112.o-xx.chatgpt.site/","title":"اسناد موفقیت خود و موفقیت دیگری","title_evidence":"h1"}
+{"id":113,"source_url":"https://o113.o-xx.chatgpt.site/","title":"مقایسهٔ اجتماعی و ارزیابی مهارت تازه","title_evidence":"h1"}
+{"id":114,"source_url":"https://o114.o-xx.chatgpt.site/","title":"تهدید کلیشه و عملکرد در تکلیف ارزیابی","title_evidence":"h1"}
+{"id":115,"source_url":"https://o115.o-xx.chatgpt.site/","title":"تماس بین‌گروهی و تصحیح برداشت نادرست","title_evidence":"h1"}
+{"id":116,"source_url":"https://o116.o-xx.chatgpt.site/","title":"دسته‌بندی حداقلی و تخصیص امتیاز","title_evidence":"h1"}
+{"id":117,"source_url":"https://o117.o-xx.chatgpt.site/","title":"زبان مشترک و همکاری میان گروه‌ها","title_evidence":"h1"}
+{"id":118,"source_url":"https://o118.o-xx.chatgpt.site/","title":"فاصلهٔ اجتماعی و پذیرش همکاری روزمره","title_evidence":"h1"}
+{"id":119,"source_url":"https://o119.o-xx.chatgpt.site/","title":"اعتبار گوینده و پذیرش استدلال تخصصی","title_evidence":"h1"}
+{"id":120,"source_url":"https://o120.o-xx.chatgpt.site/","title":"تکرار پیام و آشنایی ادراک‌شده","title_evidence":"h1"}
+{"id":121,"source_url":"https://o121.o-xx.chatgpt.site/","title":"مقاومت در برابر اقناع پس از هشدار","title_evidence":"h1"}
+{"id":122,"source_url":"https://o122.o-xx.chatgpt.site/","title":"واکنش به محدودیت انتخاب در موقعیت اجتماعی","title_evidence":"h1"}
+{"id":123,"source_url":"https://o123.o-xx.chatgpt.site/","title":"ناهماهنگی شناختی پس از انتخاب دشوار","title_evidence":"h1"}
+{"id":124,"source_url":"https://o124.o-xx.chatgpt.site/","title":"تعهد کوچک و پذیرش درخواست بزرگ‌تر","title_evidence":"h1"}
+{"id":125,"source_url":"https://o125.o-xx.chatgpt.site/","title":"هنجار تقابل و پاسخ به لطف ناخواسته","title_evidence":"h1"}
+{"id":126,"source_url":"https://o126.o-xx.chatgpt.site/","title":"قدردانی علنی و تداوم رفتار یاری‌گر","title_evidence":"h1"}
+{"id":127,"source_url":"https://o127.o-xx.chatgpt.site/","title":"عذرخواهی و برداشت از مسئولیت خطا","title_evidence":"h1"}
+{"id":128,"source_url":"https://o128.o-xx.chatgpt.site/","title":"بخشش و توافق بر مرز رابطه","title_evidence":"h1"}
+{"id":129,"source_url":"https://o129.o-xx.chatgpt.site/","title":"شوخی گروهی و تجربهٔ کنارگذاشته‌شدن","title_evidence":"h1"}
+{"id":130,"source_url":"https://o130.o-xx.chatgpt.site/","title":"نادیده‌گرفتن در گفت‌وگو و تلاش برای مشارکت","title_evidence":"h1"}
+{"id":131,"source_url":"https://o131.o-xx.chatgpt.site/","title":"تأیید اجتماعی و انتخاب بیان تجربهٔ شخصی","title_evidence":"h1"}
+{"id":132,"source_url":"https://o132.o-xx.chatgpt.site/","title":"حفظ آبرو در اصلاح خطای عمومی","title_evidence":"h1"}
+{"id":133,"source_url":"https://o133.o-xx.chatgpt.site/","title":"خودارائه‌گری و انتخاب نشانهٔ تخصص","title_evidence":"h1"}
+{"id":134,"source_url":"https://o134.o-xx.chatgpt.site/","title":"هماهنگی حرکتی و احساس عضویت گروهی","title_evidence":"h1"}
+{"id":135,"source_url":"https://o135.o-xx.chatgpt.site/","title":"فاصلهٔ بدنی و تنظیم تعامل با ناشناس","title_evidence":"h1"}
+{"id":136,"source_url":"https://o136.o-xx.chatgpt.site/","title":"نشانه‌های غیرکلامی و برداشت از اطمینان گوینده","title_evidence":"h1"}
+{"id":137,"source_url":"https://o137.o-xx.chatgpt.site/","title":"همدلی شناختی و پیش‌بینی نیاز مخاطب","title_evidence":"h1"}
+{"id":138,"source_url":"https://o138.o-xx.chatgpt.site/","title":"سرایت هیجان در جمع‌های کوتاه‌مدت","title_evidence":"h1"}
+{"id":139,"source_url":"https://o139.o-xx.chatgpt.site/","title":"خشم اخلاقی و ارزیابی نقض قاعده","title_evidence":"h1"}
+{"id":140,"source_url":"https://o140.o-xx.chatgpt.site/","title":"داوری اخلاقی دربارهٔ اقدام و ترک اقدام","title_evidence":"h1"}
+{"id":141,"source_url":"https://o141.o-xx.chatgpt.site/","title":"فاصلهٔ روان‌شناختی و انتزاع در قضاوت","title_evidence":"h1"}
+{"id":142,"source_url":"https://o142.o-xx.chatgpt.site/","title":"قصد همکاری و ابهام در پیام شریک","title_evidence":"h1"}
+{"id":143,"source_url":"https://o143.o-xx.chatgpt.site/","title":"رقابت منابع و برداشت از انصاف تقسیم","title_evidence":"h1"}
+{"id":144,"source_url":"https://o144.o-xx.chatgpt.site/","title":"هویت تیمی و واکنش به خطای عضو","title_evidence":"h1"}
+{"id":145,"source_url":"https://o145.o-xx.chatgpt.site/","title":"دانش مشترک و هماهنگی بدون گفت‌وگو","title_evidence":"h1"}
+{"id":146,"source_url":"https://o146.o-xx.chatgpt.site/","title":"مذاکرهٔ یکپارچه و کشف اولویت‌های متفاوت","title_evidence":"h1"}
+{"id":147,"source_url":"https://o147.o-xx.chatgpt.site/","title":"سوءبرداشت متقابل در تعارض کوچک","title_evidence":"h1"}
+{"id":148,"source_url":"https://o148.o-xx.chatgpt.site/","title":"واگذاری اختیار و پذیرش تصمیم جمعی","title_evidence":"h1"}
+{"id":149,"source_url":"https://o149.o-xx.chatgpt.site/","title":"شایستگی ادراک‌شده و انتخاب رهبر تکلیف","title_evidence":"h1"}
+{"id":150,"source_url":"https://o150.o-xx.chatgpt.site/","title":"تعارف و تفسیر درخواست غیرمستقیم","title_evidence":"h1"}
+{"id":151,"source_url":"https://o151.o-xx.chatgpt.site/","title":"هنجار سکوت و تصور نظر اکثریت","title_evidence":"h1"}
+{"id":152,"source_url":"https://o152.o-xx.chatgpt.site/","title":"شاهد فعال و مداخله در بی‌احترامی کلامی","title_evidence":"h1"}
+{"id":153,"source_url":"https://o153.o-xx.chatgpt.site/","title":"بار جلسه و زمان کار متمرکز","title_evidence":"h1"}
+{"id":154,"source_url":"https://o154.o-xx.chatgpt.site/","title":"جلسهٔ بدون دستور و کیفیت تصمیم ثبت‌شده","title_evidence":"h1"}
+{"id":155,"source_url":"https://o155.o-xx.chatgpt.site/","title":"ارتباط ناهم‌زمان و هماهنگی تیم دورکار","title_evidence":"h1"}
+{"id":156,"source_url":"https://o156.o-xx.chatgpt.site/","title":"مرز دسترس‌پذیری و پاسخ‌گویی خارج ساعت کار","title_evidence":"h1"}
+{"id":157,"source_url":"https://o157.o-xx.chatgpt.site/","title":"نظارت دیجیتال و رفتار ثبت فعالیت","title_evidence":"h1"}
+{"id":158,"source_url":"https://o158.o-xx.chatgpt.site/","title":"ارزیابی الگوریتمی و فهم معیار عملکرد","title_evidence":"h1"}
+{"id":159,"source_url":"https://o159.o-xx.chatgpt.site/","title":"عدالت توزیعی و پذیرش پاداش کاری","title_evidence":"h1"}
+{"id":160,"source_url":"https://o160.o-xx.chatgpt.site/","title":"شفافیت دستمزد و مذاکرهٔ حقوق","title_evidence":"h1"}
+{"id":161,"source_url":"https://o161.o-xx.chatgpt.site/","title":"قرارداد روان‌شناختی و برداشت از وعدهٔ استخدام","title_evidence":"h1"}
+{"id":162,"source_url":"https://o162.o-xx.chatgpt.site/","title":"ناامنی قرارداد و جست‌وجوی شغل جایگزین","title_evidence":"h1"}
+{"id":163,"source_url":"https://o163.o-xx.chatgpt.site/","title":"استخدام ساختاریافته و سازگاری داوری مصاحبه‌گران","title_evidence":"h1"}
+{"id":164,"source_url":"https://o164.o-xx.chatgpt.site/","title":"پیش‌نمایش واقع‌بینانهٔ شغل و ترک زودهنگام","title_evidence":"h1"}
+{"id":165,"source_url":"https://o165.o-xx.chatgpt.site/","title":"شایستگی‌محوری و تعریف معیار ارتقا","title_evidence":"h1"}
+{"id":166,"source_url":"https://o166.o-xx.chatgpt.site/","title":"جانشین‌پروری و آمادگی انتقال مسئولیت","title_evidence":"h1"}
+{"id":167,"source_url":"https://o167.o-xx.chatgpt.site/","title":"خروج کارمند و حفظ دانش ضمنی","title_evidence":"h1"}
+{"id":168,"source_url":"https://o168.o-xx.chatgpt.site/","title":"کار چندنسلی و تبادل روش انجام وظیفه","title_evidence":"h1"}
+{"id":169,"source_url":"https://o169.o-xx.chatgpt.site/","title":"سقف شیشه‌ای و مسیر ارتقای زنان متخصص","title_evidence":"h1"}
+{"id":170,"source_url":"https://o170.o-xx.chatgpt.site/","title":"سازگارسازی محل کار برای کارکنان دارای معلولیت","title_evidence":"h1"}
+{"id":171,"source_url":"https://o171.o-xx.chatgpt.site/","title":"تعارض کار و خانواده در شیفت‌های متغیر","title_evidence":"h1"}
+{"id":172,"source_url":"https://o172.o-xx.chatgpt.site/","title":"بازگشت به کار پس از وقفهٔ مراقبتی","title_evidence":"h1"}
+{"id":173,"source_url":"https://o173.o-xx.chatgpt.site/","title":"دورهٔ استراحت و خطای کار تکراری","title_evidence":"h1"}
+{"id":174,"source_url":"https://o174.o-xx.chatgpt.site/","title":"شیفت شب و ارتباط میان نوبت‌ها","title_evidence":"h1"}
+{"id":175,"source_url":"https://o175.o-xx.chatgpt.site/","title":"اقلیم ایمنی و گزارش خطر نزدیک به حادثه","title_evidence":"h1"}
+{"id":176,"source_url":"https://o176.o-xx.chatgpt.site/","title":"آموزش ایمنی و انتقال به رفتار واقعی کار","title_evidence":"h1"}
+{"id":177,"source_url":"https://o177.o-xx.chatgpt.site/","title":"رفتار مدنی سازمانی و مرز کار اضافی","title_evidence":"h1"}
+{"id":178,"source_url":"https://o178.o-xx.chatgpt.site/","title":"فرسودگی فناوری و تعدد سامانه‌های کاری","title_evidence":"h1"}
+{"id":179,"source_url":"https://o179.o-xx.chatgpt.site/","title":"مقاومت در برابر تغییر رویهٔ سازمانی","title_evidence":"h1"}
+{"id":180,"source_url":"https://o180.o-xx.chatgpt.site/","title":"ادغام سازمانی و بازتعریف هویت واحدها","title_evidence":"h1"}
+{"id":181,"source_url":"https://o181.o-xx.chatgpt.site/","title":"تعارض تخصص‌ها در تیم میان‌رشته‌ای","title_evidence":"h1"}
+{"id":182,"source_url":"https://o182.o-xx.chatgpt.site/","title":"رهبری توزیع‌شده و پاسخ به مسئلهٔ فوری","title_evidence":"h1"}
+{"id":183,"source_url":"https://o183.o-xx.chatgpt.site/","title":"گفت‌وگوی خانوادگی و تصمیم مشترک دربارهٔ هزینه","title_evidence":"h1"}
+{"id":184,"source_url":"https://o184.o-xx.chatgpt.site/","title":"مرز حریم خصوصی در خانهٔ چندنسلی","title_evidence":"h1"}
+{"id":185,"source_url":"https://o185.o-xx.chatgpt.site/","title":"سکونت مستقل فرزند و بازتنظیم ارتباط والدین","title_evidence":"h1"}
+{"id":186,"source_url":"https://o186.o-xx.chatgpt.site/","title":"حمایت مالی بین‌نسلی و انتظار بازپرداخت","title_evidence":"h1"}
+{"id":187,"source_url":"https://o187.o-xx.chatgpt.site/","title":"انتقال میراث خانوادگی و برداشت از انصاف","title_evidence":"h1"}
+{"id":188,"source_url":"https://o188.o-xx.chatgpt.site/","title":"مراسم خانوادگی و تداوم تماس خویشاوندان","title_evidence":"h1"}
+{"id":189,"source_url":"https://o189.o-xx.chatgpt.site/","title":"نقش مادربزرگ و پدربزرگ در مراقبت روزمره","title_evidence":"h1"}
+{"id":190,"source_url":"https://o190.o-xx.chatgpt.site/","title":"والدگری مشارکتی و توافق بر قواعد کودک","title_evidence":"h1"}
+{"id":191,"source_url":"https://o191.o-xx.chatgpt.site/","title":"تفاوت سبک توضیح والدین در حل تعارض کودک","title_evidence":"h1"}
+{"id":192,"source_url":"https://o192.o-xx.chatgpt.site/","title":"گوش‌دادن والدین و بیان مسئله توسط نوجوان","title_evidence":"h1"}
+{"id":193,"source_url":"https://o193.o-xx.chatgpt.site/","title":"کنترل رفتاری و توافق بر زمان بازگشت نوجوان","title_evidence":"h1"}
+{"id":194,"source_url":"https://o194.o-xx.chatgpt.site/","title":"میانجی‌گری خواهر و برادر در اختلاف خانوادگی","title_evidence":"h1"}
+{"id":195,"source_url":"https://o195.o-xx.chatgpt.site/","title":"خواهر و برادر بزرگ‌تر و آموزش مسئولیت خانه","title_evidence":"h1"}
+{"id":196,"source_url":"https://o196.o-xx.chatgpt.site/","title":"ترتیب تولد و توزیع انتظارهای خانوادگی","title_evidence":"h1"}
+{"id":197,"source_url":"https://o197.o-xx.chatgpt.site/","title":"تک‌فرزندی و سازمان‌دهی فرصت تعامل همسال","title_evidence":"h1"}
+{"id":198,"source_url":"https://o198.o-xx.chatgpt.site/","title":"خانوادهٔ دارای دوقلو و مرزبندی هویت فردی","title_evidence":"h1"}
+{"id":199,"source_url":"https://o199.o-xx.chatgpt.site/","title":"تولد فرزند تازه و بازتقسیم کار خانه","title_evidence":"h1"}
+{"id":200,"source_url":"https://o200.o-xx.chatgpt.site/","title":"فرزندخواندگی و گفت‌وگوی متناسب با سن دربارهٔ پیشینه","title_evidence":"h1"}
+{"id":201,"source_url":"https://o201.o-xx.chatgpt.site/","title":"خانوادهٔ تک‌والد و هماهنگی منابع مراقبت","title_evidence":"h1"}
+{"id":202,"source_url":"https://o202.o-xx.chatgpt.site/","title":"خانوادهٔ بازترکیب‌شده و توافق بر نقش بزرگسالان","title_evidence":"h1"}
+{"id":203,"source_url":"https://o203.o-xx.chatgpt.site/","title":"جدایی والدین و پیوستگی برنامهٔ کودک","title_evidence":"h1"}
+{"id":204,"source_url":"https://o204.o-xx.chatgpt.site/","title":"اختلاف زوجین و شیوهٔ آغاز گفت‌وگو","title_evidence":"h1"}
+{"id":205,"source_url":"https://o205.o-xx.chatgpt.site/","title":"تقسیم تصمیم‌های زوجین و تخصص عملی","title_evidence":"h1"}
+{"id":206,"source_url":"https://o206.o-xx.chatgpt.site/","title":"انتظارهای پیش از ازدواج و توافق دربارهٔ نقش","title_evidence":"h1"}
+{"id":207,"source_url":"https://o207.o-xx.chatgpt.site/","title":"کار مهاجرتی و حفظ تماس زوجین از راه دور","title_evidence":"h1"}
+{"id":208,"source_url":"https://o208.o-xx.chatgpt.site/","title":"شیفت متفاوت زوجین و زمان مشترک خانه","title_evidence":"h1"}
+{"id":209,"source_url":"https://o209.o-xx.chatgpt.site/","title":"کار خانگی نامرئی و شناخت بار برنامه‌ریزی","title_evidence":"h1"}
+{"id":210,"source_url":"https://o210.o-xx.chatgpt.site/","title":"فهرست وظایف و بازتوزیع کار روزمرهٔ خانه","title_evidence":"h1"}
+{"id":211,"source_url":"https://o211.o-xx.chatgpt.site/","title":"بیماری مزمن عضو خانواده و هماهنگی اطلاعات مراقبت","title_evidence":"h1"}
+{"id":212,"source_url":"https://o212.o-xx.chatgpt.site/","title":"مراقبت از سالمند و تصمیم محل سکونت","title_evidence":"h1"}
+{"id":213,"source_url":"https://o213.o-xx.chatgpt.site/","title":"فرسایش شبکهٔ خویشاوندی در جابه‌جایی خانوادگی","title_evidence":"h1"}
+{"id":214,"source_url":"https://o214.o-xx.chatgpt.site/","title":"خانوادهٔ فرامرزی و انتقال مسئولیت مراقبت","title_evidence":"h1"}
+{"id":215,"source_url":"https://o215.o-xx.chatgpt.site/","title":"پیام‌رسان خانوادگی و هماهنگی مناسبت‌ها","title_evidence":"h1"}
+{"id":216,"source_url":"https://o216.o-xx.chatgpt.site/","title":"عکس خانوادگی و روایت مشترک گذشته","title_evidence":"h1"}
+{"id":217,"source_url":"https://o217.o-xx.chatgpt.site/","title":"حفظ زبان میراثی در خانوادهٔ مهاجر","title_evidence":"h1"}
+{"id":218,"source_url":"https://o218.o-xx.chatgpt.site/","title":"نام‌گذاری فرزند و انتقال هویت خانوادگی","title_evidence":"h1"}
+{"id":219,"source_url":"https://o219.o-xx.chatgpt.site/","title":"انتقال مهارت آشپزی و نقش جنسیتی خانوادگی","title_evidence":"h1"}
+{"id":220,"source_url":"https://o220.o-xx.chatgpt.site/","title":"سفر خانوادگی و مذاکرهٔ ترجیح‌های متفاوت","title_evidence":"h1"}
+{"id":221,"source_url":"https://o221.o-xx.chatgpt.site/","title":"مصرف رسانهٔ مشترک و گفت‌وگوی خانوادگی","title_evidence":"h1"}
+{"id":222,"source_url":"https://o222.o-xx.chatgpt.site/","title":"محدودیت صفحه‌نمایش و سازگاری قواعد خانه","title_evidence":"h1"}
+{"id":223,"source_url":"https://o223.o-xx.chatgpt.site/","title":"نگهداری حیوان خانگی و تقسیم مسئولیت اعضا","title_evidence":"h1"}
+{"id":224,"source_url":"https://o224.o-xx.chatgpt.site/","title":"بحران مالی خانواده و گفت‌وگوی متناسب با سن کودک","title_evidence":"h1"}
+{"id":225,"source_url":"https://o225.o-xx.chatgpt.site/","title":"کمک فرزند بزرگسال و مرز دخالت در تصمیم والد","title_evidence":"h1"}
+{"id":226,"source_url":"https://o226.o-xx.chatgpt.site/","title":"قاعدهٔ مهمان‌نوازی و توزیع کار پذیرایی","title_evidence":"h1"}
+{"id":227,"source_url":"https://o227.o-xx.chatgpt.site/","title":"تفاوت نسل‌ها در تعریف احترام خانوادگی","title_evidence":"h1"}
+{"id":228,"source_url":"https://o228.o-xx.chatgpt.site/","title":"انتقال ارزش صرفه‌جویی در تعامل والد و فرزند","title_evidence":"h1"}
+{"id":229,"source_url":"https://o229.o-xx.chatgpt.site/","title":"فقدان عضو خانواده و بازتنظیم وظایف روزمره","title_evidence":"h1"}
+{"id":230,"source_url":"https://o230.o-xx.chatgpt.site/","title":"شبکهٔ کمک پس از زایمان و هماهنگی درخواست‌ها","title_evidence":"h1"}
+{"id":231,"source_url":"https://o231.o-xx.chatgpt.site/","title":"خلوت خانوادگی و توافق بر زمان بدون مزاحمت","title_evidence":"h1"}
+{"id":232,"source_url":"https://o232.o-xx.chatgpt.site/","title":"گفت‌وگوی خانوادگی دربارهٔ انتخاب مراقبت آینده","title_evidence":"h1"}
+{"id":233,"source_url":"https://o233.o-xx.chatgpt.site/","title":"گرمای شهری و تغییر زمان فعالیت بیرونی","title_evidence":"h1"}
+{"id":234,"source_url":"https://o234.o-xx.chatgpt.site/","title":"آلودگی هوا و تغییر رفتار سفر روزمره","title_evidence":"h1"}
+{"id":235,"source_url":"https://o235.o-xx.chatgpt.site/","title":"خطر سیلاب و آمادگی ساکنان محله","title_evidence":"title"}
+{"id":236,"source_url":"https://o236.o-xx.chatgpt.site/","title":"حافظهٔ حادثه و مشارکت در تمرین تخلیه","title_evidence":"title"}
+{"id":237,"source_url":"https://o237.o-xx.chatgpt.site/","title":"پناهگاه جمعی و تنظیم حریم موقت","title_evidence":"title"}
+{"id":238,"source_url":"https://o238.o-xx.chatgpt.site/","title":"خانهٔ کوچک و چندکارکردی‌شدن اتاق","title_evidence":"title"}
+{"id":239,"source_url":"https://o239.o-xx.chatgpt.site/","title":"نور طبیعی خانه و انتخاب محل فعالیت","title_evidence":"title"}
+{"id":240,"source_url":"https://o240.o-xx.chatgpt.site/","title":"پنجرهٔ رو به معبر و تنظیم حریم دیداری","title_evidence":"title"}
+{"id":241,"source_url":"https://o241.o-xx.chatgpt.site/","title":"رنگ‌آمیزی محیط درمانی و جهت‌یابی مراجعه‌کننده","title_evidence":"h1"}
+{"id":242,"source_url":"https://o242.o-xx.chatgpt.site/","title":"طراحی صف خدمت و تجربهٔ انصاف انتظار","title_evidence":"title"}
+{"id":243,"source_url":"https://o243.o-xx.chatgpt.site/","title":"طراحی مسجد محله و دسترسی گروه‌های سنی","title_evidence":"title"}
+{"id":244,"source_url":"https://o244.o-xx.chatgpt.site/","title":"فضای مراسم محلی و هماهنگی رفت‌وآمد","title_evidence":"title"}
+{"id":245,"source_url":"https://o245.o-xx.chatgpt.site/","title":"گردشگری محله و تغییر استفادهٔ ساکنان از فضا","title_evidence":"title"}
+{"id":246,"source_url":"https://o246.o-xx.chatgpt.site/","title":"تابلوهای تجاری و هویت دیداری خیابان","title_evidence":"title"}
+{"id":247,"source_url":"https://o247.o-xx.chatgpt.site/","title":"نام خیابان و حافظهٔ محلی ساکنان","title_evidence":"title"}
+{"id":248,"source_url":"https://o248.o-xx.chatgpt.site/","title":"حفظ بنای تاریخی و استفادهٔ معاصر","title_evidence":"title"}
+{"id":249,"source_url":"https://o249.o-xx.chatgpt.site/","title":"فضای صنعتی متروک و برداشت از خطر","title_evidence":"title"}
+{"id":250,"source_url":"https://o250.o-xx.chatgpt.site/","title":"مرز محله و تعریف عضویت محلی","title_evidence":"title"}
+{"id":251,"source_url":"https://o251.o-xx.chatgpt.site/","title":"روستاهای پیرامون شهر و تغییر الگوی تعامل","title_evidence":"title"}
+{"id":252,"source_url":"https://o252.o-xx.chatgpt.site/","title":"مشارکت ساکنان در طراحی فضای عمومی","title_evidence":"title"}
+{"id":253,"source_url":"https://o253.o-xx.chatgpt.site/","title":"سواد سلامت و فهم برگهٔ اطلاعات خدمت","title_evidence":"title"}
+{"id":254,"source_url":"https://o254.o-xx.chatgpt.site/","title":"نوبت‌دهی درمانی و مانع زمان مراجعه","title_evidence":"title"}
+{"id":255,"source_url":"https://o255.o-xx.chatgpt.site/","title":"هزینهٔ رفت‌وآمد و تداوم مراجعهٔ درمانی","title_evidence":"title"}
+{"id":256,"source_url":"https://o256.o-xx.chatgpt.site/","title":"ارتباط حرفه‌ای درمانگر و فهم برنامهٔ مراقبت","title_evidence":"title"}
+{"id":257,"source_url":"https://o257.o-xx.chatgpt.site/","title":"پرسش‌گری بیمار و نابرابری دانش تخصصی","title_evidence":"title"}
+{"id":258,"source_url":"https://o258.o-xx.chatgpt.site/","title":"مترجم در خدمات سلامت و دقت انتقال درخواست","title_evidence":"title"}
+{"id":259,"source_url":"https://o259.o-xx.chatgpt.site/","title":"حریم اطلاعات در اتاق پذیرش درمانگاه","title_evidence":"title"}
+{"id":260,"source_url":"https://o260.o-xx.chatgpt.site/","title":"اعتماد به ارائه‌دهنده و انتخاب منبع اطلاعات سلامت","title_evidence":"title"}
+{"id":261,"source_url":"https://o261.o-xx.chatgpt.site/","title":"پیوستگی مراقبت و انتقال پرونده میان مراکز","title_evidence":"title"}
+{"id":262,"source_url":"https://o262.o-xx.chatgpt.site/","title":"مراقبت خانگی و آموزش همراه غیرمتخصص","title_evidence":"title"}
+{"id":263,"source_url":"https://o263.o-xx.chatgpt.site/","title":"فقر انرژی و تنظیم مصرف ضروری خانه","title_evidence":"title"}
+{"id":264,"source_url":"https://o264.o-xx.chatgpt.site/","title":"ناامنی غذایی و اولویت‌بندی خرید خانوار","title_evidence":"title"}
+{"id":265,"source_url":"https://o265.o-xx.chatgpt.site/","title":"دسترسی محلی به خوراک تازه و انتخاب فروشگاه","title_evidence":"title"}
+{"id":266,"source_url":"https://o266.o-xx.chatgpt.site/","title":"شیوهٔ توزیع کمک و حفظ کرامت دریافت‌کننده","title_evidence":"title"}
+{"id":267,"source_url":"https://o267.o-xx.chatgpt.site/","title":"قابلیت شناسایی نیاز در گروه‌های کم‌دسترسی","title_evidence":"title"}
+{"id":268,"source_url":"https://o268.o-xx.chatgpt.site/","title":"بی‌خانمانی و پیوستگی تماس با خدمات","title_evidence":"title"}
+{"id":269,"source_url":"https://o269.o-xx.chatgpt.site/","title":"مدرک هویت و تکمیل درخواست خدمت عمومی","title_evidence":"title"}
+{"id":270,"source_url":"https://o270.o-xx.chatgpt.site/","title":"مهاجرت داخلی و شناخت مسیر خدمات شهری","title_evidence":"title"}
+{"id":271,"source_url":"https://o271.o-xx.chatgpt.site/","title":"جابه‌جایی اجباری و بازیابی مدارک شخصی","title_evidence":"title"}
+{"id":272,"source_url":"https://o272.o-xx.chatgpt.site/","title":"دسترسی زنان به آموزش مهارت در مناطق دوردست","title_evidence":"title"}
+{"id":273,"source_url":"https://o273.o-xx.chatgpt.site/","title":"ازدحام مراکز خدمت و صرف‌نظر از مراجعه","title_evidence":"title"}
+{"id":274,"source_url":"https://o274.o-xx.chatgpt.site/","title":"مراجعهٔ سیار و پوشش روستاهای پراکنده","title_evidence":"title"}
+{"id":275,"source_url":"https://o275.o-xx.chatgpt.site/","title":"تفاوت سواد عددی و فهم هزینهٔ خدمت","title_evidence":"h1"}
+{"id":276,"source_url":"https://o276.o-xx.chatgpt.site/","title":"ثبت شکایت و امکان پیگیری پاسخ","title_evidence":"h1"}
+{"id":277,"source_url":"https://o277.o-xx.chatgpt.site/","title":"زنجیرهٔ ارجاع و تکرار توضیح مسئله","title_evidence":"h1"}
+{"id":278,"source_url":"https://o278.o-xx.chatgpt.site/","title":"حضور خدمت در محل کار و امکان استفاده","title_evidence":"h1"}
+{"id":279,"source_url":"https://o279.o-xx.chatgpt.site/","title":"تفاوت محله‌ها در پوشش خدمات پیشگیرانه","title_evidence":"h1"}
+{"id":280,"source_url":"https://o280.o-xx.chatgpt.site/","title":"پیوند سازمان‌های حمایتی و جلوگیری از درخواست تکراری","title_evidence":"h1"}
+{"id":281,"source_url":"https://o281.o-xx.chatgpt.site/","title":"مشارکت دریافت‌کنندگان در طراحی خدمت","title_evidence":"h1"}
+{"id":282,"source_url":"https://o282.o-xx.chatgpt.site/","title":"تداوم حمایت پس از پایان بحران کوتاه‌مدت","title_evidence":"h1"}
+{"id":283,"source_url":"https://o283.o-xx.chatgpt.site/","title":"رتبه‌بندی پیشنهادها و تنوع محتوای دیده‌شده","title_evidence":"h1"}
+{"id":284,"source_url":"https://o284.o-xx.chatgpt.site/","title":"حباب فیلتر و جست‌وجوی دیدگاه جایگزین","title_evidence":"h1"}
+{"id":285,"source_url":"https://o285.o-xx.chatgpt.site/","title":"پخش خودکار و پایان‌دادن به تماشای ویدئو","title_evidence":"h1"}
+{"id":286,"source_url":"https://o286.o-xx.chatgpt.site/","title":"پیمایش بی‌انتها و برآورد میزان استفاده","title_evidence":"h1"}
+{"id":287,"source_url":"https://o287.o-xx.chatgpt.site/","title":"شمار پسند و انتخاب محتوای قابل‌اشتراک","title_evidence":"h1"}
+{"id":288,"source_url":"https://o288.o-xx.chatgpt.site/","title":"بازنشر بدون خواندن و ساختار پیش‌نمایش","title_evidence":"title"}
+{"id":289,"source_url":"https://o289.o-xx.chatgpt.site/","title":"تصویر بندانگشتی و انتظار از محتوای ویدئو","title_evidence":"h1"}
+{"id":290,"source_url":"https://o290.o-xx.chatgpt.site/","title":"زیرنویس و دسترسی به محتوای دیداری","title_evidence":"title"}
+{"id":291,"source_url":"https://o291.o-xx.chatgpt.site/","title":"پادکست و توجه در فعالیت هم‌زمان","title_evidence":"title"}
+{"id":292,"source_url":"https://o292.o-xx.chatgpt.site/","title":"خبرنامهٔ ایمیلی و انتخاب خواندن منظم","title_evidence":"title"}
+{"id":293,"source_url":"https://o293.o-xx.chatgpt.site/","title":"اعلان حریم خصوصی و فهم رضایت دیجیتال","title_evidence":"title"}
+{"id":294,"source_url":"https://o294.o-xx.chatgpt.site/","title":"گزینهٔ پیش‌فرض و اشتراک دادهٔ شخصی","title_evidence":"title"}
+{"id":295,"source_url":"https://o295.o-xx.chatgpt.site/","title":"الگوهای فریبندهٔ رابط و لغو اشتراک","title_evidence":"title"}
+{"id":296,"source_url":"https://o296.o-xx.chatgpt.site/","title":"احراز هویت چندمرحله‌ای و تکمیل ورود","title_evidence":"title"}
+{"id":297,"source_url":"https://o297.o-xx.chatgpt.site/","title":"مدیریت گذرواژه و رفتار بازیابی حساب","title_evidence":"title"}
+{"id":298,"source_url":"https://o298.o-xx.chatgpt.site/","title":"هشدار کلاهبرداری و تشخیص درخواست مشکوک","title_evidence":"h1"}
+{"id":299,"source_url":"https://o299.o-xx.chatgpt.site/","title":"افشای مکان و تصور مخاطب آنلاین","title_evidence":"h1"}
+{"id":300,"source_url":"https://o300.o-xx.chatgpt.site/","title":"حذف محتوا و برداشت از ماندگاری رد دیجیتال","title_evidence":"h1"}
+{"id":301,"source_url":"https://o301.o-xx.chatgpt.site/","title":"حساب یادبود و حفظ خاطرهٔ دیجیتال","title_evidence":"h1"}
+{"id":302,"source_url":"https://o302.o-xx.chatgpt.site/","title":"نام مستعار و مشارکت در بحث تخصصی","title_evidence":"h1"}
+{"id":303,"source_url":"https://o303.o-xx.chatgpt.site/","title":"تولید محتوای جمعی و تقسیم اعتبار مشارکت","title_evidence":"h1"}
+{"id":304,"source_url":"https://o304.o-xx.chatgpt.site/","title":"دانشنامهٔ مشارکتی و حل اختلاف ویرایش","title_evidence":"h1"}
+{"id":305,"source_url":"https://o305.o-xx.chatgpt.site/","title":"سواد جست‌وجو و انتخاب عبارت پرس‌وجو","title_evidence":"h1"}
+{"id":306,"source_url":"https://o306.o-xx.chatgpt.site/","title":"ترتیب نتایج و توجه به منبع پایین‌تر","title_evidence":"h1"}
+{"id":307,"source_url":"https://o307.o-xx.chatgpt.site/","title":"برچسب تبلیغ و تشخیص محتوای تجاری","title_evidence":"h1"}
+{"id":308,"source_url":"https://o308.o-xx.chatgpt.site/","title":"اینفلوئنسر و شفافیت رابطهٔ حمایتی برند","title_evidence":"h1"}
+{"id":309,"source_url":"https://o309.o-xx.chatgpt.site/","title":"ویدئوی کوتاه و فهم زنجیرهٔ استدلال","title_evidence":"h1"}
+{"id":310,"source_url":"https://o310.o-xx.chatgpt.site/","title":"گفت‌وگوی زنده و توزیع فرصت پرسش","title_evidence":"h1"}
+{"id":311,"source_url":"https://o311.o-xx.chatgpt.site/","title":"آواتار و برداشت از هویت همکار مجازی","title_evidence":"h1"}
+{"id":312,"source_url":"https://o312.o-xx.chatgpt.site/","title":"واقعیت مجازی و حس حضور مکانی","title_evidence":"h1"}
+{"id":313,"source_url":"https://o313.o-xx.chatgpt.site/","title":"واقعیت افزوده و فهم راهنمای تعمیر","title_evidence":"h1"}
+{"id":314,"source_url":"https://o314.o-xx.chatgpt.site/","title":"بازی دیجیتال مشارکتی و تقسیم نقش تیم","title_evidence":"h1"}
+{"id":315,"source_url":"https://o315.o-xx.chatgpt.site/","title":"خرید درون‌بازی و فهم هزینهٔ واقعی","title_evidence":"h1"}
+{"id":316,"source_url":"https://o316.o-xx.chatgpt.site/","title":"ابزار کنترل والدین و شفافیت نظارت کودک","title_evidence":"h1"}
+{"id":317,"source_url":"https://o317.o-xx.chatgpt.site/","title":"چت‌بات و انتساب ویژگی انسانی","title_evidence":"h1"}
+{"id":318,"source_url":"https://o318.o-xx.chatgpt.site/","title":"پاسخ هوش مصنوعی و وارسی مستقل اطلاعات","title_evidence":"h1"}
+{"id":319,"source_url":"https://o319.o-xx.chatgpt.site/","title":"اتکای بیش از حد به پیشنهاد خودکار","title_evidence":"h1"}
+{"id":320,"source_url":"https://o320.o-xx.chatgpt.site/","title":"توضیح سامانهٔ هوشمند و فهم علت پیشنهاد","title_evidence":"h1"}
+{"id":321,"source_url":"https://o321.o-xx.chatgpt.site/","title":"همکاری نویسنده و ابزار تولید متن","title_evidence":"prior-live-preview"}
+{"id":322,"source_url":"https://o322.o-xx.chatgpt.site/","title":"تصویر مصنوعی و تشخیص منشأ تولید","title_evidence":"prior-live-preview"}
+{"id":323,"source_url":"https://o323.o-xx.chatgpt.site/","title":"صدای مصنوعی و برداشت از هویت گوینده","title_evidence":"prior-live-preview"}
+{"id":324,"source_url":"https://o324.o-xx.chatgpt.site/","title":"دستیار صوتی و انتقال فرمان در محیط خانه","title_evidence":"prior-live-preview"}
+{"id":325,"source_url":"https://o325.o-xx.chatgpt.site/","title":"ابزار پوشیدنی و فهم نمودار فعالیت","title_evidence":"prior-live-preview"}
+{"id":326,"source_url":"https://o326.o-xx.chatgpt.site/","title":"خاموشی موقت فناوری و بازتنظیم هماهنگی روزمره","title_evidence":"prior-live-preview"}
+{"id":327,"source_url":"https://o327.o-xx.chatgpt.site/","title":"آرشیو شخصی دیجیتال و یافتن فایل قدیمی","title_evidence":"prior-live-preview"}
+{"id":328,"source_url":"https://o328.o-xx.chatgpt.site/","title":"قیمت مرجع و ارزیابی تخفیف فروشگاهی","title_evidence":"prior-live-preview"}
+{"id":329,"source_url":"https://o329.o-xx.chatgpt.site/","title":"قیمت‌گذاری بسته‌ای و فهم هزینهٔ هر واحد","title_evidence":"prior-live-preview"}
+{"id":330,"source_url":"https://o330.o-xx.chatgpt.site/","title":"عدد پایانی قیمت و برداشت از ارزانی","title_evidence":"prior-live-preview"}
+{"id":331,"source_url":"https://o331.o-xx.chatgpt.site/","title":"هزینهٔ ارسال و رهاکردن سبد خرید","title_evidence":"prior-live-preview"}
+{"id":332,"source_url":"https://o332.o-xx.chatgpt.site/","title":"کمیابی اعلام‌شده و سرعت تصمیم خرید","title_evidence":"prior-live-preview"}
+{"id":333,"source_url":"https://o333.o-xx.chatgpt.site/","title":"محدودیت زمانی فروش و بررسی گزینهٔ جایگزین","title_evidence":"prior-live-preview"}
+{"id":334,"source_url":"https://o334.o-xx.chatgpt.site/","title":"اضافه‌بار انتخاب و تعویق خرید","title_evidence":"prior-live-preview"}
+{"id":335,"source_url":"https://o335.o-xx.chatgpt.site/","title":"پشیمانی پیش‌بینی‌شده و خرید کالای قابل‌مرجوعی","title_evidence":"prior-live-preview"}
+{"id":336,"source_url":"https://o336.o-xx.chatgpt.site/","title":"تجربهٔ مالکیت و قیمت واگذاری کالا","title_evidence":"prior-live-preview"}
+{"id":337,"source_url":"https://o337.o-xx.chatgpt.site/","title":"حسابداری ذهنی و مصرف پول هدیه","title_evidence":"prior-live-preview"}
+{"id":338,"source_url":"https://o338.o-xx.chatgpt.site/","title":"روش پرداخت و توجه به مبلغ خرید","title_evidence":"prior-live-preview"}
+{"id":339,"source_url":"https://o339.o-xx.chatgpt.site/","title":"پرداخت قسطی و فهم مجموع تعهد مالی","title_evidence":"prior-live-preview"}
+{"id":340,"source_url":"https://o340.o-xx.chatgpt.site/","title":"اعتبار خرید و تفکیک نیاز از امکان پرداخت","title_evidence":"prior-live-preview"}
+{"id":341,"source_url":"https://o341.o-xx.chatgpt.site/","title":"تعهد پیشینی و پایبندی به بودجهٔ خرید","title_evidence":"prior-live-preview"}
+{"id":342,"source_url":"https://o342.o-xx.chatgpt.site/","title":"هزینهٔ ازدست‌رفته و ادامهٔ مصرف خدمت","title_evidence":"prior-live-preview"}
+{"id":343,"source_url":"https://o343.o-xx.chatgpt.site/","title":"ارزش زمان و انتخاب خدمت سریع‌تر","title_evidence":"prior-live-preview"}
+{"id":344,"source_url":"https://o344.o-xx.chatgpt.site/","title":"انعام و تفسیر کیفیت خدمت","title_evidence":"prior-live-preview"}
+{"id":345,"source_url":"https://o345.o-xx.chatgpt.site/","title":"وفاداری برند و هزینهٔ تغییر محصول","title_evidence":"prior-live-preview"}
+{"id":346,"source_url":"https://o346.o-xx.chatgpt.site/","title":"برنامهٔ امتیاز خرید و ادراک پیشرفت","title_evidence":"prior-live-preview"}
+{"id":347,"source_url":"https://o347.o-xx.chatgpt.site/","title":"شهرت فروشنده و انتخاب معاملهٔ ناشناس","title_evidence":"prior-live-preview"}
+{"id":348,"source_url":"https://o348.o-xx.chatgpt.site/","title":"نظر کاربران و وزن تجربهٔ منفی","title_evidence":"prior-live-preview"}
+{"id":349,"source_url":"https://o349.o-xx.chatgpt.site/","title":"کیفیت ادراک‌شده و نشانهٔ کشور سازنده","title_evidence":"prior-live-preview"}
+{"id":350,"source_url":"https://o350.o-xx.chatgpt.site/","title":"بسته‌بندی و فهم مقدار واقعی کالا","title_evidence":"prior-live-preview"}
+{"id":351,"source_url":"https://o351.o-xx.chatgpt.site/","title":"برچسب محیط‌زیستی و فهم ادعای محصول","title_evidence":"prior-live-preview"}
+{"id":352,"source_url":"https://o352.o-xx.chatgpt.site/","title":"خرید دست‌دوم و برداشت از سابقهٔ استفاده","title_evidence":"prior-live-preview"}
+{"id":353,"source_url":"https://o353.o-xx.chatgpt.site/","title":"تعمیرپذیری و تصمیم نگهداشت وسیله","title_evidence":"prior-live-preview"}
+{"id":354,"source_url":"https://o354.o-xx.chatgpt.site/","title":"اشتراک ابزار و قواعد استفادهٔ مشترک","title_evidence":"prior-live-preview"}
+{"id":355,"source_url":"https://o355.o-xx.chatgpt.site/","title":"اجارهٔ کالا و ترجیح دسترسی به مالکیت","title_evidence":"prior-live-preview"}
+{"id":356,"source_url":"https://o356.o-xx.chatgpt.site/","title":"مصرف نمایشی و مخاطب انتخاب کالا","title_evidence":"prior-live-preview"}
+{"id":357,"source_url":"https://o357.o-xx.chatgpt.site/","title":"هدیه‌دادن و پیش‌بینی ترجیح گیرنده","title_evidence":"prior-live-preview"}
+{"id":358,"source_url":"https://o358.o-xx.chatgpt.site/","title":"تأخیر پرداخت مشتری و برنامهٔ کار خرد","title_evidence":"prior-live-preview"}
+{"id":359,"source_url":"https://o359.o-xx.chatgpt.site/","title":"کارآفرینی خانگی و مرز فضای تولید","title_evidence":"prior-live-preview"}
+{"id":360,"source_url":"https://o360.o-xx.chatgpt.site/","title":"کسب‌وکار خانوادگی و تفکیک نقش مالک و مدیر","title_evidence":"prior-live-preview"}
+{"id":361,"source_url":"https://o361.o-xx.chatgpt.site/","title":"انتقال کسب‌وکار بین نسل‌ها و حفظ مشتری","title_evidence":"h1"}
+{"id":362,"source_url":"https://o362.o-xx.chatgpt.site/","title":"تعاونی محلی و مشارکت اعضا در تصمیم اقتصادی","title_evidence":"h1"}
+{"id":363,"source_url":"https://o363.o-xx.chatgpt.site/","title":"صندوق قرض خانوادگی و تعریف تعهد متقابل","title_evidence":"h1"}
+{"id":364,"source_url":"https://o364.o-xx.chatgpt.site/","title":"اعانهٔ کوچک و تکرار مشارکت خیرخواهانه","title_evidence":"h1"}
+{"id":365,"source_url":"https://o365.o-xx.chatgpt.site/","title":"شفافیت مصرف کمک و اعتماد اهداکننده","title_evidence":"h1"}
+{"id":366,"source_url":"https://o366.o-xx.chatgpt.site/","title":"وقف و تداوم تأمین خدمت اجتماعی","title_evidence":"h1"}
+{"id":367,"source_url":"https://o367.o-xx.chatgpt.site/","title":"بازار مهارت و قیمت‌گذاری کار آزاد","title_evidence":"h1"}
+{"id":368,"source_url":"https://o368.o-xx.chatgpt.site/","title":"تورم ادراک‌شده و یادآوری قیمت کالاهای پرتکرار","title_evidence":"h1"}
+{"id":369,"source_url":"https://o369.o-xx.chatgpt.site/","title":"نوسان درآمد و برنامهٔ پرداخت قبض","title_evidence":"h1"}
+{"id":370,"source_url":"https://o370.o-xx.chatgpt.site/","title":"دانش بدهی و فهم نرخ هزینهٔ اعتبار","title_evidence":"h1"}
+{"id":371,"source_url":"https://o371.o-xx.chatgpt.site/","title":"بهزیستی روانشناختی و عوامل اجتماعی","title_evidence":"h1"}
+{"id":372,"source_url":"https://o372.o-xx.chatgpt.site/","title":"روانشناسی اجتماعی و نقش محیط در رفتار انسان","title_evidence":"h1"}
+{"id":373,"source_url":"https://o373.o-xx.chatgpt.site/","title":"جامعهشناسی خانواده و کیفیت روابط میان اعضا","title_evidence":"h1"}
+{"id":374,"source_url":"https://o374.o-xx.chatgpt.site/","title":"تابآوری روانشناختی و سازگاری با دشواریها","title_evidence":"h1"}
+{"id":375,"source_url":"https://o375.o-xx.chatgpt.site/","title":"سلامت روان و اهمیت حمایت اجتماعی","title_evidence":"h1"}
+{"id":376,"source_url":"https://o376.o-xx.chatgpt.site/","title":"جامعهشناسی آموزش و فرصتهای یادگیری","title_evidence":"h1"}
+{"id":377,"source_url":"https://o377.o-xx.chatgpt.site/","title":"مهارتهای ارتباطی و کیفیت تعاملات اجتماعی","title_evidence":"h1"}
+{"id":378,"source_url":"https://o378.o-xx.chatgpt.site/","title":"روششناسی پژوهش در روانشناسی و علوم اجتماعی","title_evidence":"h1"}
+{"id":379,"source_url":"https://o379.o-xx.chatgpt.site/","title":"سکوت در گفت‌وگو و تفسیر توافق","title_evidence":"h1"}
+{"id":380,"source_url":"https://o380.o-xx.chatgpt.site/","title":"روایت شفاهی و سازمان‌دهی تجربهٔ جمعی","title_evidence":"h1"}
+{"id":381,"source_url":"https://o381.o-xx.chatgpt.site/","title":"ضرب‌المثل و توجیه تصمیم روزمره","title_evidence":"h1"}
+{"id":382,"source_url":"https://o382.o-xx.chatgpt.site/","title":"قصهٔ محلی و انتقال شناخت مکان","title_evidence":"h1"}
+{"id":383,"source_url":"https://o383.o-xx.chatgpt.site/","title":"ترجمهٔ مفاهیم اجتماعی و تغییر معنای اصطلاح","title_evidence":"h1"}
+{"id":384,"source_url":"https://o384.o-xx.chatgpt.site/","title":"خواندن ترجمه و شناخت زمینهٔ فرهنگی","title_evidence":"h1"}
+{"id":385,"source_url":"https://o385.o-xx.chatgpt.site/","title":"نام شخصی و بازنمایی هویت در اسناد","title_evidence":"h1"}
+{"id":386,"source_url":"https://o386.o-xx.chatgpt.site/","title":"نام مستعار ادبی و انتساب اثر","title_evidence":"h1"}
+{"id":387,"source_url":"https://o387.o-xx.chatgpt.site/","title":"موزه و روایت زندگی روزمرهٔ گذشته","title_evidence":"h1"}
+{"id":388,"source_url":"https://o388.o-xx.chatgpt.site/","title":"توضیح کنار اثر و تجربهٔ بازدید هنری","title_evidence":"h1"}
+{"id":389,"source_url":"https://o389.o-xx.chatgpt.site/","title":"هنر خیابانی و تفسیر مالکیت فضای دیداری","title_evidence":"h1"}
+{"id":390,"source_url":"https://o390.o-xx.chatgpt.site/","title":"صنایع دستی و انتقال دانش ساخت","title_evidence":"h1"}
+{"id":391,"source_url":"https://o391.o-xx.chatgpt.site/","title":"موسیقی محلی و شناسایی تعلق منطقه‌ای","title_evidence":"h1"}
+{"id":392,"source_url":"https://o392.o-xx.chatgpt.site/","title":"موسیقی در مراسم و هماهنگی مشارکت جمعی","title_evidence":"h1"}
+{"id":393,"source_url":"https://o393.o-xx.chatgpt.site/","title":"پوشاک مناسبت و بیان نقش اجتماعی","title_evidence":"h1"}
+{"id":394,"source_url":"https://o394.o-xx.chatgpt.site/","title":"خوراک سنتی و بازنمایی هویت محلی","title_evidence":"h1"}
+{"id":395,"source_url":"https://o395.o-xx.chatgpt.site/","title":"مهمان‌نوازی محلی و قواعد رابطه با غریبه","title_evidence":"h1"}
+{"id":396,"source_url":"https://o396.o-xx.chatgpt.site/","title":"آیین سوگواری و سازمان‌دهی همراهی اجتماعی","title_evidence":"h1"}
+{"id":397,"source_url":"https://o397.o-xx.chatgpt.site/","title":"زیارت و هماهنگی سفر جمعی","title_evidence":"h1"}
+{"id":398,"source_url":"https://o398.o-xx.chatgpt.site/","title":"مشارکت در مراسم مذهبی و یادگیری نقش داوطلب","title_evidence":"h1"}
+{"id":399,"source_url":"https://o399.o-xx.chatgpt.site/","title":"تقویم مناسبت‌ها و تنظیم فعالیت محلی","title_evidence":"h1"}
+{"id":400,"source_url":"https://o400.o-xx.chatgpt.site/","title":"داستان خانوادگی تبار و شناخت خویشاوندی","title_evidence":"h1"}
+{"id":401,"source_url":"https://o401.o-xx.chatgpt.site/","title":"آرشیو محلی و انتخاب سند ماندگار","title_evidence":"h1"}
+{"id":402,"source_url":"https://o402.o-xx.chatgpt.site/","title":"تاریخ شفاهی و بازنمایی تجربهٔ شغلی","title_evidence":"h1"}
+{"id":403,"source_url":"https://o403.o-xx.chatgpt.site/","title":"نمایشگاه اجتماعی و صدای گروه کمتر دیده‌شده","title_evidence":"h1"}
+{"id":404,"source_url":"https://o404.o-xx.chatgpt.site/","title":"سفر فرهنگی و تغییر برداشت از جامعهٔ میزبان","title_evidence":"h1"}
+{"id":405,"source_url":"https://o405.o-xx.chatgpt.site/","title":"میراث ناملموس و تبدیل اجرا به محصول گردشگری","title_evidence":"h1"}
+{"id":406,"source_url":"https://o406.o-xx.chatgpt.site/","title":"کلاس هنر و دسترسی به زبان بیان شخصی","title_evidence":"h1"}
+{"id":407,"source_url":"https://o407.o-xx.chatgpt.site/","title":"باشگاه کتاب و اختلاف تفسیر متن","title_evidence":"h1"}
+{"id":408,"source_url":"https://o408.o-xx.chatgpt.site/","title":"فرهنگ هواداری و قواعد عضویت اجتماع","title_evidence":"h1"}
+{"id":409,"source_url":"https://o409.o-xx.chatgpt.site/","title":"گردآوری اشیا و روایت ارزش مجموعه","title_evidence":"h1"}
+{"id":410,"source_url":"https://o410.o-xx.chatgpt.site/","title":"خاطرهٔ جمعی و گزینش رخداد در سالگرد","title_evidence":"h1"}
+{"id":411,"source_url":"https://o411.o-xx.chatgpt.site/","title":"نسل و تغییر معنای یک نشانهٔ فرهنگی","title_evidence":"h1"}
+{"id":412,"source_url":"https://o412.o-xx.chatgpt.site/","title":"تخصص بومی و ثبت دانش عملی محیط","title_evidence":"h1"}
+{"id":413,"source_url":"https://o413.o-xx.chatgpt.site/","title":"علم شهروندی و کیفیت مشارکت در مشاهده","title_evidence":"h1"}
+{"id":414,"source_url":"https://o414.o-xx.chatgpt.site/","title":"رابطهٔ دانشگاه و اجتماع در تعریف مسئلهٔ پژوهش","title_evidence":"h1"}
+{"id":415,"source_url":"https://o415.o-xx.chatgpt.site/","title":"دسترسی آزاد به دانش و یافتن متن دانشگاهی","title_evidence":"h1"}
+{"id":416,"source_url":"https://o416.o-xx.chatgpt.site/","title":"شناسهٔ پایدار مؤلف و تفکیک هویت‌های هم‌نام","title_evidence":"h1"}
+{"id":417,"source_url":"https://o417.o-xx.chatgpt.site/","title":"پوشش ناقص چارچوب نمونه و برآورد جمعیت","title_evidence":"h1"}
+{"id":418,"source_url":"https://o418.o-xx.chatgpt.site/","title":"عدم پاسخ پیمایش و تفاوت مشارکت‌کنندگان","title_evidence":"h1"}
+{"id":419,"source_url":"https://o419.o-xx.chatgpt.site/","title":"وزن‌دهی پیمایش و توازن ترکیب نمونه","title_evidence":"h1"}
+{"id":420,"source_url":"https://o420.o-xx.chatgpt.site/","title":"نمونه‌گیری خوشه‌ای و وابستگی پاسخ‌ها","title_evidence":"h1"}
+{"id":421,"source_url":"https://o421.o-xx.chatgpt.site/","title":"نمونه‌گیری شبکه‌ای و دسترسی به جمعیت پنهان","title_evidence":"h1"}
+{"id":422,"source_url":"https://o422.o-xx.chatgpt.site/","title":"نمونهٔ آنلاین داوطلب و تعمیم نتیجه","title_evidence":"h1"}
+{"id":423,"source_url":"https://o423.o-xx.chatgpt.site/","title":"تعداد تماس مجدد و مشارکت در پیمایش","title_evidence":"h1"}
+{"id":424,"source_url":"https://o424.o-xx.chatgpt.site/","title":"ترتیب سؤال و تغییر پاسخ پرسش‌نامه","title_evidence":"h1"}
+{"id":425,"source_url":"https://o425.o-xx.chatgpt.site/","title":"طول پرسش‌نامه و پاسخ کم‌دقت","title_evidence":"h1"}
+{"id":426,"source_url":"https://o426.o-xx.chatgpt.site/","title":"گزینهٔ میانی و تفسیر پاسخ خنثی","title_evidence":"h1"}
+{"id":427,"source_url":"https://o427.o-xx.chatgpt.site/","title":"پرسش معکوس و خطای فهم گویه","title_evidence":"h1"}
+{"id":428,"source_url":"https://o428.o-xx.chatgpt.site/","title":"مطلوبیت اجتماعی و شیوهٔ اجرای پیمایش","title_evidence":"h1"}
+{"id":429,"source_url":"https://o429.o-xx.chatgpt.site/","title":"مصاحبهٔ شناختی و کشف ابهام سؤال","title_evidence":"h1"}
+{"id":430,"source_url":"https://o430.o-xx.chatgpt.site/","title":"روزنگار و خطای یادآوری رفتار روزانه","title_evidence":"h1"}
+{"id":431,"source_url":"https://o431.o-xx.chatgpt.site/","title":"نمونه‌برداری تجربه و بار مشارکت طولانی","title_evidence":"h1"}
+{"id":432,"source_url":"https://o432.o-xx.chatgpt.site/","title":"ریزش مطالعهٔ طولی و تغییر ترکیب نمونه","title_evidence":"h1"}
+{"id":433,"source_url":"https://o433.o-xx.chatgpt.site/","title":"اثر تمرین در آزمون تکرارشونده","title_evidence":"h1"}
+{"id":434,"source_url":"https://o434.o-xx.chatgpt.site/","title":"دادهٔ گمشده و فرض سازوکار فقدان","title_evidence":"h1"}
+{"id":435,"source_url":"https://o435.o-xx.chatgpt.site/","title":"حذف موارد ناقص و تغییر دامنهٔ برآورد","title_evidence":"h1"}
+{"id":436,"source_url":"https://o436.o-xx.chatgpt.site/","title":"برآورد چندگانه و حفظ عدم‌قطعیت فقدان","title_evidence":"h1"}
+{"id":437,"source_url":"https://o437.o-xx.chatgpt.site/","title":"نقاط پرت و حساسیت نتیجهٔ همبستگی","title_evidence":"h1"}
+{"id":438,"source_url":"https://o438.o-xx.chatgpt.site/","title":"خطای اندازه‌گیری و تضعیف رابطهٔ مشاهده‌شده","title_evidence":"h1"}
+{"id":439,"source_url":"https://o439.o-xx.chatgpt.site/","title":"متغیر مخدوشگر و تفسیر ارتباط مشاهده‌ای","title_evidence":"h1"}
+{"id":440,"source_url":"https://o440.o-xx.chatgpt.site/","title":"کنترل میانجی و تغییر معنای برآورد","title_evidence":"h1"}
+{"id":441,"source_url":"https://o441.o-xx.chatgpt.site/","title":"شرطی‌سازی بر متغیر برخوردگر و سوگیری انتخاب","title_evidence":"prior-live-preview"}
+{"id":442,"source_url":"https://o442.o-xx.chatgpt.site/","title":"تفاوت سطح فرد و گروه در استنتاج اجتماعی","title_evidence":"prior-live-preview"}
+{"id":443,"source_url":"https://o443.o-xx.chatgpt.site/","title":"مدل چندسطحی و تفکیک تفاوت درون و بین گروه","title_evidence":"prior-live-preview"}
+{"id":444,"source_url":"https://o444.o-xx.chatgpt.site/","title":"تفاوت‌در‌تفاوت‌ها و فرض روند موازی","title_evidence":"prior-live-preview"}
+{"id":445,"source_url":"https://o445.o-xx.chatgpt.site/","title":"ناپیوستگی رگرسیونی و انتخاب آستانهٔ تصمیم","title_evidence":"prior-live-preview"}
+{"id":446,"source_url":"https://o446.o-xx.chatgpt.site/","title":"تطبیق نمونه و باقی‌ماندن تفاوت زمینه‌ای","title_evidence":"prior-live-preview"}
+{"id":447,"source_url":"https://o447.o-xx.chatgpt.site/","title":"تصادفی‌سازی و توازن متغیرهای پایه","title_evidence":"prior-live-preview"}
+{"id":448,"source_url":"https://o448.o-xx.chatgpt.site/","title":"عدم پایبندی آزمایش و تعریف جمعیت تحلیل","title_evidence":"prior-live-preview"}
+{"id":449,"source_url":"https://o449.o-xx.chatgpt.site/","title":"آلودگی گروه مقایسه و انتقال مداخله","title_evidence":"prior-live-preview"}
+{"id":450,"source_url":"https://o450.o-xx.chatgpt.site/","title":"توان آماری و دقت فاصلهٔ اطمینان","title_evidence":"prior-live-preview"}
+{"id":451,"source_url":"https://o451.o-xx.chatgpt.site/","title":"آزمون‌های متعدد و انتخاب نتیجهٔ برجسته","title_evidence":"prior-live-preview"}
+{"id":452,"source_url":"https://o452.o-xx.chatgpt.site/","title":"ثبت پیشینی و تفکیک تحلیل اکتشافی","title_evidence":"prior-live-preview"}
+{"id":453,"source_url":"https://o453.o-xx.chatgpt.site/","title":"گزارش نتیجهٔ صفر و ارزیابی حدود اثر","title_evidence":"prior-live-preview"}
+{"id":454,"source_url":"https://o454.o-xx.chatgpt.site/","title":"بازتولید کد و وابستگی به محیط محاسباتی","title_evidence":"prior-live-preview"}
+{"id":455,"source_url":"https://o455.o-xx.chatgpt.site/","title":"اشتراک داده و خطر بازشناسایی مشارکت‌کننده","title_evidence":"prior-live-preview"}
+{"id":456,"source_url":"https://o456.o-xx.chatgpt.site/","title":"ناهمگنی مطالعه‌ها و تفسیر فراتحلیل","title_evidence":"prior-live-preview"}
+{"id":457,"source_url":"https://o457.o-xx.chatgpt.site/","title":"سوگیری انتشار و تصویر شواهد موجود","title_evidence":"prior-live-preview"}
+{"id":458,"source_url":"https://o458.o-xx.chatgpt.site/","title":"مرور دامنه‌ای و نقشهٔ خلأ پژوهش","title_evidence":"prior-live-preview"}
+{"id":459,"source_url":"https://o459.o-xx.chatgpt.site/","title":"نمونه‌گیری هدفمند و تنوع تجربهٔ مصاحبه","title_evidence":"prior-live-preview"}
+{"id":460,"source_url":"https://o460.o-xx.chatgpt.site/","title":"اشباع اطلاعات و تصمیم پایان مصاحبه","title_evidence":"prior-live-preview"}
+{"id":461,"source_url":"https://o461.o-xx.chatgpt.site/","title":"جایگاه مصاحبه‌گر و شکل روایت مشارکت‌کننده","title_evidence":"prior-live-preview"}
+{"id":462,"source_url":"https://o462.o-xx.chatgpt.site/","title":"کدگذاری کیفی و اختلاف تفسیر پژوهشگران","title_evidence":"prior-live-preview"}
+{"id":463,"source_url":"https://o463.o-xx.chatgpt.site/","title":"مشاهدهٔ مشارکتی و تغییر رفتار زیر حضور پژوهشگر","title_evidence":"prior-live-preview"}
+{"id":464,"source_url":"https://o464.o-xx.chatgpt.site/","title":"تحلیل محتوای سند و تعریف واحد بررسی","title_evidence":"prior-live-preview"}
+{"id":465,"source_url":"https://o465.o-xx.chatgpt.site/","title":"ادغام دادهٔ کیفی و کمی در طرح آمیخته","title_evidence":"prior-live-preview"}
+{"id":466,"source_url":"https://o466.o-xx.chatgpt.site/","title":"ثبت تصمیم‌های پژوهش و قابلیت ممیزی مسیر تحلیل","title_evidence":"prior-live-preview"}
+{"id":467,"source_url":"https://o467.o-xx.chatgpt.site/","title":"مسئولیت مدنی ناشی از تصمیم‌های خودکار و معیار انتساب خطای الگوریتمی","title_evidence":"prior-live-preview"}
+{"id":468,"source_url":"https://o468.o-xx.chatgpt.site/","title":"بار اثبات در دعاوی تبعیض الگوریتمی و دسترسی خواهان به شواهد فنی","title_evidence":"prior-live-preview"}
+{"id":469,"source_url":"https://o469.o-xx.chatgpt.site/","title":"حق توضیح در تصمیم‌گیری خودکار و حدود افشای اسرار تجاری","title_evidence":"prior-live-preview"}
+{"id":470,"source_url":"https://o470.o-xx.chatgpt.site/","title":"صلاحیت قضایی در قراردادهای هوشمند فرامرزی و تعارض قوانین","title_evidence":"prior-live-preview"}
+{"id":471,"source_url":"https://o471.o-xx.chatgpt.site/","title":"اعتبار ادلهٔ زنجیره‌بلوکی در دادرسی و الزامات احراز اصالت","title_evidence":"prior-live-preview"}
+{"id":472,"source_url":"https://o472.o-xx.chatgpt.site/","title":"ارث دارایی‌های دیجیتال و تعارض میان حریم خصوصی متوفی و حقوق وراث","title_evidence":"prior-live-preview"}
+{"id":473,"source_url":"https://o473.o-xx.chatgpt.site/","title":"مالکیت فکری بر خروجی‌های مولد هوش مصنوعی و معیار مشارکت انسانی","title_evidence":"prior-live-preview"}
+{"id":474,"source_url":"https://o474.o-xx.chatgpt.site/","title":"استفادهٔ منصفانه از داده‌های آموزشی مدل‌ها و حدود استثناهای حق مؤلف","title_evidence":"prior-live-preview"}
+{"id":475,"source_url":"https://o475.o-xx.chatgpt.site/","title":"حق بر حذف داده و تعارض آن با نگهداری سوابق عمومی دیجیتال","title_evidence":"prior-live-preview"}
+{"id":476,"source_url":"https://o476.o-xx.chatgpt.site/","title":"انتقال بین‌المللی داده و سنجش کفایت حمایت حقوقی مقصد","title_evidence":"prior-live-preview"}
+{"id":477,"source_url":"https://o477.o-xx.chatgpt.site/","title":"مسئولیت پلتفرم‌های بازارگاه در قبال کالای معیوب فروشندگان ثالث","title_evidence":"prior-live-preview"}
+{"id":478,"source_url":"https://o478.o-xx.chatgpt.site/","title":"الزامات قراردادی در خدمات ابری و تخصیص ریسک از دست‌رفتن داده","title_evidence":"prior-live-preview"}
+{"id":479,"source_url":"https://o479.o-xx.chatgpt.site/","title":"حق دسترسی‌پذیری دیجیتال و استاندارد مسئولیت ارائه‌دهندگان خدمت","title_evidence":"prior-live-preview"}
+{"id":480,"source_url":"https://o480.o-xx.chatgpt.site/","title":"تنظیم‌گری سامانه‌های امتیازدهی اعتباری و حق اعتراض مؤثر","title_evidence":"prior-live-preview"}
+{"id":481,"source_url":"https://o481.o-xx.chatgpt.site/","title":"حدود نظارت کارفرما بر ابزارهای دیجیتال کارکنان و اصل تناسب","title_evidence":"h1"}
+{"id":482,"source_url":"https://o482.o-xx.chatgpt.site/","title":"مالکیت داده‌های تولیدشده توسط تجهیزات متصل و حقوق استفادهٔ ثانویه","title_evidence":"h1"}
+{"id":483,"source_url":"https://o483.o-xx.chatgpt.site/","title":"مسئولیت حقوقی ناشی از دیپ‌فیک در آسیب به شهرت و هویت","title_evidence":"h1"}
+{"id":484,"source_url":"https://o484.o-xx.chatgpt.site/","title":"حمایت حقوقی از کودکان در طراحی خدمات دیجیتال و اصل بهترین منفعت","title_evidence":"h1"}
+{"id":485,"source_url":"https://o485.o-xx.chatgpt.site/","title":"حاکمیت داده در شهر هوشمند و تفکیک اختیار عمومی از بهره‌برداری تجاری","title_evidence":"h1"}
+{"id":486,"source_url":"https://o486.o-xx.chatgpt.site/","title":"الزامات شفافیت تبلیغات سیاسی دیجیتال و قابلیت ردیابی تأمین مالی","title_evidence":"h1"}
+{"id":487,"source_url":"https://o487.o-xx.chatgpt.site/","title":"حقوق مصرف‌کننده در اشتراک‌های خودکار و معیار رضایت معتبر برای تمدید","title_evidence":"h1"}
+{"id":488,"source_url":"https://o488.o-xx.chatgpt.site/","title":"قابلیت انتقال داده میان پلتفرم‌ها و نسبت آن با رقابت بازار","title_evidence":"h1"}
+{"id":489,"source_url":"https://o489.o-xx.chatgpt.site/","title":"حق تعمیر در محصولات هوشمند و تعارض آن با مالکیت فکری نرم‌افزار","title_evidence":"h1"}
+{"id":490,"source_url":"https://o490.o-xx.chatgpt.site/","title":"مسئولیت قراردادی ارائه‌دهندگان مدل‌های پایه در زنجیرهٔ خدمات هوش مصنوعی","title_evidence":"h1"}
+{"id":491,"source_url":"https://o491.o-xx.chatgpt.site/","title":"الزامات ممیزی سامانه‌های پرخطر و جایگاه استانداردهای فنی در مسئولیت حقوقی","title_evidence":"h1"}
+{"id":492,"source_url":"https://o492.o-xx.chatgpt.site/","title":"حفاظت از داده‌های استنباطی و تفاوت آن با داده‌های ارائه‌شده توسط کاربر","title_evidence":"h1"}
+{"id":493,"source_url":"https://o493.o-xx.chatgpt.site/","title":"اعتبار امضای زیست‌سنجی و چالش‌های انکارناپذیری در معاملات الکترونیکی","title_evidence":"h1"}
+{"id":494,"source_url":"https://o494.o-xx.chatgpt.site/","title":"حل اختلاف برخط و تضمین دادرسی منصفانه در فرایندهای پلتفرمی","title_evidence":"h1"}
+{"id":495,"source_url":"https://o495.o-xx.chatgpt.site/","title":"حمایت از افشاگران در سازمان‌های فناوری و تعارض با تعهد محرمانگی","title_evidence":"h1"}
+{"id":496,"source_url":"https://o496.o-xx.chatgpt.site/","title":"مسئولیت دولت در خرید سامانه‌های خودکار و الزامات ارزیابی اثر حقوق بنیادین","title_evidence":"h1"}
+{"id":497,"source_url":"https://o497.o-xx.chatgpt.site/","title":"حداقل دستمزد و جابه‌جایی ترکیب اشتغال میان بنگاه‌های کوچک و بزرگ","title_evidence":"h1"}
+{"id":498,"source_url":"https://o498.o-xx.chatgpt.site/","title":"بیمهٔ بیکاری و کیفیت تطابق شغلی پس از دورهٔ جست‌وجوی کار","title_evidence":"h1"}
+{"id":499,"source_url":"https://o499.o-xx.chatgpt.site/","title":"اعتبار مالیاتی درآمدی و مشارکت نیروی کار خانوارهای کم‌درآمد","title_evidence":"h1"}
+{"id":500,"source_url":"https://o500.o-xx.chatgpt.site/","title":"یارانهٔ مراقبت از کودک و عرضهٔ نیروی کار والدین دارای فرزند خردسال","title_evidence":"h1"}
+{"id":501,"source_url":"https://o501.o-xx.chatgpt.site/","title":"قابلیت حمل مزایای اجتماعی در اقتصاد پلتفرمی و تحرک شغلی","title_evidence":"h1"}
+{"id":502,"source_url":"https://o502.o-xx.chatgpt.site/","title":"مهاجرت مهارتی و اثرات سرریز دانش بر بهره‌وری بنگاه‌های محلی","title_evidence":"h1"}
+{"id":503,"source_url":"https://o503.o-xx.chatgpt.site/","title":"فرار مغزها و بازگشت مهاجران متخصص در شکل‌گیری ظرفیت نوآوری","title_evidence":"h1"}
+{"id":504,"source_url":"https://o504.o-xx.chatgpt.site/","title":"آموزش فنی‌وحرفه‌ای و تطابق مهارت با تقاضای منطقه‌ای بازار کار","title_evidence":"h1"}
+{"id":505,"source_url":"https://o505.o-xx.chatgpt.site/","title":"مدرک‌گرایی و بازده واقعی مهارت در استخدام فارغ‌التحصیلان","title_evidence":"h1"}
+{"id":506,"source_url":"https://o506.o-xx.chatgpt.site/","title":"شوک فناوری و قطبی‌شدن مشاغل در بازارهای کار محلی","title_evidence":"h1"}
+{"id":507,"source_url":"https://o507.o-xx.chatgpt.site/","title":"تمرکز کارفرمایی و قدرت چانه‌زنی نیروی کار در بازار استخدام","title_evidence":"h1"}
+{"id":508,"source_url":"https://o508.o-xx.chatgpt.site/","title":"الزام درج بازهٔ حقوق در آگهی شغلی و تغییر ترکیب متقاضیان","title_evidence":"h1"}
+{"id":509,"source_url":"https://o509.o-xx.chatgpt.site/","title":"مالیات بر زمین و رفتار احتکار دارایی در بازار شهری","title_evidence":"h1"}
+{"id":510,"source_url":"https://o510.o-xx.chatgpt.site/","title":"کنترل اجاره و عرضهٔ بلندمدت واحدهای اجاره‌ای","title_evidence":"h1"}
+{"id":511,"source_url":"https://o511.o-xx.chatgpt.site/","title":"مسکن اجتماعی و تحرک بین‌نسلی ساکنان محله‌های کم‌برخوردار","title_evidence":"h1"}
+{"id":512,"source_url":"https://o512.o-xx.chatgpt.site/","title":"سرمایه‌گذاری زیرساختی و همگرایی بهره‌وری میان مناطق","title_evidence":"h1"}
+{"id":513,"source_url":"https://o513.o-xx.chatgpt.site/","title":"تمرکززدایی مالی و کیفیت تخصیص مخارج عمومی در دولت‌های محلی","title_evidence":"h1"}
+{"id":514,"source_url":"https://o514.o-xx.chatgpt.site/","title":"بودجه‌ریزی مشارکتی و ترکیب هزینه‌های عمومی در سطح محله","title_evidence":"h1"}
+{"id":515,"source_url":"https://o515.o-xx.chatgpt.site/","title":"شفافیت تدارکات عمومی و شدت رقابت میان پیشنهاددهندگان","title_evidence":"h1"}
+{"id":516,"source_url":"https://o516.o-xx.chatgpt.site/","title":"دولت الکترونیک و هزینهٔ مبادلهٔ بنگاه‌ها برای دریافت مجوز","title_evidence":"h1"}
+{"id":517,"source_url":"https://o517.o-xx.chatgpt.site/","title":"حذف یارانهٔ انرژی و طراحی جبران هدفمند برای خانوارهای آسیب‌پذیر","title_evidence":"h1"}
+{"id":518,"source_url":"https://o518.o-xx.chatgpt.site/","title":"مالیات کربن و توزیع درآمدی بازتوزیع عواید آن","title_evidence":"h1"}
+{"id":519,"source_url":"https://o519.o-xx.chatgpt.site/","title":"یارانهٔ حمل‌ونقل عمومی و دسترسی شغلی خانوارهای پیرامونی","title_evidence":"h1"}
+{"id":520,"source_url":"https://o520.o-xx.chatgpt.site/","title":"دسترسی مالی بنگاه‌های خرد و پایداری سرمایه‌گذاری پس از دریافت اعتبار","title_evidence":"h1"}
+{"id":521,"source_url":"https://o521.o-xx.chatgpt.site/","title":"تضمین اعتباری دولت و رفتار ریسک‌پذیری بانک‌ها در وام‌دهی بنگاهی","title_evidence":"h1"}
+{"id":522,"source_url":"https://o522.o-xx.chatgpt.site/","title":"پرداخت دیجیتال و رسمی‌شدن فعالیت اقتصادی بنگاه‌های خرد","title_evidence":"h1"}
+{"id":523,"source_url":"https://o523.o-xx.chatgpt.site/","title":"اقتصاد مراقبت و ارزش‌گذاری زمان کار بدون مزد در حساب‌های رفاهی","title_evidence":"h1"}
+{"id":524,"source_url":"https://o524.o-xx.chatgpt.site/","title":"فقر چندبعدی و تفاوت نتایج سیاستی با سنجش صرفاً درآمدی","title_evidence":"h1"}
+{"id":525,"source_url":"https://o525.o-xx.chatgpt.site/","title":"شوک قیمت غذا و راهبردهای تعدیل مصرف در خانوارهای کم‌درآمد","title_evidence":"h1"}
+{"id":526,"source_url":"https://o526.o-xx.chatgpt.site/","title":"کیفیت حکمرانی محلی و اثربخشی برنامه‌های توسعهٔ منطقه‌ای","title_evidence":"h1"}
+{"id":527,"source_url":"https://o527.o-xx.chatgpt.site/","title":"قابلیت‌های پویا و بازپیکربندی منابع در مواجهه با گسست فناورانه","title_evidence":"h1"}
+{"id":528,"source_url":"https://o528.o-xx.chatgpt.site/","title":"دوگانگی اکتشاف و بهره‌برداری و طراحی ساختار سازمانی برای نوآوری","title_evidence":"h1"}
+{"id":529,"source_url":"https://o529.o-xx.chatgpt.site/","title":"وابستگی به مشتری بزرگ و تاب‌آوری استراتژیک بنگاه‌های کوچک","title_evidence":"h1"}
+{"id":530,"source_url":"https://o530.o-xx.chatgpt.site/","title":"تنوع سبد تأمین‌کنندگان و هزینهٔ انعطاف‌پذیری عملیاتی","title_evidence":"h1"}
+{"id":531,"source_url":"https://o531.o-xx.chatgpt.site/","title":"تصمیم ساخت یا خرید در فعالیت‌های داده‌محور و حفظ دانش سازمانی","title_evidence":"h1"}
+{"id":532,"source_url":"https://o532.o-xx.chatgpt.site/","title":"برون‌سپاری فرایندهای دانشی و فرسایش قابلیت‌های هسته‌ای","title_evidence":"h1"}
+{"id":533,"source_url":"https://o533.o-xx.chatgpt.site/","title":"ادغام عمودی و کنترل کیفیت در زنجیره‌های تأمین پیچیده","title_evidence":"h1"}
+{"id":534,"source_url":"https://o534.o-xx.chatgpt.site/","title":"معماری ماژولار محصول و سرعت بازطراحی پس از تغییر تقاضا","title_evidence":"h1"}
+{"id":535,"source_url":"https://o535.o-xx.chatgpt.site/","title":"پرتفوی پروژه و تخصیص سرمایه در شرایط عدم‌قطعیت راهبردی","title_evidence":"h1"}
+{"id":536,"source_url":"https://o536.o-xx.chatgpt.site/","title":"ابطال پروژهٔ شکست‌خورده و نقش حاکمیت مرحله‌ای در کاهش تشدید تعهد","title_evidence":"h1"}
+{"id":537,"source_url":"https://o537.o-xx.chatgpt.site/","title":"دفتر مدیریت پروژه و استانداردسازی بدون سرکوب انعطاف تیمی","title_evidence":"h1"}
+{"id":538,"source_url":"https://o538.o-xx.chatgpt.site/","title":"تحلیل پس از اقدام و تبدیل خطای پروژه به حافظهٔ سازمانی","title_evidence":"h1"}
+{"id":539,"source_url":"https://o539.o-xx.chatgpt.site/","title":"پیش‌بینی تقاضا و ارزش ترکیب قضاوت مدیریتی با مدل‌های آماری","title_evidence":"h1"}
+{"id":540,"source_url":"https://o540.o-xx.chatgpt.site/","title":"موجودی اطمینان و موازنهٔ سطح خدمت با هزینهٔ سرمایه","title_evidence":"h1"}
+{"id":541,"source_url":"https://o541.o-xx.chatgpt.site/","title":"مدیریت ظرفیت در خدمات و ارزش گزینهٔ انعطاف نیروی انسانی","title_evidence":"h1"}
+{"id":542,"source_url":"https://o542.o-xx.chatgpt.site/","title":"صف‌های اولویت‌دار و عدالت ادراک‌شده در تخصیص خدمت کمیاب","title_evidence":"h1"}
+{"id":543,"source_url":"https://o543.o-xx.chatgpt.site/","title":"نگهداری پیش‌بینانه و تغییر الگوی توقف تجهیزات در عملیات","title_evidence":"h1"}
+{"id":544,"source_url":"https://o544.o-xx.chatgpt.site/","title":"کیفیت دادهٔ عملیاتی و خطای تصمیم در داشبوردهای مدیریتی","title_evidence":"h1"}
+{"id":545,"source_url":"https://o545.o-xx.chatgpt.site/","title":"استانداردسازی فرایند و تنوع محلی اجرای شعب سازمان","title_evidence":"h1"}
+{"id":546,"source_url":"https://o546.o-xx.chatgpt.site/","title":"مالکیت فرایند و کاهش شکست در تحویل میان واحدی","title_evidence":"h1"}
+{"id":547,"source_url":"https://o547.o-xx.chatgpt.site/","title":"مدیریت دانش پس از ادغام شرکت‌ها و خطر از دست‌رفتن تخصص کلیدی","title_evidence":"h1"}
+{"id":548,"source_url":"https://o548.o-xx.chatgpt.site/","title":"جوامع عمل و انتقال دانش ضمنی میان واحدهای جغرافیایی","title_evidence":"h1"}
+{"id":549,"source_url":"https://o549.o-xx.chatgpt.site/","title":"استراتژی اکوسیستم و وابستگی ارزش‌آفرینی به مکمل‌های بیرونی","title_evidence":"h1"}
+{"id":550,"source_url":"https://o550.o-xx.chatgpt.site/","title":"حاکمیت پلتفرم کسب‌وکار و تعادل میان کنترل و نوآوری شرکا","title_evidence":"h1"}
+{"id":551,"source_url":"https://o551.o-xx.chatgpt.site/","title":"قیمت‌گذاری مبتنی بر ارزش و هم‌راستایی واحد فروش با توسعهٔ محصول","title_evidence":"h1"}
+{"id":552,"source_url":"https://o552.o-xx.chatgpt.site/","title":"مدیریت درآمد در خدمات ظرفیت‌محدود و تبعیض قیمتی بین‌بخشی","title_evidence":"h1"}
+{"id":553,"source_url":"https://o553.o-xx.chatgpt.site/","title":"شاخص‌های پیشرو عملکرد و کاهش رفتار بازی‌گونه پیرامون KPI","title_evidence":"h1"}
+{"id":554,"source_url":"https://o554.o-xx.chatgpt.site/","title":"پاداش تیمی و مسئلهٔ مشارکت نامتقارن در فعالیت‌های دانشی","title_evidence":"h1"}
+{"id":555,"source_url":"https://o555.o-xx.chatgpt.site/","title":"حکمرانی دادهٔ سازمانی و تعیین مالکیت کیفیت داده میان واحدها","title_evidence":"h1"}
+{"id":556,"source_url":"https://o556.o-xx.chatgpt.site/","title":"سناریونویسی راهبردی و کیفیت تصمیم سرمایه‌گذاری در عدم‌قطعیت عمیق","title_evidence":"h1"}
+{"id":557,"source_url":"https://o557.o-xx.chatgpt.site/","title":"ظرفیت اجرایی دولت و شکاف میان تصویب و اجرای سیاست عمومی","title_evidence":"h1"}
+{"id":558,"source_url":"https://o558.o-xx.chatgpt.site/","title":"طراحی نهادهای هماهنگی و حل مسئله‌های میان‌وزارتی پیچیده","title_evidence":"h1"}
+{"id":559,"source_url":"https://o559.o-xx.chatgpt.site/","title":"آزمایش سیاستی و سازوکار یادگیری تدریجی در دولت","title_evidence":"h1"}
+{"id":560,"source_url":"https://o560.o-xx.chatgpt.site/","title":"بندهای غروب در مقررات و کیفیت بازبینی پس از اجرا","title_evidence":"h1"}
+{"id":561,"source_url":"https://o561.o-xx.chatgpt.site/","title":"ارزیابی اثر مقررات و کاهش بار اداری بدون تضعیف اهداف عمومی","title_evidence":"prior-live-preview"}
+{"id":562,"source_url":"https://o562.o-xx.chatgpt.site/","title":"استفاده از شواهد در سیاست‌گذاری و نقش واحدهای میانجی دانش","title_evidence":"prior-live-preview"}
+{"id":563,"source_url":"https://o563.o-xx.chatgpt.site/","title":"سیاست‌گذاری مأموریت‌گرا و هماهنگی سرمایه‌گذاری عمومی و خصوصی","title_evidence":"prior-live-preview"}
+{"id":564,"source_url":"https://o564.o-xx.chatgpt.site/","title":"فدرالیسم رقابتی و انتشار نوآوری سیاستی میان حوزه‌های محلی","title_evidence":"prior-live-preview"}
+{"id":565,"source_url":"https://o565.o-xx.chatgpt.site/","title":"عدم تمرکز اداری و پاسخ‌گویی در ارائهٔ خدمات عمومی","title_evidence":"prior-live-preview"}
+{"id":566,"source_url":"https://o566.o-xx.chatgpt.site/","title":"استقلال نهاد تنظیم‌گر و خطر تصرف مقرراتی","title_evidence":"prior-live-preview"}
+{"id":567,"source_url":"https://o567.o-xx.chatgpt.site/","title":"درب گردان میان دولت و صنعت و اعتماد به تصمیم تنظیم‌گر","title_evidence":"prior-live-preview"}
+{"id":568,"source_url":"https://o568.o-xx.chatgpt.site/","title":"مشورت عمومی و نمایندگی نامتوازن گروه‌های ذی‌نفع","title_evidence":"prior-live-preview"}
+{"id":569,"source_url":"https://o569.o-xx.chatgpt.site/","title":"هیئت‌های شهروندی و کیفیت استدلال در تصمیم‌های پیچیدهٔ عمومی","title_evidence":"prior-live-preview"}
+{"id":570,"source_url":"https://o570.o-xx.chatgpt.site/","title":"شاخص‌های عملکرد دولت و پیامدهای ناخواستهٔ هدف‌گذاری کمّی","title_evidence":"prior-live-preview"}
+{"id":571,"source_url":"https://o571.o-xx.chatgpt.site/","title":"سیاست‌های پیش‌فرض و مرزهای مشروعیت مداخلات تلنگری","title_evidence":"prior-live-preview"}
+{"id":572,"source_url":"https://o572.o-xx.chatgpt.site/","title":"قواعد اضطراری و بازگشت‌پذیری اختیارات استثنایی پس از بحران","title_evidence":"prior-live-preview"}
+{"id":573,"source_url":"https://o573.o-xx.chatgpt.site/","title":"هماهنگی سیاستی در بحران‌های چندبخشی و مسئلهٔ فرماندهی واحد","title_evidence":"prior-live-preview"}
+{"id":574,"source_url":"https://o574.o-xx.chatgpt.site/","title":"دیپلماسی شهری و نقش شبکه‌های شهرها در مسائل فرامرزی","title_evidence":"prior-live-preview"}
+{"id":575,"source_url":"https://o575.o-xx.chatgpt.site/","title":"حکمرانی کلان‌شهری و هماهنگی خدمات در مرزهای اداری متعدد","title_evidence":"prior-live-preview"}
+{"id":576,"source_url":"https://o576.o-xx.chatgpt.site/","title":"سیاست صنعتی سبز و معیارهای انتخاب حمایت‌های موقت","title_evidence":"prior-live-preview"}
+{"id":577,"source_url":"https://o577.o-xx.chatgpt.site/","title":"خرید دولتی نوآورانه و تحریک تقاضا برای فناوری‌های نو","title_evidence":"prior-live-preview"}
+{"id":578,"source_url":"https://o578.o-xx.chatgpt.site/","title":"شفافیت الگوریتم‌های دولتی و پاسخ‌گویی دموکراتیک","title_evidence":"prior-live-preview"}
+{"id":579,"source_url":"https://o579.o-xx.chatgpt.site/","title":"بودجه‌ریزی مبتنی بر عملکرد و کیفیت تخصیص منابع عمومی","title_evidence":"prior-live-preview"}
+{"id":580,"source_url":"https://o580.o-xx.chatgpt.site/","title":"سیاست دادهٔ باز و ارزش عمومی استفادهٔ مجدد از داده‌های دولتی","title_evidence":"prior-live-preview"}
+{"id":581,"source_url":"https://o581.o-xx.chatgpt.site/","title":"اعتماد نهادی و پذیرش سیاست‌های دارای هزینهٔ کوتاه‌مدت","title_evidence":"prior-live-preview"}
+{"id":582,"source_url":"https://o582.o-xx.chatgpt.site/","title":"معماری میکروسرویس و هزینهٔ هماهنگی تراکنش‌های توزیع‌شده","title_evidence":"prior-live-preview"}
+{"id":583,"source_url":"https://o583.o-xx.chatgpt.site/","title":"مرز سرویس و کاهش وابستگی تغییرات در سامانه‌های بزرگ","title_evidence":"prior-live-preview"}
+{"id":584,"source_url":"https://o584.o-xx.chatgpt.site/","title":"بدهی فنی و زمان بازیابی تیم پس از تغییرات پرریسک","title_evidence":"prior-live-preview"}
+{"id":585,"source_url":"https://o585.o-xx.chatgpt.site/","title":"بازآرایی کد و اثر آن بر قابلیت تغییر بدون کاهش رفتار خارجی","title_evidence":"prior-live-preview"}
+{"id":586,"source_url":"https://o586.o-xx.chatgpt.site/","title":"بازبینی کد و شناسایی نقص‌های منطقی پیش از ادغام","title_evidence":"prior-live-preview"}
+{"id":587,"source_url":"https://o587.o-xx.chatgpt.site/","title":"پوشش آزمون و قدرت کشف خطا در برابر صرف درصد خطوط اجراشده","title_evidence":"prior-live-preview"}
+{"id":588,"source_url":"https://o588.o-xx.chatgpt.site/","title":"آزمون جهشی و سنجش کیفیت واقعی مجموعهٔ آزمون نرم‌افزار","title_evidence":"prior-live-preview"}
+{"id":589,"source_url":"https://o589.o-xx.chatgpt.site/","title":"آزمون مبتنی بر ویژگی و کشف حالت‌های مرزی در APIها","title_evidence":"prior-live-preview"}
+{"id":590,"source_url":"https://o590.o-xx.chatgpt.site/","title":"تحلیل ایستا و موازنهٔ خطای مثبت کاذب با کشف نقص","title_evidence":"prior-live-preview"}
+{"id":591,"source_url":"https://o591.o-xx.chatgpt.site/","title":"نوع‌دهی تدریجی و مهاجرت سامانه‌های پویا به قراردادهای صریح","title_evidence":"prior-live-preview"}
+{"id":592,"source_url":"https://o592.o-xx.chatgpt.site/","title":"قراردادهای API و سازگاری عقب‌رو در تکامل سرویس‌ها","title_evidence":"prior-live-preview"}
+{"id":593,"source_url":"https://o593.o-xx.chatgpt.site/","title":"نسخه‌بندی طرح داده و مهاجرت بدون توقف پایگاه داده","title_evidence":"prior-live-preview"}
+{"id":594,"source_url":"https://o594.o-xx.chatgpt.site/","title":"سازگاری نهایی و طراحی تجربهٔ خطا در سامانه‌های توزیع‌شده","title_evidence":"prior-live-preview"}
+{"id":595,"source_url":"https://o595.o-xx.chatgpt.site/","title":"تحمل خطا و الگوهای قطع‌کنندهٔ مدار در زنجیرهٔ سرویس","title_evidence":"prior-live-preview"}
+{"id":596,"source_url":"https://o596.o-xx.chatgpt.site/","title":"قابلیت مشاهده‌پذیری و تشخیص ریشهٔ خطا در معماری توزیع‌شده","title_evidence":"prior-live-preview"}
+{"id":597,"source_url":"https://o597.o-xx.chatgpt.site/","title":"ردیابی توزیع‌شده و هزینهٔ سربار ثبت مسیر درخواست","title_evidence":"prior-live-preview"}
+{"id":598,"source_url":"https://o598.o-xx.chatgpt.site/","title":"مهندسی قابلیت اطمینان و بودجهٔ خطا در تصمیم انتشار","title_evidence":"prior-live-preview"}
+{"id":599,"source_url":"https://o599.o-xx.chatgpt.site/","title":"انتشار تدریجی و کاهش شعاع آسیب نسخهٔ جدید","title_evidence":"prior-live-preview"}
+{"id":600,"source_url":"https://o600.o-xx.chatgpt.site/","title":"پرچم ویژگی و بدهی پیکربندی در چرخهٔ توسعه","title_evidence":"prior-live-preview"}
+{"id":601,"source_url":"https://o601.o-xx.chatgpt.site/","title":"زیرساخت به‌صورت کد و قابلیت بازتولید محیط استقرار","title_evidence":"prior-live-preview"}
+{"id":602,"source_url":"https://o602.o-xx.chatgpt.site/","title":"ساخت‌های قطعی و قابلیت تطبیق باینری خروجی با کد منبع","title_evidence":"prior-live-preview"}
+{"id":603,"source_url":"https://o603.o-xx.chatgpt.site/","title":"مدیریت وابستگی و خطر بسته‌های متروک در پروژه‌های متن‌باز","title_evidence":"prior-live-preview"}
+{"id":604,"source_url":"https://o604.o-xx.chatgpt.site/","title":"حاکمیت پروژهٔ متن‌باز و تداوم نگهداری اجزای حیاتی","title_evidence":"prior-live-preview"}
+{"id":605,"source_url":"https://o605.o-xx.chatgpt.site/","title":"تخصیص مالکیت کد و تمرکز دانش در تیم‌های نرم‌افزاری","title_evidence":"prior-live-preview"}
+{"id":606,"source_url":"https://o606.o-xx.chatgpt.site/","title":"برنامه‌نویسی جفتی و انتقال دانش در وظایف پیچیده","title_evidence":"prior-live-preview"}
+{"id":607,"source_url":"https://o607.o-xx.chatgpt.site/","title":"وقفه‌های توسعه و هزینهٔ بازیابی زمینهٔ ذهنی برنامه‌نویس","title_evidence":"prior-live-preview"}
+{"id":608,"source_url":"https://o608.o-xx.chatgpt.site/","title":"مستندسازی تصمیم معماری و کاهش فراموشی منطق طراحی","title_evidence":"prior-live-preview"}
+{"id":609,"source_url":"https://o609.o-xx.chatgpt.site/","title":"قابلیت استفادهٔ API و خطای ادغام توسط توسعه‌دهندگان ثالث","title_evidence":"prior-live-preview"}
+{"id":610,"source_url":"https://o610.o-xx.chatgpt.site/","title":"کارایی انرژی نرم‌افزار و انتخاب الگوریتم در بارهای مقیاس‌پذیر","title_evidence":"prior-live-preview"}
+{"id":611,"source_url":"https://o611.o-xx.chatgpt.site/","title":"محاسبات لبه و موازنهٔ تأخیر، حریم داده و هزینهٔ زیرساخت","title_evidence":"prior-live-preview"}
+{"id":612,"source_url":"https://o612.o-xx.chatgpt.site/","title":"ذخیره‌سازی رویدادمحور و پیچیدگی بازسازی وضعیت سامانه","title_evidence":"prior-live-preview"}
+{"id":613,"source_url":"https://o613.o-xx.chatgpt.site/","title":"کنترل همروندی خوش‌بینانه و نرخ تعارض در بارهای مشارکتی","title_evidence":"prior-live-preview"}
+{"id":614,"source_url":"https://o614.o-xx.chatgpt.site/","title":"شاخص‌گذاری پایگاه داده و موازنهٔ سرعت خواندن با هزینهٔ نوشتن","title_evidence":"prior-live-preview"}
+{"id":615,"source_url":"https://o615.o-xx.chatgpt.site/","title":"کیفیت دادهٔ ورودی و انتشار خطا در خط لوله‌های تحلیلی","title_evidence":"prior-live-preview"}
+{"id":616,"source_url":"https://o616.o-xx.chatgpt.site/","title":"مهندسی دادهٔ قراردادمحور و کنترل تغییر طرح میان تولیدکنندگان و مصرف‌کنندگان","title_evidence":"prior-live-preview"}
+{"id":617,"source_url":"https://o617.o-xx.chatgpt.site/","title":"ارزیابی خطر مدل‌های پایه و تمایز قابلیت عمومی از کاربرد پرخطر","title_evidence":"prior-live-preview"}
+{"id":618,"source_url":"https://o618.o-xx.chatgpt.site/","title":"مستندسازی منشأ دادهٔ آموزشی و قابلیت ممیزی مدل‌های مولد","title_evidence":"prior-live-preview"}
+{"id":619,"source_url":"https://o619.o-xx.chatgpt.site/","title":"کارت مدل و کفایت گزارش محدودیت‌ها برای استفاده‌کنندگان حرفه‌ای","title_evidence":"prior-live-preview"}
+{"id":620,"source_url":"https://o620.o-xx.chatgpt.site/","title":"ارزیابی پس از استقرار مدل و پایش رانش عملکرد در محیط واقعی","title_evidence":"prior-live-preview"}
+{"id":621,"source_url":"https://o621.o-xx.chatgpt.site/","title":"عدم‌قطعیت کالیبره‌شده و تصمیم‌گیری انسانی بر مبنای خروجی مدل","title_evidence":"prior-live-preview"}
+{"id":622,"source_url":"https://o622.o-xx.chatgpt.site/","title":"رد گزینه و حق مداخلهٔ انسانی در تصمیم‌های خودکار پرپیامد","title_evidence":"prior-live-preview"}
+{"id":623,"source_url":"https://o623.o-xx.chatgpt.site/","title":"سوگیری توزیعی مدل و تفاوت عملکرد میان زیرگروه‌های جمعیتی","title_evidence":"prior-live-preview"}
+{"id":624,"source_url":"https://o624.o-xx.chatgpt.site/","title":"عدالت فردی و عدالت گروهی در طراحی معیارهای تصمیم الگوریتمی","title_evidence":"prior-live-preview"}
+{"id":625,"source_url":"https://o625.o-xx.chatgpt.site/","title":"تعارض معیارهای عدالت و انتخاب هنجاری میان برابری فرصت و برابری خطا","title_evidence":"prior-live-preview"}
+{"id":626,"source_url":"https://o626.o-xx.chatgpt.site/","title":"توضیح پسینی و خطر ایجاد روایت علّی کاذب برای مدل‌های پیچیده","title_evidence":"prior-live-preview"}
+{"id":627,"source_url":"https://o627.o-xx.chatgpt.site/","title":"توضیح مقابله‌ای و قابلیت اقدام‌پذیری توصیه برای فرد متأثر","title_evidence":"prior-live-preview"}
+{"id":628,"source_url":"https://o628.o-xx.chatgpt.site/","title":"اتکاپذیری مدل در دادهٔ خارج از توزیع و تشخیص شرایط ناشناخته","title_evidence":"prior-live-preview"}
+{"id":629,"source_url":"https://o629.o-xx.chatgpt.site/","title":"حملهٔ القای دستور و مرز اعتماد به محتوای بازیابی‌شده توسط عامل هوشمند","title_evidence":"prior-live-preview"}
+{"id":630,"source_url":"https://o630.o-xx.chatgpt.site/","title":"عامل‌های خودمختار و طراحی سطوح اختیار برای اقدامات برگشت‌ناپذیر","title_evidence":"prior-live-preview"}
+{"id":631,"source_url":"https://o631.o-xx.chatgpt.site/","title":"حافظهٔ بلندمدت عامل هوشمند و خطر انباشت اطلاعات نادرست","title_evidence":"prior-live-preview"}
+{"id":632,"source_url":"https://o632.o-xx.chatgpt.site/","title":"هماهنگی چندعاملی و ظهور رفتار ناخواسته در اهداف محلی سازگار","title_evidence":"prior-live-preview"}
+{"id":633,"source_url":"https://o633.o-xx.chatgpt.site/","title":"ارزیابی بنچمارک و خطر بیش‌برازش اکوسیستم مدل به مجموعه‌های آزمون عمومی","title_evidence":"prior-live-preview"}
+{"id":634,"source_url":"https://o634.o-xx.chatgpt.site/","title":"نشت مجموعهٔ آزمون و اعتبار مقایسهٔ مدل‌های زبانی","title_evidence":"prior-live-preview"}
+{"id":635,"source_url":"https://o635.o-xx.chatgpt.site/","title":"ارزیابی انسانی خروجی مدل و سوگیری ترجیح ارزیابان","title_evidence":"prior-live-preview"}
+{"id":636,"source_url":"https://o636.o-xx.chatgpt.site/","title":"مدل داور و وابستگی ارزیابی خودکار به خانوادهٔ مدل مرجع","title_evidence":"prior-live-preview"}
+{"id":637,"source_url":"https://o637.o-xx.chatgpt.site/","title":"دادهٔ مصنوعی و حلقهٔ بازخورد افت کیفیت در آموزش نسل‌های بعدی","title_evidence":"prior-live-preview"}
+{"id":638,"source_url":"https://o638.o-xx.chatgpt.site/","title":"فشرده‌سازی مدل و حفظ قابلیت‌های ایمنی پس از کوانتش","title_evidence":"prior-live-preview"}
+{"id":639,"source_url":"https://o639.o-xx.chatgpt.site/","title":"یادگیری فدرال و موازنهٔ حریم خصوصی با ناهمگنی دادهٔ محلی","title_evidence":"prior-live-preview"}
+{"id":640,"source_url":"https://o640.o-xx.chatgpt.site/","title":"یادگیری ماشین حفظ‌کنندهٔ حریم خصوصی و هزینهٔ دقت ناشی از نویز","title_evidence":"prior-live-preview"}
+{"id":641,"source_url":"https://o641.o-xx.chatgpt.site/","title":"یادگیری علّی و محدودیت استنتاج مداخله از دادهٔ مشاهده‌ای بزرگ‌مقیاس","title_evidence":"prior-live-preview"}
+{"id":642,"source_url":"https://o642.o-xx.chatgpt.site/","title":"مدل‌های چندوجهی و ناسازگاری معنایی میان متن، تصویر و صوت","title_evidence":"prior-live-preview"}
+{"id":643,"source_url":"https://o643.o-xx.chatgpt.site/","title":"تولید بازیابی‌افزوده و نسبت کیفیت منبع با کاهش توهم مدل","title_evidence":"prior-live-preview"}
+{"id":644,"source_url":"https://o644.o-xx.chatgpt.site/","title":"ردیابی استناد در پاسخ مولد و سنجش وفاداری ادعا به منبع","title_evidence":"prior-live-preview"}
+{"id":645,"source_url":"https://o645.o-xx.chatgpt.site/","title":"هم‌ترازی مدل با سیاست سازمانی و اختلاف میان قواعد کلی و زمینهٔ کاربرد","title_evidence":"prior-live-preview"}
+{"id":646,"source_url":"https://o646.o-xx.chatgpt.site/","title":"حکمرانی داخلی هوش مصنوعی و تفکیک مسئولیت میان مالک مدل، توسعه‌دهنده و کاربر","title_evidence":"prior-live-preview"}
+{"id":647,"source_url":"https://o647.o-xx.chatgpt.site/","title":"مدل تهدید و شکست امنیتی ناشی از فرض‌های ضمنی در طراحی سامانه","title_evidence":"prior-live-preview"}
+{"id":648,"source_url":"https://o648.o-xx.chatgpt.site/","title":"اصل حداقل اختیار و کاهش دامنهٔ آسیب حساب‌های سرویس","title_evidence":"prior-live-preview"}
+{"id":649,"source_url":"https://o649.o-xx.chatgpt.site/","title":"اعتماد صفر و هزینهٔ عملیاتی احراز پیوسته در شبکه‌های سازمانی","title_evidence":"prior-live-preview"}
+{"id":650,"source_url":"https://o650.o-xx.chatgpt.site/","title":"تفکیک شبکه و مهار حرکت جانبی پس از نفوذ","title_evidence":"prior-live-preview"}
+{"id":651,"source_url":"https://o651.o-xx.chatgpt.site/","title":"مدیریت وصله و اولویت‌بندی آسیب‌پذیری بر اساس قابلیت بهره‌برداری","title_evidence":"prior-live-preview"}
+{"id":652,"source_url":"https://o652.o-xx.chatgpt.site/","title":"افشای مسئولانهٔ آسیب‌پذیری و زمان‌بندی میان پژوهشگر و فروشنده","title_evidence":"prior-live-preview"}
+{"id":653,"source_url":"https://o653.o-xx.chatgpt.site/","title":"امنیت زنجیرهٔ تأمین نرم‌افزار و اعتبارسنجی منشأ بسته‌ها","title_evidence":"prior-live-preview"}
+{"id":654,"source_url":"https://o654.o-xx.chatgpt.site/","title":"صورت‌مواد نرم‌افزار و قابلیت ردیابی مؤلفهٔ آسیب‌پذیر","title_evidence":"prior-live-preview"}
+{"id":655,"source_url":"https://o655.o-xx.chatgpt.site/","title":"امضای مصنوعات ساخت و اعتماد به خط لولهٔ تحویل نرم‌افزار","title_evidence":"prior-live-preview"}
+{"id":656,"source_url":"https://o656.o-xx.chatgpt.site/","title":"مدیریت اسرار و خطر نشت کلید در مخازن کد","title_evidence":"prior-live-preview"}
+{"id":657,"source_url":"https://o657.o-xx.chatgpt.site/","title":"چرخش کلید و تداوم خدمت در زیرساخت‌های رمزنگاری‌شده","title_evidence":"prior-live-preview"}
+{"id":658,"source_url":"https://o658.o-xx.chatgpt.site/","title":"رمزنگاری سرتاسری و چالش بازیابی قانونی حساب کاربر","title_evidence":"prior-live-preview"}
+{"id":659,"source_url":"https://o659.o-xx.chatgpt.site/","title":"احراز هویت مقاوم در برابر فیشینگ و گذار از گذرواژه به کلید عبور","title_evidence":"prior-live-preview"}
+{"id":660,"source_url":"https://o660.o-xx.chatgpt.site/","title":"مدیریت جلسه و خطر ربایش توکن در برنامه‌های وب","title_evidence":"prior-live-preview"}
+{"id":661,"source_url":"https://o661.o-xx.chatgpt.site/","title":"محدودسازی نرخ و دفاع در برابر سوءاستفادهٔ خودکار از API","title_evidence":"prior-live-preview"}
+{"id":662,"source_url":"https://o662.o-xx.chatgpt.site/","title":"ثبت امنیتی و موازنهٔ قابلیت کشف حادثه با کمینه‌سازی داده","title_evidence":"prior-live-preview"}
+{"id":663,"source_url":"https://o663.o-xx.chatgpt.site/","title":"پاسخ به حادثه و کیفیت تصمیم در نخستین ساعات نفوذ","title_evidence":"prior-live-preview"}
+{"id":664,"source_url":"https://o664.o-xx.chatgpt.site/","title":"تمرین رومیزی امنیتی و کشف شکاف نقش‌ها پیش از بحران واقعی","title_evidence":"prior-live-preview"}
+{"id":665,"source_url":"https://o665.o-xx.chatgpt.site/","title":"پشتیبان‌گیری غیرقابل‌تغییر و تاب‌آوری در برابر باج‌افزار","title_evidence":"prior-live-preview"}
+{"id":666,"source_url":"https://o666.o-xx.chatgpt.site/","title":"بازیابی پس از فاجعه و وابستگی پنهان میان سرویس‌های حیاتی","title_evidence":"prior-live-preview"}
+{"id":667,"source_url":"https://o667.o-xx.chatgpt.site/","title":"کمینه‌سازی داده و سنجش ضرورت نگهداری ویژگی‌ها در سامانه‌های تحلیلی","title_evidence":"prior-live-preview"}
+{"id":668,"source_url":"https://o668.o-xx.chatgpt.site/","title":"حریم خصوصی تفاضلی و انتخاب بودجهٔ حریم خصوصی در انتشار آمار","title_evidence":"prior-live-preview"}
+{"id":669,"source_url":"https://o669.o-xx.chatgpt.site/","title":"محاسبهٔ چندطرفهٔ امن و امکان تحلیل مشترک بدون تجمیع دادهٔ خام","title_evidence":"prior-live-preview"}
+{"id":670,"source_url":"https://o670.o-xx.chatgpt.site/","title":"اثبات دانایی صفر و کاربرد آن در احراز ویژگی بدون افشای هویت","title_evidence":"prior-live-preview"}
+{"id":671,"source_url":"https://o671.o-xx.chatgpt.site/","title":"مدیریت رضایت داده و دشواری اجرای پس‌گرفتن رضایت در سامانه‌های توزیع‌شده","title_evidence":"prior-live-preview"}
+{"id":672,"source_url":"https://o672.o-xx.chatgpt.site/","title":"کیفیت فراداده و قابلیت بازیابی منابع در مخازن نهادی","title_evidence":"prior-live-preview"}
+{"id":673,"source_url":"https://o673.o-xx.chatgpt.site/","title":"هم‌کنش‌پذیری فراداده و هزینهٔ نگاشت میان طرح‌واره‌های کتابشناختی","title_evidence":"prior-live-preview"}
+{"id":674,"source_url":"https://o674.o-xx.chatgpt.site/","title":"حل ابهام نام سازمان‌ها و ادغام رکوردهای وابستگی پژوهشی در پایگاه‌های علمی","title_evidence":"prior-live-preview"}
+{"id":675,"source_url":"https://o675.o-xx.chatgpt.site/","title":"شناسه‌های پایدار و تداوم پیوند در مهاجرت سامانه‌های اطلاعاتی","title_evidence":"prior-live-preview"}
+{"id":676,"source_url":"https://o676.o-xx.chatgpt.site/","title":"نسخه‌های مختلف اثر و مسئلهٔ هم‌ارزی رکورد در فهرست‌نویسی دیجیتال","title_evidence":"prior-live-preview"}
+{"id":677,"source_url":"https://o677.o-xx.chatgpt.site/","title":"حفظ بلندمدت فایل و خطر وابستگی به قالب‌های منسوخ","title_evidence":"prior-live-preview"}
+{"id":678,"source_url":"https://o678.o-xx.chatgpt.site/","title":"مهاجرت قالب و سنجش تمامیت معنایی آرشیو دیجیتال","title_evidence":"prior-live-preview"}
+{"id":679,"source_url":"https://o679.o-xx.chatgpt.site/","title":"اصالت دیجیتال و زنجیرهٔ نگهداری سند در آرشیوهای پژوهشی","title_evidence":"prior-live-preview"}
+{"id":680,"source_url":"https://o680.o-xx.chatgpt.site/","title":"سیاست انتخاب آرشیوی و سوگیری نهادی در آنچه برای آینده حفظ می‌شود","title_evidence":"prior-live-preview"}
+{"id":681,"source_url":"https://o681.o-xx.chatgpt.site/","title":"داده‌های پژوهشی FAIR و فاصلهٔ میان دسترس‌پذیری و استفاده‌پذیری واقعی","title_evidence":"prior-live-preview"}
+{"id":682,"source_url":"https://o682.o-xx.chatgpt.site/","title":"مدیریت واژگان کنترل‌شده و پوشش مفاهیم نوظهور در نمایه‌سازی","title_evidence":"prior-live-preview"}
+{"id":683,"source_url":"https://o683.o-xx.chatgpt.site/","title":"هستان‌شناسی حوزه‌ای و حل ابهام معنایی در بازیابی تخصصی","title_evidence":"prior-live-preview"}
+{"id":684,"source_url":"https://o684.o-xx.chatgpt.site/","title":"جست‌وجوی اکتشافی و طراحی مسیر کشف برای پرسش‌های نامشخص","title_evidence":"prior-live-preview"}
+{"id":685,"source_url":"https://o685.o-xx.chatgpt.site/","title":"ارزیابی ارتباط نتایج و تفاوت قضاوت متخصص با کاربر عمومی","title_evidence":"prior-live-preview"}
+{"id":686,"source_url":"https://o686.o-xx.chatgpt.site/","title":"تحلیل استنادی و حساسیت رتبه‌بندی پژوهشگر به پوشش پایگاه داده","title_evidence":"prior-live-preview"}
+{"id":687,"source_url":"https://o687.o-xx.chatgpt.site/","title":"خوداستنادی و اثر آن بر شاخص‌های اثرگذاری فردی و مجله‌ای","title_evidence":"prior-live-preview"}
+{"id":688,"source_url":"https://o688.o-xx.chatgpt.site/","title":"نرمال‌سازی رشته‌ای استناد و امکان مقایسهٔ حوزه‌های با سنت انتشار متفاوت","title_evidence":"prior-live-preview"}
+{"id":689,"source_url":"https://o689.o-xx.chatgpt.site/","title":"آلتمتریکس و تفاوت توجه آنلاین با اثر علمی بلندمدت","title_evidence":"prior-live-preview"}
+{"id":690,"source_url":"https://o690.o-xx.chatgpt.site/","title":"شبکهٔ هم‌تألیفی و سنجش نقش واسطه‌ای پژوهشگران در انتقال دانش","title_evidence":"prior-live-preview"}
+{"id":691,"source_url":"https://o691.o-xx.chatgpt.site/","title":"کشف ادبیات مرتبط و سوگیری الگوریتم توصیه‌گر در مرور پژوهش","title_evidence":"prior-live-preview"}
+{"id":692,"source_url":"https://o692.o-xx.chatgpt.site/","title":"بی‌عدالتی معرفتی و اعتبارزدایی از گواهی گروه‌های کم‌قدرت","title_evidence":"prior-live-preview"}
+{"id":693,"source_url":"https://o693.o-xx.chatgpt.site/","title":"فضیلت معرفتی و مسئولیت فرد در مواجهه با اطلاعات متعارض","title_evidence":"prior-live-preview"}
+{"id":694,"source_url":"https://o694.o-xx.chatgpt.site/","title":"اعتماد معرفتی به متخصصان و شرایط عقلانی واگذاری داوری","title_evidence":"prior-live-preview"}
+{"id":695,"source_url":"https://o695.o-xx.chatgpt.site/","title":"اختلاف متخصصان و معیار تصمیم عقلانی برای غیرمتخصص","title_evidence":"prior-live-preview"}
+{"id":696,"source_url":"https://o696.o-xx.chatgpt.site/","title":"شهادت جمعی و امکان انتساب باور به نهادهای پیچیده","title_evidence":"prior-live-preview"}
+{"id":697,"source_url":"https://o697.o-xx.chatgpt.site/","title":"نادانی ساختاری و مسئولیت اخلاقی سازمان در ندانستن قابل‌پیشگیری","title_evidence":"prior-live-preview"}
+{"id":698,"source_url":"https://o698.o-xx.chatgpt.site/","title":"ابهام اخلاقی و تصمیم‌گیری در تعارض ارزش‌های غیرقابل‌تقلیل","title_evidence":"prior-live-preview"}
+{"id":699,"source_url":"https://o699.o-xx.chatgpt.site/","title":"اصل احتیاط و تصمیم عمومی در شرایط عدم‌قطعیت شدید","title_evidence":"prior-live-preview"}
+{"id":700,"source_url":"https://o700.o-xx.chatgpt.site/","title":"اخلاق پیش‌بینی و مسئولیت ناشی از برآوردهای پرخطا اما اثرگذار","title_evidence":"prior-live-preview"}
+{"id":701,"source_url":"https://o701.o-xx.chatgpt.site/","title":"مسئولیت جمعی و توزیع تقصیر در سامانه‌های چندکنشگری","title_evidence":"prior-live-preview"}
+{"id":702,"source_url":"https://o702.o-xx.chatgpt.site/","title":"خودمختاری رابطه‌ای و حدود رضایت در شرایط وابستگی اجتماعی","title_evidence":"prior-live-preview"}
+{"id":703,"source_url":"https://o703.o-xx.chatgpt.site/","title":"دستکاری انتخاب و مرز اخلاقی طراحی معماری تصمیم","title_evidence":"prior-live-preview"}
+{"id":704,"source_url":"https://o704.o-xx.chatgpt.site/","title":"حریم خصوصی به‌مثابه زمینه و تفاوت هنجار افشا میان موقعیت‌ها","title_evidence":"prior-live-preview"}
+{"id":705,"source_url":"https://o705.o-xx.chatgpt.site/","title":"هویت شخصی و تداوم مسئولیت در محیط‌های دیجیتال","title_evidence":"prior-live-preview"}
+{"id":706,"source_url":"https://o706.o-xx.chatgpt.site/","title":"مالکیت اطلاعات و نقد تلقی داده به‌مثابه دارایی قابل‌انتقال","title_evidence":"prior-live-preview"}
+{"id":707,"source_url":"https://o707.o-xx.chatgpt.site/","title":"عدالت بین‌نسلی و وزن اخلاقی منافع افراد آینده","title_evidence":"prior-live-preview"}
+{"id":708,"source_url":"https://o708.o-xx.chatgpt.site/","title":"ارزش گزینه و اخلاق حفظ امکان انتخاب برای نسل‌های بعد","title_evidence":"prior-live-preview"}
+{"id":709,"source_url":"https://o709.o-xx.chatgpt.site/","title":"اخلاق مراقبت و نقد بی‌طرفی در تخصیص منابع محدود","title_evidence":"prior-live-preview"}
+{"id":710,"source_url":"https://o710.o-xx.chatgpt.site/","title":"تعارض نقش حرفه‌ای و الزام اخلاقی افشای خطای نهادی","title_evidence":"prior-live-preview"}
+{"id":711,"source_url":"https://o711.o-xx.chatgpt.site/","title":"اخلاق پژوهش مشارکتی و توزیع قدرت در تعریف پرسش علمی","title_evidence":"prior-live-preview"}
+{"id":712,"source_url":"https://o712.o-xx.chatgpt.site/","title":"ساخت اطلاعات و ترتیب واژه در برجسته‌سازی موضوع و کانون جمله","title_evidence":"prior-live-preview"}
+{"id":713,"source_url":"https://o713.o-xx.chatgpt.site/","title":"انسجام ارجاعی و دشواری پردازش ضمیر در متن‌های چندمرجعی","title_evidence":"prior-live-preview"}
+{"id":714,"source_url":"https://o714.o-xx.chatgpt.site/","title":"نشانگرهای گفتمانی و استنتاج رابطهٔ علّی میان بندها","title_evidence":"prior-live-preview"}
+{"id":715,"source_url":"https://o715.o-xx.chatgpt.site/","title":"حذف نحوی و بازیابی ساختار ضمنی در فهم جمله","title_evidence":"prior-live-preview"}
+{"id":716,"source_url":"https://o716.o-xx.chatgpt.site/","title":"ابهام دامنهٔ کمیت‌نماها و تفاوت تفسیر در زبان طبیعی","title_evidence":"prior-live-preview"}
+{"id":717,"source_url":"https://o717.o-xx.chatgpt.site/","title":"استعارهٔ مفهومی و تغییر قاب معنایی در گفتمان تخصصی","title_evidence":"prior-live-preview"}
+{"id":718,"source_url":"https://o718.o-xx.chatgpt.site/","title":"کنایه و نقش دانش مشترک در استنتاج معنای غیرصریح","title_evidence":"prior-live-preview"}
+{"id":719,"source_url":"https://o719.o-xx.chatgpt.site/","title":"ادب زبانی و انتخاب راهبرد درخواست در روابط نامتقارن","title_evidence":"prior-live-preview"}
+{"id":720,"source_url":"https://o720.o-xx.chatgpt.site/","title":"تغییر زبانی و انتشار نوآوری واژگانی در شبکه‌های اجتماعی","title_evidence":"prior-live-preview"}
+{"id":721,"source_url":"https://o721.o-xx.chatgpt.site/","title":"تماس زبانی و قرض‌گیری ساختاری در جوامع دوزبانه","title_evidence":"prior-live-preview"}
+{"id":722,"source_url":"https://o722.o-xx.chatgpt.site/","title":"استانداردسازی نوشتار و حذف تنوع گویشی در منابع آموزشی","title_evidence":"prior-live-preview"}
+{"id":723,"source_url":"https://o723.o-xx.chatgpt.site/","title":"پیکرهٔ متوازن و سوگیری برآورد فراوانی در پژوهش زبان","title_evidence":"prior-live-preview"}
+{"id":724,"source_url":"https://o724.o-xx.chatgpt.site/","title":"برچسب‌گذاری نحوی و انتقال خطا از دادهٔ آموزشی به مدل","title_evidence":"prior-live-preview"}
+{"id":725,"source_url":"https://o725.o-xx.chatgpt.site/","title":"تشخیص موجودیت نامدار و ابهام نام‌های چندمعنا در متون فارسی","title_evidence":"prior-live-preview"}
+{"id":726,"source_url":"https://o726.o-xx.chatgpt.site/","title":"حل هم‌مرجعی و اثر فاصلهٔ متنی بر تعیین مرجع","title_evidence":"prior-live-preview"}
+{"id":727,"source_url":"https://o727.o-xx.chatgpt.site/","title":"بازیابی معنایی و تفاوت تطابق واژگانی با شباهت مفهومی","title_evidence":"prior-live-preview"}
+{"id":728,"source_url":"https://o728.o-xx.chatgpt.site/","title":"خلاصه‌سازی خودکار و سنجش حفظ ادعاهای کلیدی متن مبدأ","title_evidence":"prior-live-preview"}
+{"id":729,"source_url":"https://o729.o-xx.chatgpt.site/","title":"ترجمهٔ ماشینی و ارزیابی حفظ سطح رسمیت و لحن","title_evidence":"prior-live-preview"}
+{"id":730,"source_url":"https://o730.o-xx.chatgpt.site/","title":"مدل‌سازی زبان کم‌منبع و ارزش دادهٔ موازی محدود اما باکیفیت","title_evidence":"prior-live-preview"}
+{"id":731,"source_url":"https://o731.o-xx.chatgpt.site/","title":"ارزیابی مدل زبانی فارسی و حساسیت نتایج به گونه‌های املایی","title_evidence":"prior-live-preview"}
+{"id":732,"source_url":"https://o732.o-xx.chatgpt.site/","title":"تاریخ زیرساخت شهری و شکل‌گیری نابرابری دسترسی در دوره‌های توسعه","title_evidence":"prior-live-preview"}
+{"id":733,"source_url":"https://o733.o-xx.chatgpt.site/","title":"تاریخ اداری و تحول فناوری‌های ثبت و بایگانی دولت","title_evidence":"prior-live-preview"}
+{"id":734,"source_url":"https://o734.o-xx.chatgpt.site/","title":"تاریخ کار و تغییر مهارت‌های حرفه‌ای در گذارهای فناورانه","title_evidence":"prior-live-preview"}
+{"id":735,"source_url":"https://o735.o-xx.chatgpt.site/","title":"تاریخ مصرف و ظهور فرهنگ اعتباری در زندگی روزمره","title_evidence":"prior-live-preview"}
+{"id":736,"source_url":"https://o736.o-xx.chatgpt.site/","title":"تاریخ آموزش عالی و دگرگونی معیارهای منزلت دانشگاهی","title_evidence":"prior-live-preview"}
+{"id":737,"source_url":"https://o737.o-xx.chatgpt.site/","title":"تاریخ رسانه و تغییر ریتم گردش خبر با ورود فناوری‌های نو","title_evidence":"prior-live-preview"}
+{"id":738,"source_url":"https://o738.o-xx.chatgpt.site/","title":"تاریخ استانداردسازی و نقش اندازه‌گیری در حکمرانی مدرن","title_evidence":"prior-live-preview"}
+{"id":739,"source_url":"https://o739.o-xx.chatgpt.site/","title":"تاریخ آمار رسمی و ساخت طبقه‌بندی‌های جمعیتی","title_evidence":"prior-live-preview"}
+{"id":740,"source_url":"https://o740.o-xx.chatgpt.site/","title":"تاریخ نقشه‌کشی و سیاست بازنمایی فضاهای مرزی","title_evidence":"prior-live-preview"}
+{"id":741,"source_url":"https://o741.o-xx.chatgpt.site/","title":"تاریخ شرکت‌ها و تحول اشکال حاکمیت بنگاه","title_evidence":"prior-live-preview"}
+{"id":742,"source_url":"https://o742.o-xx.chatgpt.site/","title":"تاریخ حقوق مالکیت فکری و سازگاری آن با فناوری تکثیر","title_evidence":"prior-live-preview"}
+{"id":743,"source_url":"https://o743.o-xx.chatgpt.site/","title":"حافظهٔ نهادی و بازسازی روایت بحران در اسناد سازمانی","title_evidence":"prior-live-preview"}
+{"id":744,"source_url":"https://o744.o-xx.chatgpt.site/","title":"آرشیوهای حذف‌شده و روش‌شناسی مطالعهٔ غیاب در تاریخ","title_evidence":"prior-live-preview"}
+{"id":745,"source_url":"https://o745.o-xx.chatgpt.site/","title":"فرهنگ مادی فناوری و معنای اجتماعی ابزارهای منسوخ","title_evidence":"prior-live-preview"}
+{"id":746,"source_url":"https://o746.o-xx.chatgpt.site/","title":"تاریخ آینده‌نگری و نقش سناریوها در برنامه‌ریزی دولت و صنعت","title_evidence":"prior-live-preview"}
+{"id":747,"source_url":"https://o747.o-xx.chatgpt.site/","title":"کاربری مختلط و تغییر الگوی سفر در توسعه‌های پیرامون ایستگاه","title_evidence":"prior-live-preview"}
+{"id":748,"source_url":"https://o748.o-xx.chatgpt.site/","title":"تراکم مبتنی بر حمل‌ونقل عمومی و موازنهٔ دسترسی با فشار بازار مسکن","title_evidence":"prior-live-preview"}
+{"id":749,"source_url":"https://o749.o-xx.chatgpt.site/","title":"کدهای فرم‌محور و کیفیت پیوستگی جبههٔ خیابان","title_evidence":"prior-live-preview"}
+{"id":750,"source_url":"https://o750.o-xx.chatgpt.site/","title":"توسعهٔ میان‌افزا و ظرفیت زیرساخت محله‌های تثبیت‌شده","title_evidence":"prior-live-preview"}
+{"id":751,"source_url":"https://o751.o-xx.chatgpt.site/","title":"بازاستفادهٔ تطبیقی بنا و موازنهٔ حفاظت میراث با عملکرد جدید","title_evidence":"prior-live-preview"}
+{"id":752,"source_url":"https://o752.o-xx.chatgpt.site/","title":"ارزیابی پس از بهره‌برداری و فاصلهٔ عملکرد واقعی ساختمان از طراحی","title_evidence":"prior-live-preview"}
+{"id":753,"source_url":"https://o753.o-xx.chatgpt.site/","title":"طراحی برای تغییرپذیری و افزایش عمر مفید ساختمان‌های عمومی","title_evidence":"prior-live-preview"}
+{"id":754,"source_url":"https://o754.o-xx.chatgpt.site/","title":"مدولاریتی ساختمانی و قابلیت تعمیر اجزای پرمصرف","title_evidence":"prior-live-preview"}
+{"id":755,"source_url":"https://o755.o-xx.chatgpt.site/","title":"طراحی همگانی و ادغام نیازهای دسترس‌پذیری از مرحلهٔ مفهوم","title_evidence":"prior-live-preview"}
+{"id":756,"source_url":"https://o756.o-xx.chatgpt.site/","title":"مسکن افزایشی و امکان سازگاری واحد با تغییر چرخهٔ زندگی خانوار","title_evidence":"prior-live-preview"}
+{"id":757,"source_url":"https://o757.o-xx.chatgpt.site/","title":"فضاهای نیمه‌عمومی و تنظیم مرز مالکیت در مجتمع‌های مسکونی","title_evidence":"prior-live-preview"}
+{"id":758,"source_url":"https://o758.o-xx.chatgpt.site/","title":"زیرساخت سبز-آبی و یکپارچه‌سازی مدیریت رواناب با فضای عمومی","title_evidence":"prior-live-preview"}
+{"id":759,"source_url":"https://o759.o-xx.chatgpt.site/","title":"خیابان کامل و تعارض تخصیص فضا میان حرکت، توقف و فعالیت محلی","title_evidence":"prior-live-preview"}
+{"id":760,"source_url":"https://o760.o-xx.chatgpt.site/","title":"پارکینگ‌زدایی و بازتخصیص فضای خیابان در مراکز شهری","title_evidence":"prior-live-preview"}
+{"id":761,"source_url":"https://o761.o-xx.chatgpt.site/","title":"منطقه‌بندی مبتنی بر عملکرد و کنترل پیامد به‌جای نوع کاربری","title_evidence":"prior-live-preview"}
+{"id":762,"source_url":"https://o762.o-xx.chatgpt.site/","title":"حق توسعه و ابزارهای انتقال تراکم برای حفاظت از اراضی حساس","title_evidence":"prior-live-preview"}
+{"id":763,"source_url":"https://o763.o-xx.chatgpt.site/","title":"بانک زمین و مداخلهٔ عمومی در بازفعال‌سازی قطعات رهاشده","title_evidence":"prior-live-preview"}
+{"id":764,"source_url":"https://o764.o-xx.chatgpt.site/","title":"ارزش‌افزودهٔ زمین و تأمین مالی زیرساخت ناشی از توسعه","title_evidence":"prior-live-preview"}
+{"id":765,"source_url":"https://o765.o-xx.chatgpt.site/","title":"طراحی خدمات شهری و یکپارچه‌سازی نقاط تماس حضوری و دیجیتال","title_evidence":"prior-live-preview"}
+{"id":766,"source_url":"https://o766.o-xx.chatgpt.site/","title":"پژوهش طراحی و ترجمهٔ نیازهای رفتاری به برنامهٔ فیزیکی پروژه","title_evidence":"prior-live-preview"}
+{"id":767,"source_url":"https://o767.o-xx.chatgpt.site/","title":"کیفیت سود و پایداری اقلام تعهدی در پیش‌بینی جریان نقدی","title_evidence":"prior-live-preview"}
+{"id":768,"source_url":"https://o768.o-xx.chatgpt.site/","title":"محافظه‌کاری حسابداری و زمان‌بندی شناسایی زیان در بنگاه‌های پرریسک","title_evidence":"prior-live-preview"}
+{"id":769,"source_url":"https://o769.o-xx.chatgpt.site/","title":"مدیریت سود واقعی و هزینهٔ بلندمدت کاهش مخارج اختیاری","title_evidence":"prior-live-preview"}
+{"id":770,"source_url":"https://o770.o-xx.chatgpt.site/","title":"ارزش منصفانه و حساسیت گزارشگری به بازارهای کم‌عمق","title_evidence":"prior-live-preview"}
+{"id":771,"source_url":"https://o771.o-xx.chatgpt.site/","title":"افشای ریسک و قابلیت مقایسهٔ شرکت‌ها در گزارش‌های سالانه","title_evidence":"prior-live-preview"}
+{"id":772,"source_url":"https://o772.o-xx.chatgpt.site/","title":"گزارشگری بخش‌ها و شفافیت عملکرد واحدهای متنوع شرکت","title_evidence":"prior-live-preview"}
+{"id":773,"source_url":"https://o773.o-xx.chatgpt.site/","title":"گزارشگری پایداری و پیوند شاخص‌های غیرمالی با تصمیم سرمایه‌گذار","title_evidence":"prior-live-preview"}
+{"id":774,"source_url":"https://o774.o-xx.chatgpt.site/","title":"اطمینان‌بخشی مستقل بر گزارش‌های پایداری و اعتبار اطلاعات","title_evidence":"prior-live-preview"}
+{"id":775,"source_url":"https://o775.o-xx.chatgpt.site/","title":"کمیتهٔ حسابرسی و کیفیت نظارت بر برآوردهای حسابداری","title_evidence":"prior-live-preview"}
+{"id":776,"source_url":"https://o776.o-xx.chatgpt.site/","title":"استقلال حسابرس و تهدید وابستگی اقتصادی به مشتری بزرگ","title_evidence":"prior-live-preview"}
+{"id":777,"source_url":"https://o777.o-xx.chatgpt.site/","title":"چرخش حسابرس و موازنهٔ استقلال با از دست‌رفتن دانش مشتری","title_evidence":"prior-live-preview"}
+{"id":778,"source_url":"https://o778.o-xx.chatgpt.site/","title":"تمرکز مالکیت و نظارت بر معاملات اشخاص وابسته","title_evidence":"prior-live-preview"}
+{"id":779,"source_url":"https://o779.o-xx.chatgpt.site/","title":"مالکیت نهادی و افق سرمایه‌گذاری در تصمیم‌های تحقیق و توسعه","title_evidence":"prior-live-preview"}
+{"id":780,"source_url":"https://o780.o-xx.chatgpt.site/","title":"ساختار دوگانهٔ سهام و فاصلهٔ حق کنترل از حق جریان نقدی","title_evidence":"prior-live-preview"}
+{"id":781,"source_url":"https://o781.o-xx.chatgpt.site/","title":"جبران خدمات مدیران و حساسیت پاداش به ریسک نامتقارن","title_evidence":"prior-live-preview"}
+{"id":782,"source_url":"https://o782.o-xx.chatgpt.site/","title":"بازخرید سهام و پیامد آن برای سرمایه‌گذاری واقعی شرکت","title_evidence":"prior-live-preview"}
+{"id":783,"source_url":"https://o783.o-xx.chatgpt.site/","title":"سیاست تقسیم سود و نقش محدودیت مالی در تعهد پرداخت","title_evidence":"prior-live-preview"}
+{"id":784,"source_url":"https://o784.o-xx.chatgpt.site/","title":"سررسید بدهی و ریسک تأمین مالی مجدد در دوره‌های تنش","title_evidence":"prior-live-preview"}
+{"id":785,"source_url":"https://o785.o-xx.chatgpt.site/","title":"پوشش ریسک ارزی و هم‌ترازی آن با مواجههٔ عملیاتی شرکت","title_evidence":"prior-live-preview"}
+{"id":786,"source_url":"https://o786.o-xx.chatgpt.site/","title":"هزینهٔ سرمایه و ارزش اطلاعات ناشی از بهبود شفافیت گزارشگری","title_evidence":"prior-live-preview"}
+{"id":787,"source_url":"https://o787.o-xx.chatgpt.site/","title":"اعتبارسنجی مسئله و کاهش خطای ساخت محصول پیش از کشف نیاز واقعی","title_evidence":"prior-live-preview"}
+{"id":788,"source_url":"https://o788.o-xx.chatgpt.site/","title":"آزمایش حداقل محصول و تفکیک یادگیری واقعی از سنجه‌های نمایشی","title_evidence":"prior-live-preview"}
+{"id":789,"source_url":"https://o789.o-xx.chatgpt.site/","title":"چرخش مدل کسب‌وکار و معیار تصمیم برای ترک فرض اولیه","title_evidence":"prior-live-preview"}
+{"id":790,"source_url":"https://o790.o-xx.chatgpt.site/","title":"سرمایهٔ خطرپذیر و مرحله‌بندی تأمین مالی تحت عدم‌قطعیت فناورانه","title_evidence":"prior-live-preview"}
+{"id":791,"source_url":"https://o791.o-xx.chatgpt.site/","title":"سرمایه‌گذار فرشته و ارزش شبکه‌ای فراتر از تأمین سرمایه","title_evidence":"prior-live-preview"}
+{"id":792,"source_url":"https://o792.o-xx.chatgpt.site/","title":"شتاب‌دهنده و اثر انتخاب اولیه بر ارزیابی موفقیت برنامه","title_evidence":"prior-live-preview"}
+{"id":793,"source_url":"https://o793.o-xx.chatgpt.site/","title":"کارآفرینی دانشگاهی و تعارض نقش پژوهشگر با تجاری‌سازی","title_evidence":"prior-live-preview"}
+{"id":794,"source_url":"https://o794.o-xx.chatgpt.site/","title":"عنوان پیش‌نمایش دریافت نشد (HTTP 401)","title_evidence":"prior-live-preview"}
+{"id":795,"source_url":"https://o795.o-xx.chatgpt.site/","title":"نوآوری باز و خطر نشت دانش در همکاری با شرکای بیرونی","title_evidence":"prior-live-preview"}
+{"id":796,"source_url":"https://o796.o-xx.chatgpt.site/","title":"مالکیت مشترک اختراع و دشواری هماهنگی در تجاری‌سازی","title_evidence":"prior-live-preview"}
+{"id":797,"source_url":"https://o797.o-xx.chatgpt.site/","title":"استاندارد باز و شکل‌گیری بازار مکمل‌ها پیرامون فناوری","title_evidence":"prior-live-preview"}
+{"id":798,"source_url":"https://o798.o-xx.chatgpt.site/","title":"اثر شبکه‌ای و مسئلهٔ شروع سرد در پلتفرم‌های دوسویه","title_evidence":"prior-live-preview"}
+{"id":799,"source_url":"https://o799.o-xx.chatgpt.site/","title":"بازار اولیهٔ محدود و راهبرد ورود برای فناوری‌های نوظهور","title_evidence":"prior-live-preview"}
+{"id":800,"source_url":"https://o800.o-xx.chatgpt.site/","title":"شکست کارآفرینانه و بازیابی سرمایهٔ انسانی برای تلاش بعدی","title_evidence":"prior-live-preview"}
+{"id":801,"source_url":"https://o801.o-xx.chatgpt.site/","title":"جانشینی بنیان‌گذار و گذار حاکمیت در مرحلهٔ رشد شرکت نوپا","title_evidence":"prior-live-preview"}
+{"id":802,"source_url":"https://o802.o-xx.chatgpt.site/","title":"ظرفیت برد مقصد و مدیریت ازدحام در جاذبه‌های شهری","title_evidence":"prior-live-preview"}
+{"id":803,"source_url":"https://o803.o-xx.chatgpt.site/","title":"مالیات گردشگری و تخصیص درآمد برای کاهش فشار بر خدمات محلی","title_evidence":"prior-live-preview"}
+{"id":804,"source_url":"https://o804.o-xx.chatgpt.site/","title":"اجارهٔ کوتاه‌مدت و تغییر ساختار عرضهٔ مسکن در مقصد گردشگری","title_evidence":"prior-live-preview"}
+{"id":805,"source_url":"https://o805.o-xx.chatgpt.site/","title":"گردشگری رویداد و ماندگاری منافع اقتصادی پس از پایان رویداد","title_evidence":"prior-live-preview"}
+{"id":806,"source_url":"https://o806.o-xx.chatgpt.site/","title":"گردشگری میراث و موازنهٔ اصالت تجربه با تجاری‌سازی","title_evidence":"prior-live-preview"}
+{"id":807,"source_url":"https://o807.o-xx.chatgpt.site/","title":"مدیریت درآمد هتل و اثر محدودیت‌های لغو بر الگوی رزرو","title_evidence":"prior-live-preview"}
+{"id":808,"source_url":"https://o808.o-xx.chatgpt.site/","title":"پیش‌بینی عدم حضور مهمان و بیش‌فروشی کنترل‌شدهٔ اتاق","title_evidence":"prior-live-preview"}
+{"id":809,"source_url":"https://o809.o-xx.chatgpt.site/","title":"استاندارد خدمت و فضای اختیار کارکنان برای بازیابی تجربهٔ مهمان","title_evidence":"prior-live-preview"}
+{"id":810,"source_url":"https://o810.o-xx.chatgpt.site/","title":"تاب‌آوری مقصد و بازگشت تقاضا پس از شوک‌های بیرونی","title_evidence":"prior-live-preview"}
+{"id":811,"source_url":"https://o811.o-xx.chatgpt.site/","title":"زنجیرهٔ ارزش گردشگری و سهم کسب‌وکارهای محلی از هزینهٔ بازدیدکننده","title_evidence":"prior-live-preview"}
+{"id":812,"source_url":"https://o812.o-xx.chatgpt.site/","title":"قیمت‌گذاری ازدحام و بازتوزیع زمان سفر میان گروه‌های درآمدی","title_evidence":"prior-live-preview"}
+{"id":813,"source_url":"https://o813.o-xx.chatgpt.site/","title":"یکپارچه‌سازی کرایه و هزینهٔ جابه‌جایی میان شیوه‌های حمل‌ونقل","title_evidence":"prior-live-preview"}
+{"id":814,"source_url":"https://o814.o-xx.chatgpt.site/","title":"اولویت اتوبوس در تقاطع و موازنهٔ سرعت حمل عمومی با تأخیر سایر وسایل","title_evidence":"prior-live-preview"}
+{"id":815,"source_url":"https://o815.o-xx.chatgpt.site/","title":"مدیریت حاشیهٔ خیابان و رقابت میان بارگیری، توقف و جابه‌جایی مسافر","title_evidence":"prior-live-preview"}
+{"id":816,"source_url":"https://o816.o-xx.chatgpt.site/","title":"تحویل آخرین‌مایل و طراحی نقاط تجمیع بسته در محله‌های پرتراکم","title_evidence":"prior-live-preview"}
+{"id":817,"source_url":"https://o817.o-xx.chatgpt.site/","title":"مسیریابی پویا و پایداری برنامه در برابر نوسان زمان سفر","title_evidence":"prior-live-preview"}
+{"id":818,"source_url":"https://o818.o-xx.chatgpt.site/","title":"اشتراک ظرفیت بار و کاهش سفر خالی در ناوگان‌های کوچک","title_evidence":"prior-live-preview"}
+{"id":819,"source_url":"https://o819.o-xx.chatgpt.site/","title":"تنوع تأمین و سنجش ریسک وابستگی به گره‌های بحرانی زنجیره","title_evidence":"prior-live-preview"}
+{"id":820,"source_url":"https://o820.o-xx.chatgpt.site/","title":"دیدپذیری چندلایهٔ تأمین‌کننده و کشف ریسک فراتر از تأمین‌کنندهٔ مستقیم","title_evidence":"prior-live-preview"}
+{"id":821,"source_url":"https://o821.o-xx.chatgpt.site/","title":"زمان بازیابی زنجیره و ارزش موجودی راهبردی پس از اختلال","title_evidence":"prior-live-preview"}
+{"id":822,"source_url":"https://o822.o-xx.chatgpt.site/","title":"قراردادهای انعطاف‌پذیر تأمین و تقسیم ریسک نوسان تقاضا","title_evidence":"prior-live-preview"}
+{"id":823,"source_url":"https://o823.o-xx.chatgpt.site/","title":"رهگیری منشأ کالا و هزینهٔ اعتبارسنجی داده در زنجیرهٔ چندشرکتی","title_evidence":"prior-live-preview"}
+{"id":824,"source_url":"https://o824.o-xx.chatgpt.site/","title":"لجستیک معکوس و اقتصاد جمع‌آوری محصول در پایان عمر","title_evidence":"prior-live-preview"}
+{"id":825,"source_url":"https://o825.o-xx.chatgpt.site/","title":"شبکهٔ توزیع چندکاناله و تعارض موجودی میان فروشگاه و فروش آنلاین","title_evidence":"prior-live-preview"}
+{"id":826,"source_url":"https://o826.o-xx.chatgpt.site/","title":"مکان‌یابی مرکز توزیع و موازنهٔ هزینهٔ حمل با تاب‌آوری شبکه","title_evidence":"prior-live-preview"}
+{"id":827,"source_url":"https://o827.o-xx.chatgpt.site/","title":"عدالت رویه‌ای پلیس و همکاری داوطلبانهٔ شهروندان در تحقیقات","title_evidence":"prior-live-preview"}
+{"id":828,"source_url":"https://o828.o-xx.chatgpt.site/","title":"تصمیم پیش از محاکمه و نقش ارزیابی ریسک در بازداشت موقت","title_evidence":"prior-live-preview"}
+{"id":829,"source_url":"https://o829.o-xx.chatgpt.site/","title":"جایگزین‌های حبس و تداوم پیوند شغلی و خانوادگی محکومان","title_evidence":"prior-live-preview"}
+{"id":830,"source_url":"https://o830.o-xx.chatgpt.site/","title":"بازگشت از زندان و اثر موانع اداری بر ادغام اجتماعی","title_evidence":"prior-live-preview"}
+{"id":831,"source_url":"https://o831.o-xx.chatgpt.site/","title":"برچسب سابقهٔ کیفری و دسترسی به بازار کار پس از محکومیت","title_evidence":"prior-live-preview"}
+{"id":832,"source_url":"https://o832.o-xx.chatgpt.site/","title":"عدالت ترمیمی و کیفیت توافق جبران میان بزه‌دیده و بزهکار","title_evidence":"prior-live-preview"}
+{"id":833,"source_url":"https://o833.o-xx.chatgpt.site/","title":"پلیس مسئله‌محور و پایداری کاهش جرم پس از تغییر شرایط محیطی","title_evidence":"prior-live-preview"}
+{"id":834,"source_url":"https://o834.o-xx.chatgpt.site/","title":"تمرکز مکانی جرم و خطر جابه‌جایی جرم به محدوده‌های مجاور","title_evidence":"prior-live-preview"}
+{"id":835,"source_url":"https://o835.o-xx.chatgpt.site/","title":"تحلیل پیش‌بینانهٔ جرم و سوگیری ناشی از داده‌های تاریخی ثبت پلیس","title_evidence":"prior-live-preview"}
+{"id":836,"source_url":"https://o836.o-xx.chatgpt.site/","title":"شفافیت دادستانی و قابلیت ارزیابی ثبات تصمیم‌های تعقیب","title_evidence":"prior-live-preview"}
+{"id":837,"source_url":"https://o837.o-xx.chatgpt.site/","title":"بازار مجوز انتشار و ثبات سیگنال قیمت برای سرمایه‌گذاری کم‌کربن","title_evidence":"prior-live-preview"}
+{"id":838,"source_url":"https://o838.o-xx.chatgpt.site/","title":"سقف و کف قیمت کربن و کاهش نوسان انگیزهٔ سرمایه‌گذاری","title_evidence":"prior-live-preview"}
+{"id":839,"source_url":"https://o839.o-xx.chatgpt.site/","title":"تعرفهٔ کربنی مرزی و تغییر ساختار تجارت صنایع پرانتشار","title_evidence":"prior-live-preview"}
+{"id":840,"source_url":"https://o840.o-xx.chatgpt.site/","title":"یارانهٔ فناوری پاک و خطر قفل‌شدگی حمایت پس از بلوغ بازار","title_evidence":"prior-live-preview"}
+{"id":841,"source_url":"https://o841.o-xx.chatgpt.site/","title":"بازنشستگی زودهنگام دارایی‌های آلاینده و تقسیم هزینهٔ گذار","title_evidence":"prior-live-preview"}
+{"id":842,"source_url":"https://o842.o-xx.chatgpt.site/","title":"تأمین مالی گذار و معیار تشخیص سرمایه‌گذاری واقعاً کاهندهٔ انتشار","title_evidence":"prior-live-preview"}
+{"id":843,"source_url":"https://o843.o-xx.chatgpt.site/","title":"افشای ریسک اقلیمی و تغییر هزینهٔ سرمایهٔ بنگاه‌های در معرض خطر","title_evidence":"prior-live-preview"}
+{"id":844,"source_url":"https://o844.o-xx.chatgpt.site/","title":"بیمهٔ اقلیمی و مسئلهٔ خطر اخلاقی در سرمایه‌گذاری سازگاری","title_evidence":"prior-live-preview"}
+{"id":845,"source_url":"https://o845.o-xx.chatgpt.site/","title":"پرداخت برای خدمات اکوسیستمی و طراحی مشوق برای مالکان زمین","title_evidence":"prior-live-preview"}
+{"id":846,"source_url":"https://o846.o-xx.chatgpt.site/","title":"گذار عادلانه و توزیع هزینهٔ تغییر ساختار اشتغال در مناطق صنعتی","title_evidence":"prior-live-preview"}
+{"id":847,"source_url":"https://o847.o-xx.chatgpt.site/","title":"تصحیح خبر نادرست و اثر قالب اصلاح بر ماندگاری باور اولیه","title_evidence":"prior-live-preview"}
+{"id":848,"source_url":"https://o848.o-xx.chatgpt.site/","title":"برچسب عدم‌قطعیت و فهم مخاطب از برآوردهای خبری","title_evidence":"prior-live-preview"}
+{"id":849,"source_url":"https://o849.o-xx.chatgpt.site/","title":"تیتر احتمالاتی و تفاوت برداشت مخاطب از قطعیت گزارش","title_evidence":"prior-live-preview"}
+{"id":850,"source_url":"https://o850.o-xx.chatgpt.site/","title":"روزنامه‌نگاری داده و نقش انتخاب مخرج در روایت شاخص‌ها","title_evidence":"prior-live-preview"}
+{"id":851,"source_url":"https://o851.o-xx.chatgpt.site/","title":"نمودارهای خبری و اثر مقیاس محور بر استنباط روند","title_evidence":"prior-live-preview"}
+{"id":852,"source_url":"https://o852.o-xx.chatgpt.site/","title":"نقشه‌های موضوعی و سوگیری ادراک ناشی از شیوهٔ طبقه‌بندی داده","title_evidence":"prior-live-preview"}
+{"id":853,"source_url":"https://o853.o-xx.chatgpt.site/","title":"داشبورد خبری و تعادل میان اکتشاف کاربر و هدایت تحریریه","title_evidence":"prior-live-preview"}
+{"id":854,"source_url":"https://o854.o-xx.chatgpt.site/","title":"منبع ناشناس و معیارهای تحریریه برای ارزیابی ادعای پرخطر","title_evidence":"prior-live-preview"}
+{"id":855,"source_url":"https://o855.o-xx.chatgpt.site/","title":"تعارض منافع منبع و شیوهٔ افشای آن در گزارش تخصصی","title_evidence":"prior-live-preview"}
+{"id":856,"source_url":"https://o856.o-xx.chatgpt.site/","title":"خبر فوری و هزینهٔ سرعت برای راستی‌آزمایی چندمنبعی","title_evidence":"prior-live-preview"}
+{"id":857,"source_url":"https://o857.o-xx.chatgpt.site/","title":"تصحیح زندهٔ گزارش و حفظ سابقهٔ ویرایش برای شفافیت","title_evidence":"prior-live-preview"}
+{"id":858,"source_url":"https://o858.o-xx.chatgpt.site/","title":"خبرنامهٔ تخصصی و رابطهٔ اعتماد مخاطب با ثبات حوزهٔ پوشش","title_evidence":"prior-live-preview"}
+{"id":859,"source_url":"https://o859.o-xx.chatgpt.site/","title":"روابط عمومی بحران و زمان‌بندی پذیرش مسئولیت سازمانی","title_evidence":"prior-live-preview"}
+{"id":860,"source_url":"https://o860.o-xx.chatgpt.site/","title":"پیام عذرخواهی سازمانی و تمایز همدلی از پذیرش تقصیر حقوقی","title_evidence":"prior-live-preview"}
+{"id":861,"source_url":"https://o861.o-xx.chatgpt.site/","title":"ارتباط ریسک و توضیح احتمال‌های کم اما پیامدهای شدید","title_evidence":"prior-live-preview"}
+{"id":862,"source_url":"https://o862.o-xx.chatgpt.site/","title":"ارتباط علمی در شرایط عدم‌قطعیت و پرهیز از قطعیت کاذب","title_evidence":"prior-live-preview"}
+{"id":863,"source_url":"https://o863.o-xx.chatgpt.site/","title":"گزارش تحقیقی مبتنی بر اسناد و روش ارزیابی اصالت مدارک","title_evidence":"prior-live-preview"}
+{"id":864,"source_url":"https://o864.o-xx.chatgpt.site/","title":"اقتدار تخصصی و گفت‌وگوی میان دانش‌ها","title_evidence":"prior-live-preview"}
+{"id":865,"source_url":"https://o865.o-xx.chatgpt.site/","title":"نمایش نمودار عمومی و فهم مقایسه","title_evidence":"prior-live-preview"}
+{"id":866,"source_url":"https://o866.o-xx.chatgpt.site/","title":"استعارهٔ علمی و فهم مدل نظری","title_evidence":"prior-live-preview"}
+{"id":867,"source_url":"https://o867.o-xx.chatgpt.site/","title":"ارتباط علم با عموم و فهم محدودیت نتیجه","title_evidence":"prior-live-preview"}
+{"id":868,"source_url":"https://o868.o-xx.chatgpt.site/","title":"سواد علمی و تمایز شاهد از ادعای تخصصی","title_evidence":"prior-live-preview"}
+{"id":869,"source_url":"https://o869.o-xx.chatgpt.site/","title":"مذاکرهٔ قیمت و برداشت از هزینهٔ تولید","title_evidence":"prior-live-preview"}
+{"id":870,"source_url":"https://o870.o-xx.chatgpt.site/","title":"پلتفرم فروش و وابستگی کسب‌وکار کوچک","title_evidence":"prior-live-preview"}
+{"id":871,"source_url":"https://o871.o-xx.chatgpt.site/","title":"خرید مستقیم کشاورزی و اعتماد به کیفیت","title_evidence":"prior-live-preview"}
+{"id":872,"source_url":"https://o872.o-xx.chatgpt.site/","title":"مصرف محلی و شناخت تولیدکننده","title_evidence":"prior-live-preview"}
+{"id":873,"source_url":"https://o873.o-xx.chatgpt.site/","title":"مراسم خرید و تداوم سنت خانوادگی","title_evidence":"prior-live-preview"}
+{"id":874,"source_url":"https://o874.o-xx.chatgpt.site/","title":"هدیهٔ نقدی و معنای رابطهٔ اجتماعی","title_evidence":"prior-live-preview"}
+{"id":875,"source_url":"https://o875.o-xx.chatgpt.site/","title":"گروه آنلاین تخصصی و اعتبار پاسخ همتا","title_evidence":"prior-live-preview"}
+{"id":876,"source_url":"https://o876.o-xx.chatgpt.site/","title":"مسدودسازی مخاطب و مدیریت مرز ارتباط","title_evidence":"prior-live-preview"}
+{"id":877,"source_url":"https://o877.o-xx.chatgpt.site/","title":"خشونت کلامی آنلاین و استفاده از ابزار گزارش","title_evidence":"prior-live-preview"}
+{"id":878,"source_url":"https://o878.o-xx.chatgpt.site/","title":"سازوکار اعتراض و اصلاح تصمیم پلتفرم","title_evidence":"prior-live-preview"}
+{"id":879,"source_url":"https://o879.o-xx.chatgpt.site/","title":"تعدیل محتوا و فهم قاعدهٔ اجتماع آنلاین","title_evidence":"prior-live-preview"}
+{"id":880,"source_url":"https://o880.o-xx.chatgpt.site/","title":"بازنشستگی و تغییر دسترسی به شبکهٔ خدمت","title_evidence":"prior-live-preview"}
+{"id":881,"source_url":"https://o881.o-xx.chatgpt.site/","title":"فاصلهٔ نسل‌ها در استفاده از اطلاعات خدماتی","title_evidence":"prior-live-preview"}
+{"id":882,"source_url":"https://o882.o-xx.chatgpt.site/","title":"نابرابری دیجیتال میان خانوارهای دارای کودک","title_evidence":"prior-live-preview"}
+{"id":883,"source_url":"https://o883.o-xx.chatgpt.site/","title":"توزیع جغرافیایی مراکز حمایت و فاصلهٔ دسترسی","title_evidence":"prior-live-preview"}
+{"id":884,"source_url":"https://o884.o-xx.chatgpt.site/","title":"خستگی داوطلب و تداوم فعالیت حمایتی","title_evidence":"prior-live-preview"}
+{"id":885,"source_url":"https://o885.o-xx.chatgpt.site/","title":"شبکهٔ داوطلبان و پوشش نیاز اضطراری محله","title_evidence":"prior-live-preview"}
+{"id":886,"source_url":"https://o886.o-xx.chatgpt.site/","title":"حضور همراه و اختیار مراجعه‌کنندهٔ دارای معلولیت","title_evidence":"prior-live-preview"}
+{"id":887,"source_url":"https://o887.o-xx.chatgpt.site/","title":"زبان ساده در دستور خدمت برای افراد دارای محدودیت شناختی","title_evidence":"prior-live-preview"}
+{"id":888,"source_url":"https://o888.o-xx.chatgpt.site/","title":"دسترس‌پذیری ارتباطی خدمت برای افراد ناشنوا","title_evidence":"prior-live-preview"}
+{"id":889,"source_url":"https://o889.o-xx.chatgpt.site/","title":"مقاله: وقفه‌های اعلان دیجیتال و جابه‌جایی توجه در تکالیف خواندن","title_evidence":"prior-live-preview"}
+{"id":890,"source_url":"https://o890.o-xx.chatgpt.site/","title":"تجربهٔ تبعیض و اعتماد به فرایند خدمت","title_evidence":"prior-live-preview"}
+{"id":891,"source_url":"https://o891.o-xx.chatgpt.site/","title":"واسطه‌گری محلی و یافتن خدمت مناسب","title_evidence":"prior-live-preview"}
+{"id":892,"source_url":"https://o892.o-xx.chatgpt.site/","title":"سواد نوشتاری و پرکردن فرم رسمی","title_evidence":"prior-live-preview"}
+{"id":893,"source_url":"https://o893.o-xx.chatgpt.site/","title":"دسترسی به اینترنت و تکمیل درخواست حمایت","title_evidence":"prior-live-preview"}
+{"id":894,"source_url":"https://o894.o-xx.chatgpt.site/","title":"نابرابری زمانی و استفاده از خدمات اداری","title_evidence":"prior-live-preview"}
+{"id":895,"source_url":"https://o895.o-xx.chatgpt.site/","title":"درآمد و دسترسی به فراغت کم‌هزینه","title_evidence":"prior-live-preview"}
+{"id":896,"source_url":"https://o896.o-xx.chatgpt.site/","title":"کار بی‌ثبات و امکان مرخصی مراقبتی","title_evidence":"prior-live-preview"}
+{"id":897,"source_url":"https://o897.o-xx.chatgpt.site/","title":"بیمه و فهم حدود پوشش خدمت","title_evidence":"prior-live-preview"}
+{"id":898,"source_url":"https://o898.o-xx.chatgpt.site/","title":"سهم هزینهٔ سلامت و حذف هزینه‌های دیگر خانوار","title_evidence":"prior-live-preview"}
+{"id":899,"source_url":"https://o899.o-xx.chatgpt.site/","title":"فاصلهٔ اطلاعاتی و آگاهی از خدمت محلی","title_evidence":"prior-live-preview"}
+{"id":900,"source_url":"https://o900.o-xx.chatgpt.site/","title":"بار اداری دریافت حمایت اجتماعی","title_evidence":"prior-live-preview"}
+{"id":901,"source_url":"https://o901.o-xx.chatgpt.site/","title":"نقشهٔ شهری و بازنمایی نیاز افراد نابینا","title_evidence":"prior-live-preview"}
+{"id":902,"source_url":"https://o902.o-xx.chatgpt.site/","title":"سرویس مدرسه و تعامل میان محله‌ها","title_evidence":"prior-live-preview"}
+{"id":903,"source_url":"https://o903.o-xx.chatgpt.site/","title":"شهر کودک‌پذیر و آزادی حرکت نزدیک خانه","title_evidence":"prior-live-preview"}
+{"id":904,"source_url":"https://o904.o-xx.chatgpt.site/","title":"هزینهٔ سفر و دسترسی به فرصت شهری","title_evidence":"prior-live-preview"}
+{"id":905,"source_url":"https://o905.o-xx.chatgpt.site/","title":"ازدحام حمل‌ونقل و تنظیم فاصلهٔ مسافران","title_evidence":"prior-live-preview"}
+{"id":906,"source_url":"https://o906.o-xx.chatgpt.site/","title":"انتظار اتوبوس و فهم اطلاع زمان رسیدن","title_evidence":"prior-live-preview"}
+{"id":907,"source_url":"https://o907.o-xx.chatgpt.site/","title":"تقاطع شلوغ و راهبرد عبور عابر","title_evidence":"prior-live-preview"}
+{"id":908,"source_url":"https://o908.o-xx.chatgpt.site/","title":"مسیر دوچرخه و ادراک پیوستگی سفر","title_evidence":"prior-live-preview"}
+{"id":909,"source_url":"https://o909.o-xx.chatgpt.site/","title":"فضای ورزشی عمومی و توزیع زمان استفاده","title_evidence":"prior-live-preview"}
+{"id":910,"source_url":"https://o910.o-xx.chatgpt.site/","title":"مرکز فرهنگی محله و مشارکت داوطلبانه","title_evidence":"prior-live-preview"}
+{"id":911,"source_url":"https://o911.o-xx.chatgpt.site/","title":"کتابخانهٔ عمومی و دسترسی محلی به اطلاعات","title_evidence":"prior-live-preview"}
+{"id":912,"source_url":"https://o912.o-xx.chatgpt.site/","title":"مکان سوم و گفت‌وگوی غیررسمی محله","title_evidence":"prior-live-preview"}
+{"id":913,"source_url":"https://o913.o-xx.chatgpt.site/","title":"دست‌فروشی و الگوی استفاده از پیاده‌رو","title_evidence":"prior-live-preview"}
+{"id":914,"source_url":"https://o914.o-xx.chatgpt.site/","title":"بازار محلی و آشنایی میان فروشنده و خریدار","title_evidence":"prior-live-preview"}
+{"id":915,"source_url":"https://o915.o-xx.chatgpt.site/","title":"نوسازی محله و حفظ کسب‌وکار قدیمی","title_evidence":"prior-live-preview"}
+{"id":916,"source_url":"https://o916.o-xx.chatgpt.site/","title":"ناپایداری مسکن و جابه‌جایی شبکهٔ خدمات","title_evidence":"prior-live-preview"}
+{"id":917,"source_url":"https://o917.o-xx.chatgpt.site/","title":"اجاره‌نشینی کوتاه‌مدت و سرمایه‌گذاری در همسایگی","title_evidence":"prior-live-preview"}
+{"id":918,"source_url":"https://o918.o-xx.chatgpt.site/","title":"مدیریت پسماند ساختمانی و مسئولیت مشترک","title_evidence":"prior-live-preview"}
+{"id":919,"source_url":"https://o919.o-xx.chatgpt.site/","title":"صدای همسایه و مذاکرهٔ حد قابل‌قبول","title_evidence":"prior-live-preview"}
+{"id":920,"source_url":"https://o920.o-xx.chatgpt.site/","title":"آپارتمان‌نشینی و توافق بر قواعد همسایگی","title_evidence":"prior-live-preview"}
+{"id":921,"source_url":"https://o921.o-xx.chatgpt.site/","title":"تراکم مسکن و استفاده از فضای مشترک","title_evidence":"prior-live-preview"}
+{"id":922,"source_url":"https://o922.o-xx.chatgpt.site/","title":"زمین بازی و امکان نظارت مراقب","title_evidence":"prior-live-preview"}
+{"id":923,"source_url":"https://o923.o-xx.chatgpt.site/","title":"باغ اجتماعی و تقسیم مسئولیت نگهداری","title_evidence":"prior-live-preview"}
+{"id":924,"source_url":"https://o924.o-xx.chatgpt.site/","title":"فضای سبز کوچک و استفادهٔ روزمرهٔ محله","title_evidence":"prior-live-preview"}
+{"id":925,"source_url":"https://o925.o-xx.chatgpt.site/","title":"سایه در مسیر و انتخاب پیاده‌روی تابستانی","title_evidence":"prior-live-preview"}
+{"id":926,"source_url":"https://o926.o-xx.chatgpt.site/","title":"نیمکت شهری و توقف سالمندان","title_evidence":"prior-live-preview"}
+{"id":927,"source_url":"https://o927.o-xx.chatgpt.site/","title":"دیدپذیری فضای عمومی و حضور زنان","title_evidence":"prior-live-preview"}
+{"id":928,"source_url":"https://o928.o-xx.chatgpt.site/","title":"نورپردازی گذر و احساس امنیت شبانه","title_evidence":"prior-live-preview"}
+{"id":929,"source_url":"https://o929.o-xx.chatgpt.site/","title":"خوانایی خیابان و جهت‌یابی تازه‌وارد","title_evidence":"prior-live-preview"}
+{"id":930,"source_url":"https://o930.o-xx.chatgpt.site/","title":"پیاده‌پذیری محله و انتخاب سفر کوتاه","title_evidence":"prior-live-preview"}
+{"id":931,"source_url":"https://o931.o-xx.chatgpt.site/","title":"دوری محل سکونت و نظم حضور شغلی","title_evidence":"prior-live-preview"}
+{"id":932,"source_url":"https://o932.o-xx.chatgpt.site/","title":"بازنشستگی تدریجی و انتقال وظایف تخصصی","title_evidence":"prior-live-preview"}
+{"id":933,"source_url":"https://o933.o-xx.chatgpt.site/","title":"کار غیررسمی و اثبات سابقهٔ مهارت","title_evidence":"prior-live-preview"}
+{"id":934,"source_url":"https://o934.o-xx.chatgpt.site/","title":"کار پلتفرمی و اختیار پذیرش سفارش","title_evidence":"prior-live-preview"}
+{"id":935,"source_url":"https://o935.o-xx.chatgpt.site/","title":"فضای کار باز و محرمانگی گفت‌وگوی حرفه‌ای","title_evidence":"prior-live-preview"}
+{"id":936,"source_url":"https://o936.o-xx.chatgpt.site/","title":"تیم موقت و شکل‌گیری رویهٔ هماهنگی","title_evidence":"prior-live-preview"}
+{"id":937,"source_url":"https://o937.o-xx.chatgpt.site/","title":"شبکهٔ غیررسمی سازمان و یافتن پاسخ تخصصی","title_evidence":"prior-live-preview"}
+{"id":938,"source_url":"https://o938.o-xx.chatgpt.site/","title":"میانجی‌گری سازمانی و حل اختلاف همکاران","title_evidence":"prior-live-preview"}
+{"id":939,"source_url":"https://o939.o-xx.chatgpt.site/","title":"سوءاستفاده از قدرت و واکنش به دستور نامناسب","title_evidence":"prior-live-preview"}
+{"id":940,"source_url":"https://o940.o-xx.chatgpt.site/","title":"رهبری خدمتگزار و دسترسی کارکنان به منابع","title_evidence":"prior-live-preview"}
+{"id":941,"source_url":"https://o941.o-xx.chatgpt.site/","title":"چرخش شغلی و انعطاف در جایگزینی کارکنان","title_evidence":"prior-live-preview"}
+{"id":942,"source_url":"https://o942.o-xx.chatgpt.site/","title":"غنی‌سازی شغل و مسئولیت تصمیم عملیاتی","title_evidence":"prior-live-preview"}
+{"id":943,"source_url":"https://o943.o-xx.chatgpt.site/","title":"طراحی شغل و تنوع مهارت مورد استفاده","title_evidence":"prior-live-preview"}
+{"id":944,"source_url":"https://o944.o-xx.chatgpt.site/","title":"مربی‌گری شغلی و تعیین هدف عملکرد","title_evidence":"prior-live-preview"}
+{"id":945,"source_url":"https://o945.o-xx.chatgpt.site/","title":"منتورینگ و انتقال تجربهٔ حرفه‌ای","title_evidence":"prior-live-preview"}
+{"id":946,"source_url":"https://o946.o-xx.chatgpt.site/","title":"جامعه‌پذیری سازمانی و فهم قواعد نانوشته","title_evidence":"prior-live-preview"}
+{"id":947,"source_url":"https://o947.o-xx.chatgpt.site/","title":"بازخورد سرپرست و یادگیری کارمند تازه‌وارد","title_evidence":"prior-live-preview"}
+{"id":948,"source_url":"https://o948.o-xx.chatgpt.site/","title":"امنیت روانی تیم و گزارش خطای عملیاتی","title_evidence":"prior-live-preview"}
+{"id":949,"source_url":"https://o949.o-xx.chatgpt.site/","title":"تعارض نقش و اولویت‌بندی درخواست مدیران","title_evidence":"prior-live-preview"}
+{"id":950,"source_url":"https://o950.o-xx.chatgpt.site/","title":"ابهام نقش و خطای تحویل وظیفهٔ کاری","title_evidence":"prior-live-preview"}
+{"id":951,"source_url":"https://o951.o-xx.chatgpt.site/","title":"مشارکت خانواده در تکلیف و استقلال پاسخ کودک","title_evidence":"prior-live-preview"}
+{"id":952,"source_url":"https://o952.o-xx.chatgpt.site/","title":"رقابت کلاسی و همکاری در تبادل یادداشت","title_evidence":"prior-live-preview"}
+{"id":953,"source_url":"https://o953.o-xx.chatgpt.site/","title":"امنیت محیط آزمایشگاه و یادگیری رویهٔ عملی","title_evidence":"prior-live-preview"}
+{"id":954,"source_url":"https://o954.o-xx.chatgpt.site/","title":"تربیت معلم و بازاندیشی دربارهٔ مشاهدهٔ کلاس","title_evidence":"prior-live-preview"}
+{"id":955,"source_url":"https://o955.o-xx.chatgpt.site/","title":"رابطهٔ ارزشیابی درس و کیفیت تدریس ادراک‌شده","title_evidence":"prior-live-preview"}
+{"id":956,"source_url":"https://o956.o-xx.chatgpt.site/","title":"مشاورهٔ آموزشی و فهم مسیر واحدهای دانشگاه","title_evidence":"prior-live-preview"}
+{"id":957,"source_url":"https://o957.o-xx.chatgpt.site/","title":"هزینهٔ جانبی تحصیل و مشارکت فوق‌برنامه","title_evidence":"prior-live-preview"}
+{"id":958,"source_url":"https://o958.o-xx.chatgpt.site/","title":"دسترسی روستایی به آموزش تخصصی","title_evidence":"prior-live-preview"}
+{"id":959,"source_url":"https://o959.o-xx.chatgpt.site/","title":"آموزش بزرگسال و تجربهٔ قبلی شغلی","title_evidence":"prior-live-preview"}
+{"id":960,"source_url":"https://o960.o-xx.chatgpt.site/","title":"کارآموزی و اتصال دانش نظری به وظیفه","title_evidence":"prior-live-preview"}
+{"id":961,"source_url":"https://o961.o-xx.chatgpt.site/","title":"آموزش مهارت فنی و بازخورد عملکرد عملی","title_evidence":"prior-live-preview"}
+{"id":962,"source_url":"https://o962.o-xx.chatgpt.site/","title":"صداقت علمی و فهم مرز بازنویسی","title_evidence":"prior-live-preview"}
+{"id":963,"source_url":"https://o963.o-xx.chatgpt.site/","title":"امتحان کتاب‌باز و نوع پردازش پاسخ","title_evidence":"prior-live-preview"}
+{"id":964,"source_url":"https://o964.o-xx.chatgpt.site/","title":"آموزش از راه دور و دسترسی به بازخورد","title_evidence":"prior-live-preview"}
+{"id":965,"source_url":"https://o965.o-xx.chatgpt.site/","title":"کلاس معکوس و آمادگی پیش از جلسه","title_evidence":"prior-live-preview"}
+{"id":966,"source_url":"https://o966.o-xx.chatgpt.site/","title":"انتظار معلم و فرصت پاسخ دانش‌آموز","title_evidence":"prior-live-preview"}
+{"id":967,"source_url":"https://o967.o-xx.chatgpt.site/","title":"جابجایی مدرسه و انتقال پروندهٔ یادگیری","title_evidence":"prior-live-preview"}
+{"id":968,"source_url":"https://o968.o-xx.chatgpt.site/","title":"غیبت مکرر و پیوستگی آموزش","title_evidence":"prior-live-preview"}
+{"id":969,"source_url":"https://o969.o-xx.chatgpt.site/","title":"گذار مدرسهٔ کوچک به مدرسهٔ بزرگ","title_evidence":"prior-live-preview"}
+{"id":970,"source_url":"https://o970.o-xx.chatgpt.site/","title":"کتابخانهٔ مدرسه و جست‌وجوی منبع پژوهش","title_evidence":"prior-live-preview"}
+{"id":971,"source_url":"https://o971.o-xx.chatgpt.site/","title":"تفاوت دسترسی به کتاب و عادت مطالعهٔ مدرسه‌ای","title_evidence":"prior-live-preview"}
+{"id":972,"source_url":"https://o972.o-xx.chatgpt.site/","title":"آموزش ترمیمی و شناسایی پیش‌نیاز ناقص","title_evidence":"prior-live-preview"}
+{"id":973,"source_url":"https://o973.o-xx.chatgpt.site/","title":"انتخاب موضوع تکلیف و استمرار فعالیت","title_evidence":"prior-live-preview"}
+{"id":974,"source_url":"https://o974.o-xx.chatgpt.site/","title":"بازخورد نمره‌ای و برداشت از معیار موفقیت","title_evidence":"prior-live-preview"}
+{"id":975,"source_url":"https://o975.o-xx.chatgpt.site/","title":"برنامهٔ تکلیف خانگی و فرصت تمرین","title_evidence":"prior-live-preview"}
+{"id":976,"source_url":"https://o976.o-xx.chatgpt.site/","title":"چرخش ذهنی اشیای سه‌بعدی","title_evidence":"prior-live-preview"}
+{"id":977,"source_url":"https://o977.o-xx.chatgpt.site/","title":"حافظهٔ کاری و دنبال‌کردن دستورهای چندمرحله‌ای","title_evidence":"prior-live-preview"}
+{"id":978,"source_url":"https://o978.o-xx.chatgpt.site/","title":"بازداری پاسخ در تکالیف توقف ناگهانی","title_evidence":"prior-live-preview"}
+{"id":979,"source_url":"https://o979.o-xx.chatgpt.site/","title":"توجه انتخابی به چهره در جمعیت متحرک","title_evidence":"prior-live-preview"}
+{"id":980,"source_url":"https://o980.o-xx.chatgpt.site/","title":"ازدحام دیداری و یافتن نشانه در تابلوهای راهنما","title_evidence":"prior-live-preview"}
+{"id":981,"source_url":"https://o981.o-xx.chatgpt.site/","title":"جابه‌جایی نوبت گفت‌وگو و اصلاح سوءفهم در کلاس چندزبانه","title_evidence":"prior-live-preview"}
+{"id":982,"source_url":"https://o982.o-xx.chatgpt.site/","title":"انگ ادراک‌شده و تأخیر در مراجعه به خدمات روان‌شناختی","title_evidence":"prior-live-preview"}
+{"id":983,"source_url":"https://o983.o-xx.chatgpt.site/","title":"سواد مالی و تصمیم پس‌انداز در درآمدهای ناپایدار","title_evidence":"prior-live-preview"}
+{"id":984,"source_url":"https://o984.o-xx.chatgpt.site/","title":"موانع دسترس‌پذیری حمل‌ونقل و مشارکت اجتماعی افراد دارای محدودیت حرکتی","title_evidence":"prior-live-preview"}
+{"id":985,"source_url":"https://o985.o-xx.chatgpt.site/","title":"پیوندهای بین‌گروهی و دسترسی تازه‌واردان به اطلاعات شغلی","title_evidence":"prior-live-preview"}
+{"id":986,"source_url":"https://o986.o-xx.chatgpt.site/","title":"دلبستگی به مکان و تصمیم به ماندن در محلهٔ در حال تغییر","title_evidence":"prior-live-preview"}
+{"id":987,"source_url":"https://o987.o-xx.chatgpt.site/","title":"سروصدای محیط کلاس و فهم گفتار در دانش‌آموزان","title_evidence":"prior-live-preview"}
+{"id":988,"source_url":"https://o988.o-xx.chatgpt.site/","title":"سرمایهٔ فرهنگی خانواده و انتخاب رشته در گذار به دانشگاه","title_evidence":"prior-live-preview"}
+{"id":989,"source_url":"https://o989.o-xx.chatgpt.site/","title":"سواد دیجیتال و موانع استفادهٔ سالمندان از خدمات عمومی آنلاین","title_evidence":"prior-live-preview"}
+{"id":990,"source_url":"https://o990.o-xx.chatgpt.site/","title":"تقسیم کار مراقبتی بدون دستمزد و فقر زمانی در خانواده","title_evidence":"prior-live-preview"}
+{"id":991,"source_url":"https://o991.o-xx.chatgpt.site/","title":"کار هیجانی و خستگی شغلی در مشاغل خدماتی","title_evidence":"prior-live-preview"}
+{"id":992,"source_url":"https://o992.o-xx.chatgpt.site/","title":"هنجار توصیفی و رعایت تفکیک پسماند در محله","title_evidence":"prior-live-preview"}
+{"id":993,"source_url":"https://o993.o-xx.chatgpt.site/","title":"الگوهای ارتباطی شبکه و گسترش شایعه در اجتماعات آنلاین","title_evidence":"prior-live-preview"}
+{"id":994,"source_url":"https://o994.o-xx.chatgpt.site/","title":"نشانه‌های اعتبار منبع و ارزیابی صحت خبر در رسانه‌های دیجیتال","title_evidence":"prior-live-preview"}
+{"id":995,"source_url":"https://o995.o-xx.chatgpt.site/","title":"اطلاعات پس از رویداد و خطا در حافظهٔ شاهد","title_evidence":"prior-live-preview"}
+{"id":996,"source_url":"https://o996.o-xx.chatgpt.site/","title":"تمرین بازیابی و فاصله‌گذاری در ماندگاری یادگیری واژگان","title_evidence":"prior-live-preview"}
+{"id":997,"source_url":"https://o997.o-xx.chatgpt.site/","title":"بهزیستی روان‌شناختی چندبعدی؛ چارچوب نظری، سنجش و کاربردهای پژوهشی","title_evidence":"prior-live-preview"}
+{"id":998,"source_url":"https://o998.o-xx.chatgpt.site/","title":"قاب‌بندی سود و زیان در انتخاب‌های مصرفی","title_evidence":"prior-live-preview"}
